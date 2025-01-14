@@ -1,0 +1,1703 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+bora	meenujkatsi	0001	#	#	#nc	#nc				
+bora	meenujkatsi	0001	taálleu	grandmother	nc	nc				
+bora	meenujkatsi	0001	ó-ke	1SG-ACC	nc	nc				
+bora	meenujkatsi	0001	d=	2SG.IMP=	nc	nc				
+bora	meenujkatsi	0001	uubálle	tell	nc	nc				
+bora	meenujkatsi	0001	tsa-ne	one-INAN	nc	nc				
+bora	meenujkatsi	0001	uubálle	story	nc	nc				
+bora	meenujkatsi	0002	#	#	#nc	#nc				
+bora	meenujkatsi	0002	aca	Q.doubt	nc	nc				
+bora	meenujkatsi	0002	ke-ne	which-INAN	nc	nc				
+bora	meenujkatsi	0002	uubálle	story	nc	nc				
+bora	meenujkatsi	0002	í-ne	this-INAN	nc	nc				
+bora	meenujkatsi	0002	u-ke	2SG-ACC	nc	nc				
+bora	meenujkatsi	0002	ó=	1SG=	nc	nc				
+bora	meenujkatsi	0002	úúballe-V	tell-FUT	nc	nc				
+bora	meenujkatsi	0003	#	#	#nc	#nc				
+bora	meenujkatsi	0003	í-du	this-CMPV	nc	nc				
+bora	meenujkatsi	0003	tsa-ne	one-INAN	nc	nc				
+bora	meenujkatsi	0003	uubálle	story	nc	nc				
+bora	meenujkatsi	0003	#	#	#nc	#nc				
+bora	meenujkatsi	0003	í-ne	this-INAN	nc	nc				
+bora	meenujkatsi	0003	ó=	1SG=	nc	nc				
+bora	meenujkatsi	0003	waajácu-ki	know-PURP	nc	nc				
+bora	meenujkatsi	0003	#	#	#nc	#nc				
+bora	meenujkatsi	0003	me=	1PL.POSS=	nc	nc				
+bora	meenujkatsi	0003	ɨ́hdé	old	nc	nc				
+bora	meenujkatsi	0003	múnaa-úvu-pe	people-deceased-REM	nc	nc				
+bora	meenujkatsi	0003	muhdu	how	nc	nc				
+bora	meenujkatsi	0003	piivye-tso-híjcya-ne	develop-CAUS-REP-INAN	nc	nc				
+bora	meenujkatsi	0004	#	#	##	##				
+bora	meenujkatsi	0004	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0004	u-ke	2SG-ACC	pro.2:p2	pro	2	p2		
+bora	meenujkatsi	0004	ó=	1SG=	=pro.1:a	=pro	1	a		
+bora	meenujkatsi	0004	úúballe-V	tell-FUT	v:pred	v		pred		
+bora	meenujkatsi	0004	meenu-jcatsi	hit-RECP	np:p	np		p	2002	new
+bora	meenujkatsi	0004	#	#	#cc:appos	#cc		appos		
+bora	meenujkatsi	0004	muhdu	how	other	other				
+bora	meenujkatsi	0004	meenu-jcatsi-híjcya	hit-RECP-REP	v:pred	v		pred		
+bora	meenujkatsi	0004	-me	-PL	-pro.h:s	-pro	h	s	2001	new
+bora	meenujkatsi	0005	#	#	#cc:appos	#cc		appos		
+bora	meenujkatsi	0005	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0005	muhdu	how	other	other				
+bora	meenujkatsi	0005	nee-ne-ri	be-INAN-INST	other	other				
+bora	meenujkatsi	0005	tahja-híjcya	defeat-REP	v:pred	v		pred		
+bora	meenujkatsi	0005	-me	-PL	-pro.h:s	-pro	h	s	2001	
+bora	meenujkatsi	0006	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0006	muhdu-hja	how-IFR	other	other				
+bora	meenujkatsi	0006	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0006	meenu-jcatsi	hit-RECP	np:s	np		s	2002	
+bora	meenujkatsi	0006	tujkénu-va-ne	beginning-VBZ.have-REC	v:pred	v		pred		
+bora	meenujkatsi	0007	#	#	##	##				
+bora	meenujkatsi	0007	tujkénu	begin	v:pred	v		pred		
+bora	meenujkatsi	0007	-me	-PL	-pro.h:s	-pro	h	s	2001	
+bora	meenujkatsi	0007	-va-pe	-QUOT-REM	-rv	-rv				
+bora	meenujkatsi	0007	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0007	#	#	#cc:other	#cc		other		
+bora	meenujkatsi	0007	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0007	meenu-jcatsi	hit-RECP	np:pred	np		pred	2002	
+bora	meenujkatsi	0007	ijcya-i-ne	be-FUT-INAN	cop	cop				
+bora	meenujkatsi	0007	#	#	##	##				
+bora	meenujkatsi	0007	tsaaté-	NC	nc	nc				
+bora	meenujkatsi	0007	tsa-te	one-PL	np:other	np		other	2079	new
+bora	meenujkatsi	0007	ja-va-pe	house-QUOT-REM	np:pred	np		pred	2003	new
+bora	meenujkatsi	0007	ijcya	be	cop	cop				
+bora	meenujkatsi	0007	-ja	-CLF.cover	-other	-other			2003	
+bora	meenujkatsi	0007	#	#	#rc	#rc				
+bora	meenujkatsi	0007	hallu-tu	on-ABL	np:obl	np		obl	2003	
+bora	meenujkatsi	0007	mɨa	true	other	other				
+bora	meenujkatsi	0007	múnaa	people	np.h:s	np	h	s	2004	new
+bora	meenujkatsi	0007	pee-híjcya	go-REP	v:pred	v		pred		
+bora	meenujkatsi	0007	#	#	##	##				
+bora	meenujkatsi	0007	#	#	#rc.h:poss	#rc	h	poss		
+bora	meenujkatsi	0007	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0007	úmeco-he	anger-CLF.tree	np:s	np		s	2002	
+bora	meenujkatsi	0007	piívye-i-ne	origin-CLF.stick-INAN	v:pred	v		pred		
+bora	meenujkatsi	0007	%	%	%	%				
+bora	meenujkatsi	0007	hajki-mu-va-pe	relative-PL-QUOT-REM	np.h:dt	np	h	dt	2008	new
+bora	meenujkatsi	0007	pee-híjcya	go-REP	v:pred	v		pred		
+bora	meenujkatsi	0007	i-	3.POSS-	-ln_pro:poss	-ln_pro		poss	2003	
+bora	meenujkatsi	0007	hajki-mu	relative-PL	np.h:a	np	h	a	2008	
+bora	meenujkatsi	0007	ihñe	NC	nc	nc				
+bora	meenujkatsi	0008	#	#	##	##				
+bora	meenujkatsi	0008	ɨɨne	what	other	other				
+bora	meenujkatsi	0008	piichu-híjcya	carry-REP	v:pred	v		pred		
+bora	meenujkatsi	0008	-me	-PL	-pro.h:s	-pro	h	s	2004	
+bora	meenujkatsi	0008	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2004	
+bora	meenujkatsi	0008	tsɨ́ɨ́mene-mu-ke-re	child-PL-ACC-REST	np.h:p	np	h	p	2005	new
+bora	meenujkatsi	0008	#	#	#rc	#rc				
+bora	meenujkatsi	0008	iá-me-du	animal-PL-CMPV	np.n:pred	np	n	pred		
+bora	meenujkatsi	0008	ijcya	be	cop	cop				
+bora	meenujkatsi	0008	-me	-PL	-pro.h:s	-pro	h	s	2005	
+bora	meenujkatsi	0008	-ke	-ACC	-other	-other				
+bora	meenujkatsi	0009	#	#	##	##				
+bora	meenujkatsi	0009	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0009	di-Vbe	3-M.SG	pro_h_s	pro_h_s			2006	
+bora	meenujkatsi	0009	tsa-pi	one-CLF.man	np.h:a_ds	np	h	a_ds	2006	new
+bora	meenujkatsi	0009	mewa-ke	wife-ACC	np.h:p	np	h	p	2007	new
+bora	meenujkatsi	0009	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0009	#	#	##ds	##ds				
+bora	meenujkatsi	0009	aátye	those	other	other				
+bora	meenujkatsi	0009	me-	1PL.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2011	bridging
+bora	meenujkatsi	0009	hajki-mu	relative-PL	np.h:other	np	h	other	2008	
+bora	meenujkatsi	0009	taába-mu	wife-PL	np.h:s	np	h	s	2009	new
+bora	meenujkatsi	0009	táúmei-pi-wuu	ask_for-in_excess-DIM	other:pred	other		pred		
+bora	meenujkatsi	0009	ijcya-híjcya-hi	be-REP-PRED	cop	cop				
+bora	meenujkatsi	0010	#	#	##	##				
+bora	meenujkatsi	0010	#	#	#ds.neg	#ds.neg				
+bora	meenujkatsi	0010	#	#	#ds_ac	#ds_ac				
+bora	meenujkatsi	0010	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0010	di-te	3-PL	pro.h:a	pro	h	a	2009	
+bora	meenujkatsi	0010	0	0	0:p	0		p		
+bora	meenujkatsi	0010	táúmei-híjcya-hajchííjyu	ask_for-REP-COND	v:pred	v		pred		
+bora	meenujkatsi	0010	%	%	%	%				
+bora	meenujkatsi	0010	0	0	0:p	0		p		
+bora	meenujkatsi	0010	me=	PL.IMP=	=pro.2:a	=pro	2	a	2007	
+bora	meenujkatsi	0010	táúmei-di-ne	ask_for-IMP.NEG-INAN	v:pred	v		pred		
+bora	meenujkatsi	0010	#	#	#ds.neg	#ds.neg				
+bora	meenujkatsi	0010	#	#	#ds_ac	#ds_ac				
+bora	meenujkatsi	0010	di-te	3-PL	pro.h:a	pro	h	a	2009	
+bora	meenujkatsi	0010	#	#	#ac.neg	#ac.neg				
+bora	meenujkatsi	0010	lleebo-tu	listen-NEG	v:pred	v		pred		
+bora	meenujkatsi	0010	-me	-PL	-pro.h:s	-pro	h	s	2009	
+bora	meenujkatsi	0010	%	%	%	%				
+bora	meenujkatsi	0010	0	0	0:p	0		p		
+bora	meenujkatsi	0010	táúmei-híjcya-hajchííjyu	ask_for-REP-COND	v:pred	v		pred		
+bora	meenujkatsi	0010	#	#	#ds_ac	#ds_ac				
+bora	meenujkatsi	0010	di-te	3-PL	pro.h:s	pro	h	s	2009	
+bora	meenujkatsi	0010	doo-hajchííjyu	eat_meat-COND	v:pred	v		pred		
+bora	meenujkatsi	0010	%	%	%	%				
+bora	meenujkatsi	0010	me=	PL.IMP=	=pro.2:s	=pro	2	s	2007	
+bora	meenujkatsi	0010	doo-di-ne	eat_meat-IMP.NEG-INAN	v:pred	v		pred		
+bora	meenujkatsi	0010	di-te	3-PL	ln_pro.h:poss	ln_pro	h	poss	2009	
+bora	meenujkatsi	0010	élle-tu	there-ABL	np:obl	np		obl		
+bora	meenujkatsi	0010	%	%	%	%				
+bora	meenujkatsi	0010	0	0	0.h:s_ds	0	h	s_ds	2006	
+bora	meenujkatsi	0010	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0011	#	#	##	##				
+bora	meenujkatsi	0011	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0011	neé-	NC	nc	nc				
+bora	meenujkatsi	0011	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0011	-lle	-F.SG	-pro.h:s_ds	-pro	h	s_ds	2007	
+bora	meenujkatsi	0011	#	#	#ds	#ds				
+bora	meenujkatsi	0011	ta-	1SG.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2007	
+bora	meenujkatsi	0011	tajɨ	husband	np.h:a	np	h	a	2006	
+bora	meenujkatsi	0011	íllu	so	other	other				
+bora	meenujkatsi	0011	ó-ke	1SG-ACC	pro.1:p2	pro	1	p2	2007	
+bora	meenujkatsi	0011	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0011	#	#	#cc.neg:p	#cc.neg		p		
+bora	meenujkatsi	0011	tsáha-va	no-QUOT	other	other				
+bora	meenujkatsi	0011	ámuha	2PL	pro.2:a	pro	2	a	2009	
+bora	meenujkatsi	0011	0	0	0:p	0		p		
+bora	meenujkatsi	0011	me=	PL.IMP=	=lv_pro_h_a	=lv_pro_h_a			2009	
+bora	meenujkatsi	0011	táúmei-i-tu	ask_for-FUT-NEG	v:pred	v		pred		
+bora	meenujkatsi	0011	#	#	#ac	#ac				
+bora	meenujkatsi	0011	aátye	those	pro.h:a	pro	h	a	2004	
+bora	meenujkatsi	0011	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0011	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2004	
+bora	meenujkatsi	0011	tsɨ́ɨ́me-ke-re-va	children-ACC-REST-QUOT	np.h:p	np	h	p	2005	
+bora	meenujkatsi	0011	#	#	#rc	#rc				
+bora	meenujkatsi	0011	iá-me-du	animal-PL-CMPV	np.n:other	np	n	other		
+bora	meenujkatsi	0011	0	0	0.h:p	0	h	p	2005	
+bora	meenujkatsi	0011	i=	3=	=pro.h:a	=pro	h	a	2004	
+bora	meenujkatsi	0011	ípívye-tso-ne	create-CAUS-INAN	v:pred	v		pred		
+bora	meenujkatsi	0011	%	%	%	%				
+bora	meenujkatsi	0011	tsajtye-híjcya	carry-REP	v:pred	v		pred		
+bora	meenujkatsi	0011	-me	-PL	-rv_pro_h_a	-rv_pro_h_a			2004	
+bora	meenujkatsi	0012	#	#	##	##				
+bora	meenujkatsi	0012	aa-ró-ne	CON-FRUS-INAN	other	other				
+bora	meenujkatsi	0012	idyé	also	other	other				
+bora	meenujkatsi	0012	táúmei-pi-wuu	ask_for-in_excess-DIM	np:p	np		p		
+bora	meenujkatsi	0012	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0012	-me	-PL	-pro.h:a	-pro	h	a	2009	
+bora	meenujkatsi	0012	#	#	#nc	#nc				
+bora	meenujkatsi	0012	aa-ne-lliíhye	CON-INAN-BEN	nc	nc				
+bora	meenujkatsi	0012	tsáha	no	nc	nc				
+bora	meenujkatsi	0012	múu	suggestion	nc	nc				
+bora	meenujkatsi	0012	di-	2SG.POSS-	nc	nc				
+bora	meenujkatsi	0012	taába-ke	wife-ACC	nc	nc				
+bora	meenujkatsi	0012	0	0	nc	nc				
+bora	meenujkatsi	0012	ɨhvejtso-tu	let-NEG	nc	nc				
+bora	meenujkatsi	0012	#	#	#nc	#nc				
+bora	meenujkatsi	0012	di-lle	3-F.SG	nc	nc				
+bora	meenujkatsi	0012	i=	3=	nc	nc				
+bora	meenujkatsi	0012	táúmei-tu-ki	ask_for-NEG-PURP	nc	nc				
+bora	meenujkatsi	0012	tsi-te	other-PL	nc	nc				
+bora	meenujkatsi	0012	majcho	eat	nc	nc				
+bora	meenujkatsi	0012	#	#	#nc	#nc				
+bora	meenujkatsi	0012	ímí-tu	good-NEG	nc	nc				
+bora	meenujkatsi	0012	nɨjke-va-ne	end-VBZ.have-INAN	nc	nc				
+bora	meenujkatsi	0012	tee-ne	3-INAN	nc	nc				
+bora	meenujkatsi	0013	#	#	##	##				
+bora	meenujkatsi	0013	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0013	aa	CON	other	other				
+bora	meenujkatsi	0013	-me	-PL	-pro.h:dt_s	-pro	h	dt_s	2004	
+bora	meenujkatsi	0013	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0013	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0013	-me	-PL	-pro.h:s	-pro	h	s	2004	
+bora	meenujkatsi	0013	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0013	%	%	%	%				
+bora	meenujkatsi	0013	#	#	#ac.neg	#ac.neg				
+bora	meenujkatsi	0013	tsúúca	already	other	other				
+bora	meenujkatsi	0013	lleebo-tu	listen-NEG	v:pred	v		pred		
+bora	meenujkatsi	0013	-me	-PL	-pro.h:s	-pro	h	s	2009	
+bora	meenujkatsi	0013	%	%	%	%				
+bora	meenujkatsi	0013	táúmei-híjcya	ask_for-REP	v:pred	v		pred		
+bora	meenujkatsi	0013	-me	-PL	-pro.h:s	-pro	h	s	2009	
+bora	meenujkatsi	0014	#	#	##	##				
+bora	meenujkatsi	0014	aa	CON	other	other				
+bora	meenujkatsi	0014	-me-ke	-PL-ACC	-pro.h:p2	-pro	h	p2	2009	
+bora	meenujkatsi	0014	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0014	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0014	-me	-PL	-pro.h:a	-pro	h	a	2004	
+bora	meenujkatsi	0014	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2004	
+bora	meenujkatsi	0014	tsɨ́ɨ́me-ne-re	children-INAN-REST	np:p	np		p	2012	bridging
+bora	meenujkatsi	0014	#	#	#rc	#rc				
+bora	meenujkatsi	0014	tajcu	majas_rodent	np.n:pred	np	n	pred		
+bora	meenujkatsi	0014	ijcya	be	cop	cop				
+bora	meenujkatsi	0014	-Vbe	-M.SG	-pro:s	-pro		s	2012	
+bora	meenujkatsi	0014	-ke	-ACC	-other	-other				
+bora	meenujkatsi	0015	#	#	##	##				
+bora	meenujkatsi	0015	aa	CON	other	other				
+bora	meenujkatsi	0015	-Vbe-ke	-M.SG-ACC	-pro:p	-pro		p	2012	
+bora	meenujkatsi	0015	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0015	#	#	#ac	#ac				
+bora	meenujkatsi	0015	i=	3=	=pro.h:a	=pro	h	a	2009	
+bora	meenujkatsi	0015	ujcu-ne	take-INAN	v:pred	v		pred		
+bora	meenujkatsi	0015	%	%	%	%				
+bora	meenujkatsi	0015	tsájtyé	take	v:pred	v		pred		
+bora	meenujkatsi	0015	-me	-PL	-pro.h:a	-pro	h	a	2009	
+bora	meenujkatsi	0015	#	#	##	##				
+bora	meenujkatsi	0015	0	0	0:p	0		p		
+bora	meenujkatsi	0015	tso	singe	v:pred	v		pred		
+bora	meenujkatsi	0015	-me	-PL	-pro.h:a	-pro	h	a	2010	bridging
+bora	meenujkatsi	0015	#	#	##	##				
+bora	meenujkatsi	0015	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0015	0	0	0:p	0		p	2012	
+bora	meenujkatsi	0015	doo	eat_meat	v:pred	v		pred		
+bora	meenujkatsi	0015	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0016	#	#	##	##				
+bora	meenujkatsi	0016	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0016	di-lle	3-F.SG	pro.h:s_ds	pro	h	s_ds	2007	
+bora	meenujkatsi	0016	#	#	#rc	#rc				
+bora	meenujkatsi	0016	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0016	boí-cu	discourage-SG.TR	v:pred	v		pred		
+bora	meenujkatsi	0016	-lle	-F.SG	-pro.h:s	-pro	h	s	2007	
+bora	meenujkatsi	0016	%	%	%	%				
+bora	meenujkatsi	0016	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0016	#	#	#ds	#ds				
+bora	meenujkatsi	0016	ó-ke	1SG-ACC	pro.1:p2	pro	1	p2	2007	
+bora	meenujkatsi	0016	í-bau-vu-re	this-CLF.intestines-ALL-REST	np:p	np		p	2013	new
+bora	meenujkatsi	0016	me=	PL.IMP=	=pro.2:a	=pro	2	a	2009	
+bora	meenujkatsi	0016	ajcu-jco	give-MULT.TR	v:pred	v		pred		
+bora	meenujkatsi	0017	#	#	##	##				
+bora	meenujkatsi	0017	aa-ne-lliíhye-va-pe	CON-INAN-BEN-QUOT-REM	other	other				
+bora	meenujkatsi	0017	#	#	#ac	#ac				
+bora	meenujkatsi	0017	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0017	í-bau-vu-re	this-CLF.intestines-ALL-REST	np:obl	np		obl	2013	
+bora	meenujkatsi	0017	i=	3=	=pro.h:s	=pro	h	s	2009	
+bora	meenujkatsi	0017	ujcu-ne-ma	take-INAN-BEN	v:pred	v		pred		
+bora	meenujkatsi	0017	%	%	%	%				
+bora	meenujkatsi	0017	0	0	0:p	0		p	2013	
+bora	meenujkatsi	0017	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0017	-me	-PL	-pro.h:a	-pro	h	a	2009	
+bora	meenujkatsi	0017	di-lle-ke	3-F.SG-ACC	pro.h:p2	pro	h	p2	2007	
+bora	meenujkatsi	0018	#	#	##	##				
+bora	meenujkatsi	0018	#	#	#ac	#ac				
+bora	meenujkatsi	0018	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0018	mújcoju-vu	harbour-ALL	np:g	np		g	2047	new
+bora	meenujkatsi	0018	0	0	0:p	0		p	2013	
+bora	meenujkatsi	0018	i=	3=	=pro.h:s	=pro	h	s	2007	
+bora	meenujkatsi	0018	tsájtyé-ne	take-INAN	v:pred	v		pred		
+bora	meenujkatsi	0018	%	%	%	%				
+bora	meenujkatsi	0018	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0018	í-bau	this-CLF.intestines	np:other	np		other	2013	
+bora	meenujkatsi	0018	pañe	inside	other	other				
+bora	meenujkatsi	0018	i-	3-	-ln_pro:poss	-ln_pro		poss	2012	
+bora	meenujkatsi	0018	úú-ne	gut-PL	np:other	np		other	2013	
+bora	meenujkatsi	0018	pañe	inside	other	other				
+bora	meenujkatsi	0018	ájtyumɨ	see	v:pred	v		pred		
+bora	meenujkatsi	0018	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
+bora	meenujkatsi	0018	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0018	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0018	mááhoó-ha-wuu-ne	casabe-CLF.group-DIM-PL	np:pred	np		pred	2080	new
+bora	meenujkatsi	0018	aa-jɨ-wuu-ne	CON-CLF.disc-DIM-PL	rn	rn			2081	new
+bora	meenujkatsi	0018	dɨɨ́-jɨ-wuu-ne	pepper-CLF.disc-DIM-PL	rn	rn			2082	new
+bora	meenujkatsi	0018	ijcya-ne	be-INAN	cop	cop				
+bora	meenujkatsi	0019	#	#	##	##				
+bora	meenujkatsi	0019	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0019	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0019	-lle	-F.SG	-pro.h:s_ds	-pro	h	s_ds	2007	
+bora	meenujkatsi	0019	#	#	#ds	#ds				
+bora	meenujkatsi	0019	ɨ́mɨá-ne-juco-haáca	true-INAN-AFIR-ascertainment	other	other				
+bora	meenujkatsi	0019	#	#	#ds_cc:p	#ds_cc		p		
+bora	meenujkatsi	0019	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2004	
+bora	meenujkatsi	0019	tsɨ́ɨ́me-ne-mu-re	children-INAN-PL-REST	np.h:pred	np	h	pred	2005	
+bora	meenujkatsi	0019	ijcya	be	cop	cop				
+bora	meenujkatsi	0019	-me	-PL	-pro.h:other	-pro	h	other	2005	
+bora	meenujkatsi	0019	-ke	-ACC	-other	-other				
+bora	meenujkatsi	0019	%	%	%	%				
+bora	meenujkatsi	0019	aátye	those	pro.h:a	pro	h	a	2010	
+bora	meenujkatsi	0019	tsáma	careful	other	other				
+bora	meenujkatsi	0019	#	#	#ds_ac	#ds_ac				
+bora	meenujkatsi	0019	i=	3=	=pro.h:a	=pro	h	a	2009	
+bora	meenujkatsi	0019	táúmei-ne	ask_for-INAN	v:pred	v		pred		
+bora	meenujkatsi	0019	%	%	%	%				
+bora	meenujkatsi	0019	#	#	#ds_ac.neg	#ds_ac.neg				
+bora	meenujkatsi	0019	lleebo-tu	listen-NEG	v:pred	v		pred		
+bora	meenujkatsi	0019	-me	-PL	-pro.h:s	-pro	h	s	2009	
+bora	meenujkatsi	0019	%	%	%	%				
+bora	meenujkatsi	0019	doo-hi	eat_meat-PRED	v:pred	v		pred		
+bora	meenujkatsi	0019	#	#	##	##				
+bora	meenujkatsi	0019	#	#	#ac	#ac				
+bora	meenujkatsi	0019	i=	3=	=pro.h:s	=pro	h	s	2007	
+bora	meenujkatsi	0019	nee-ne	say-INAN	v:pred	v		pred		
+bora	meenujkatsi	0019	%	%	%	%				
+bora	meenujkatsi	0019	tee-tsɨ	3-CLF.baby	other	other				
+bora	meenujkatsi	0019	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2004	
+bora	meenujkatsi	0019	tsɨ́ɨ́me-ne-ke	children-PL-ACC	np.h:p	np	h	p	2005	
+bora	meenujkatsi	0019	teéhi	river	np:other	np		other	2083	new
+bora	meenujkatsi	0019	pañe-vu-re	inside-ALL-REST	np:g	np		g		
+bora	meenujkatsi	0019	cádsoomá-ro-iñu	put-SG.TR-DIR.leave	v:pred	v		pred		
+bora	meenujkatsi	0019	-lle	-F.SG	-pro.h:s	-pro	h	s	2007	
+bora	meenujkatsi	0020	#	#	#nc	#nc				
+bora	meenujkatsi	0020	aa-ne-lliíhye	CON-INAN-BEN	nc	nc				
+bora	meenujkatsi	0020	tee-ne	3-INAN	nc	nc				
+bora	meenujkatsi	0020	tajcu-di-tu	majas_rodent-ANIM-ABL	nc	nc				
+bora	meenujkatsi	0020	ijcya-ne	be-INAN	nc	nc				
+bora	meenujkatsi	0020	lluuhí	diarrhea	nc	nc				
+bora	meenujkatsi	0020	#	#	#nc	#nc				
+bora	meenujkatsi	0020	tsɨ́ɨ́mene	child	nc	nc				
+bora	meenujkatsi	0020	lluuhí-va-te-hi	diarrhea-VBZ.have-VBZ.be-PRED	nc	nc				
+bora	meenujkatsi	0021	#	#	##	##				
+bora	meenujkatsi	0021	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0021	#	#	#ac	#ac				
+bora	meenujkatsi	0021	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0021	0	0	0.h:p	0	h	p	2005	
+bora	meenujkatsi	0021	i=	3=	=pro.h:a	=pro	h	a	2010	
+bora	meenujkatsi	0021	doo-ne	eat_meat-INAN	v:pred	v		pred		
+bora	meenujkatsi	0021	%	%	%	%				
+bora	meenujkatsi	0021	tsúúca	already	other	other				
+bora	meenujkatsi	0021	tsaa-juco	come-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0021	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0022	#	#	##	##				
+bora	meenujkatsi	0022	tsúúca	already	other	other				
+bora	meenujkatsi	0022	ííjyunu-juco-me	dawn-AFIR-PL	np:pred	np		pred		
+bora	meenujkatsi	0023	#	#	##	##				
+bora	meenujkatsi	0023	aa	CON	other	other				
+bora	meenujkatsi	0023	-me	-PL	-pro.h:dt_s	-pro	h	dt_s	2010	
+bora	meenujkatsi	0023	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0023	#	#	#cc:s	#cc		s	2010	
+bora	meenujkatsi	0023	ííjyunu	dawn	np:obl	np		obl		
+bora	meenujkatsi	0023	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0023	%	%	%	%				
+bora	meenujkatsi	0023	gooco-híjcya	laugh-REP	v:pred	v		pred		
+bora	meenujkatsi	0023	íllu-re	so-REST	other	other				
+bora	meenujkatsi	0023	#	#	##	##				
+bora	meenujkatsi	0023	gooco-híjcya	laugh-REP	v:pred	v		pred		
+bora	meenujkatsi	0023	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0024	#	#	##	##				
+bora	meenujkatsi	0024	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0024	#	#	#ac	#ac				
+bora	meenujkatsi	0024	i=	3=	=pro.h:s	=pro	h	s	2010	
+bora	meenujkatsi	0024	gooco-híjcya-ne	laugh-REP-REC	v:pred	v		pred		
+bora	meenujkatsi	0024	%	%	%	%				
+bora	meenujkatsi	0024	tsúúca	already	other	other				
+bora	meenujkatsi	0024	imílle	want	v:pred	v		pred		
+bora	meenujkatsi	0024	-me	-PL	-pro.h:a	-pro	h	a	2010	
+bora	meenujkatsi	0024	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0024	i=	3=	=pro.h:s	=pro	h	s	2010	
+bora	meenujkatsi	0024	cuwa-juco-ne	sleep-AFIR-INAN	v:pred	v		pred		
+bora	meenujkatsi	0025	#	#	##	##				
+bora	meenujkatsi	0025	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0025	nijpa-té	urinate-DIR.go	v:pred	v		pred		
+bora	meenujkatsi	0025	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0025	áachi-vu	outside-ALL	np:obl	np		obl		
+bora	meenujkatsi	0025	#	#	##	##				
+bora	meenujkatsi	0025	tsa-pi-lle	one-CLF.man-F.SG	np:s	np		s	2014	bridging
+bora	meenujkatsi	0025	nijpa-te	urinate-PL	v:pred	v		pred		
+bora	meenujkatsi	0025	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0025	chooo	waterfall	other	other				
+bora	meenujkatsi	0026	#	#	##	##				
+bora	meenujkatsi	0026	tsi-pi-lle-va-pe	other-CLF.man-F.SG-QUOT-REM	np:other	np		other	2015	bridging
+bora	meenujkatsi	0026	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0026	chooo	waterfall	other	other				
+bora	meenujkatsi	0027	#	#	##	##				
+bora	meenujkatsi	0027	tsi-pi-lle	other-CLF.man-F.SG	np:other	np		other	2016	bridging
+bora	meenujkatsi	0027	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0027	chooo	waterfall	other	other				
+bora	meenujkatsi	0027	chooo	waterfall	other	other				
+bora	meenujkatsi	0027	chímá	chímá	other	other				
+bora	meenujkatsi	0027	chímá	chímá	other	other				
+bora	meenujkatsi	0028	#	#	##	##				
+bora	meenujkatsi	0028	i-	3.POSS-	-ln_pro:poss	-ln_pro		poss		
+bora	meenujkatsi	0028	pejco	night	np:other	np		other		
+bora	meenujkatsi	0028	u-ke	2SG-ACC	pro_2_p	pro_2_p			2010	
+bora	meenujkatsi	0028	pííjyu-wa-mu-e-te	fishing-CLF.plank-PL-PERT-PL	np.n:a	np	n	a	2029	new
+bora	meenujkatsi	0028	ámuha-ke	2PL-ACC	pro.2:p	pro	2	p	2010	
+bora	meenujkatsi	0028	doo-i	eat_meat-FUT	v:pred	v		pred		
+bora	meenujkatsi	0028	#	#	#ac	#ac				
+bora	meenujkatsi	0028	di-Vbe	3-M.SG	ln_pro.n:poss	ln_pro	n	poss	2029	
+bora	meenujkatsi	0028	tsɨ́ɨ́me-ne-mu-ke	children-INAN-PL-ACC	np.h:p	np	h	p	2005	
+bora	meenujkatsi	0028	ámuha	2PL	pro.2:s	pro	2	s	2010	
+bora	meenujkatsi	0028	me=	1PL=	=lv_pro_h_a	=lv_pro_h_a			2010	
+bora	meenujkatsi	0028	doo-ne	eat_meat-REC	v:pred	v		pred		
+bora	meenujkatsi	0028	hallu-tu	top-ABL	np:obl	np		obl		
+bora	meenujkatsi	0029	#	#	##	##				
+bora	meenujkatsi	0029	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0029	di-te-di-vu	3-PL-ANIM-ALL	np.h:obl	np	h	obl	2010	
+bora	meenujkatsi	0029	gooco-tso-wuu-re	laugh-CAUS-DIM-REST	v:pred	v		pred		
+bora	meenujkatsi	0029	nee-ne-ri	be-INAN-INST	nc	nc				
+bora	meenujkatsi	0029	#	#	##	##				
+bora	meenujkatsi	0029	gooco-híjcya	laugh-REP	v:pred	v		pred		
+bora	meenujkatsi	0029	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0029	#	#	##	##				
+bora	meenujkatsi	0029	gooco-híjcya	laugh-REP	v:pred	v		pred		
+bora	meenujkatsi	0029	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0029	menéeibóó	NC	nc	nc				
+bora	meenujkatsi	0029	#	#	##neg	##neg				
+bora	meenujkatsi	0029	tsáha	no	other	other				
+bora	meenujkatsi	0029	di-te	3-PL	pro.h:s	pro	h	s	2010	
+bora	meenujkatsi	0029	íllitye-tu	be_afraid-NEG	v:pred	v		pred		
+bora	meenujkatsi	0029	-me	-PL	-rv_pro_h_s	-rv_pro_h_s			2010	
+bora	meenujkatsi	0030	#	#	##	##				
+bora	meenujkatsi	0030	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0030	íllu-re-juco	so-REST-AFIR	other	other				
+bora	meenujkatsi	0030	di-te	3-PL	pro.h:s	pro	h	s	2010	
+bora	meenujkatsi	0030	cuwa-ne	sleep-INAN	v:pred	v		pred		
+bora	meenujkatsi	0031	#	#	##	##				
+bora	meenujkatsi	0031	#	#	#ac	#ac				
+bora	meenujkatsi	0031	eh	NC	nc	nc				
+bora	meenujkatsi	0031	di-te	3-PL	pro.h:s	pro	h	s	2010	
+bora	meenujkatsi	0031	cuwa-jucoo-náa	sleep-PERF-SIM	v:pred	v		pred		
+bora	meenujkatsi	0031	%	%	%	%				
+bora	meenujkatsi	0031	di-lle	3-F.SG	pro.h:a	pro	h	a	2007	
+bora	meenujkatsi	0031	#	#	#rc	#rc				
+bora	meenujkatsi	0031	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0031	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0031	ájyu	husband	np.h:s	np	h	s	2006	
+bora	meenujkatsi	0031	nee-ne	say-INAN	v:pred	v		pred		
+bora	meenujkatsi	0031	%	%	%	%				
+bora	meenujkatsi	0031	cahcújtso	obey	v:pred	v		pred		
+bora	meenujkatsi	0031	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
+bora	meenujkatsi	0031	%	%	%	%				
+bora	meenujkatsi	0031	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0031	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2007	
+bora	meenujkatsi	0031	tsɨ́ɨ́me-ne-mu-ke	children-INAN-PL-ACC	np.h:p	np	h	p	2017	new
+bora	meenujkatsi	0031	#	#	##	##				
+bora	meenujkatsi	0031	ámía-Vbe-ke	elder-M.SG-ACC	np.h:p	np	h	p	2018	bridging
+bora	meenujkatsi	0031	walloo	send	v:pred	v		pred		
+bora	meenujkatsi	0031	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
+bora	meenujkatsi	0031	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0031	í-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2007	
+bora	meenujkatsi	0031	hjya	house	np:other	np		other	2003	
+bora	meenujkatsi	0031	níhbaho-vu	roof_top-ALL	np:obl	np		obl	2019	bridging
+bora	meenujkatsi	0032	#	#	##	##				
+bora	meenujkatsi	0032	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0032	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0032	bóónée-tsɨ-ke	younger-CLF.baby-ACC	np.h:p	np	h	p	2020	bridging
+bora	meenujkatsi	0032	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0032	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
+bora	meenujkatsi	0032	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0032	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2007	
+bora	meenujkatsi	0032	tóómeé-u-vu	almond-CLF.sphere-ALL	np:obl	np		obl	2021	new
+bora	meenujkatsi	0032	#	#	##	##				
+bora	meenujkatsi	0032	tsi-pi-ke	other-CLF.man-ACC	np.h:p	np	h	p	2022	bridging
+bora	meenujkatsi	0032	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0032	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
+bora	meenujkatsi	0032	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2007	
+bora	meenujkatsi	0032	majchówa-vu	scissors-ALL	np:obl	np		obl	2023	new
+bora	meenujkatsi	0033	#	#	##	##				
+bora	meenujkatsi	0033	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0033	0	0	0.h:p	0	h	p	2025	
+bora	meenujkatsi	0033	úacó	put_in	v:pred	v		pred		
+bora	meenujkatsi	0033	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
+bora	meenujkatsi	0033	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0033	cuúmu-paájɨ-cu	signal_drum-CLF.hole-DU	np:other	np		other	2024	new
+bora	meenujkatsi	0033	pañe-vu	inside-ALL	np:obl	np		obl		
+bora	meenujkatsi	0033	#	#	#ac	#ac				
+bora	meenujkatsi	0033	té--	NC	nc	nc				
+bora	meenujkatsi	0033	tee-hulle	3-CLF.further_place	np:p	np		p		
+bora	meenujkatsi	0033	di-jtétsi	3-M.DU	pro.h:a	pro	h	a	2025	bridging
+bora	meenujkatsi	0033	i=	3=	=lv_pro_h_a	=lv_pro_h_a			2025	
+bora	meenujkatsi	0033	tehme-ki	guard-PURP	v:pred	v		pred		
+bora	meenujkatsi	0034	#	#	##	##				
+bora	meenujkatsi	0034	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0034	di-lle	3-F.SG	pro.h:s	pro	h	s	2007	
+bora	meenujkatsi	0034	úcaave	go_inside	v:pred	v		pred		
+bora	meenujkatsi	0034	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0034	ííbii	coca	ln	ln				
+bora	meenujkatsi	0034	cáánuco	pile	np:g	np		g	2026	new
+bora	meenujkatsi	0034	pañe-vu	inside-ALL	rn	rn				
+bora	meenujkatsi	0034	tee-ne	3-INAN	rn	rn				
+bora	meenujkatsi	0034	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2007	
+bora	meenujkatsi	0034	wáñu-wa-ma	arrow-CLF.plank-SOC	np:other	np		other	2027	new
+bora	meenujkatsi	0035	#	#	##	##				
+bora	meenujkatsi	0035	aa	CON	other	other				
+bora	meenujkatsi	0035	-Vbe	-M.SG	-pro.h:s_ds	-pro	h	s_ds	2018	
+bora	meenujkatsi	0035	#	#	#rc	#rc				
+bora	meenujkatsi	0035	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0035	caáme	top	np:pred	np		pred		
+bora	meenujkatsi	0035	ijcya	be	cop	cop				
+bora	meenujkatsi	0035	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2018	
+bora	meenujkatsi	0035	%	%	%	%				
+bora	meenujkatsi	0035	di-te-ke	3-PL-ACC	pro.h:p	pro	h	p	2028	bridging
+bora	meenujkatsi	0035	nee-híjcya	say-REP	v:pred	v		pred		
+bora	meenujkatsi	0035	#	#	#ds	#ds				
+bora	meenujkatsi	0035	tsúúca	already	other	other				
+bora	meenujkatsi	0035	ajkye-juco	get_up-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0035	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0035	#	#	#ds	#ds				
+bora	meenujkatsi	0035	tsúúca	already	other	other				
+bora	meenujkatsi	0035	niitye-juco	come_down-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0035	-me	-PL	-rv_pro_n_s	-rv_pro_n_s			2029	
+bora	meenujkatsi	0035	#	#	#ds	#ds				
+bora	meenujkatsi	0035	íllu-juco	so-AFIR	other:pred	other		pred		
+bora	meenujkatsi	0035	di-te	3-PL	pro.n:s	pro	n	s	2029	
+bora	meenujkatsi	0035	#	#	##	##				
+bora	meenujkatsi	0035	caáme-tu	top-ABL	np:obl	np		obl	2019	
+bora	meenujkatsi	0035	úúballe-híjcya	tell-REP	v:pred	v		pred		
+bora	meenujkatsi	0035	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2018	
+bora	meenujkatsi	0036	#	#	##	##				
+bora	meenujkatsi	0036	aa	CON	other	other				
+bora	meenujkatsi	0036	-me	-PL	-pro.n:dt_s	-pro	n	dt_s	2029	
+bora	meenujkatsi	0036	-coba-va-pe	-AUG-QUOT-REM	-other	-other				
+bora	meenujkatsi	0036	#	#	#rc	#rc				
+bora	meenujkatsi	0036	tsaa	come	v:pred	v		pred		
+bora	meenujkatsi	0036	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0036	%	%	%	%				
+bora	meenujkatsi	0036	tee-ja-e	3-CLF.cover-PERT	np:obl	np		obl	2003	
+bora	meenujkatsi	0036	-ne	-INAN	-rn	-rn			2091	bridging
+bora	meenujkatsi	0036	doo	eat_meat	v:pred	v		pred		
+bora	meenujkatsi	0036	#	#	##	##				
+bora	meenujkatsi	0036	úcaave	go_inside	v:pred	v		pred		
+bora	meenujkatsi	0036	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0036	#	#	##	##				
+bora	meenujkatsi	0036	di-te-ke	3-PL-ACC	pro.h:p	pro	h	p	2010	
+bora	meenujkatsi	0036	doo-juco	eat_meat-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0036	0	0	0.n:s	0	n	s	2029	
+bora	meenujkatsi	0036	#	#	##	##				
+bora	meenujkatsi	0036	0	0	0.h:p	0	h	p	2010	
+bora	meenujkatsi	0036	cánujpe-tso	moan-CAUS	v:pred	v		pred		
+bora	meenujkatsi	0036	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0036	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0036	aá	ah	other	other				
+bora	meenujkatsi	0036	aá	ah	other	other				
+bora	meenujkatsi	0036	#	#	##	##				
+bora	meenujkatsi	0036	cánujpe-té-híjcya	moan-DIR.go-REP	v:pred	v		pred		
+bora	meenujkatsi	0036	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0037	#	#	#nc	#nc				
+bora	meenujkatsi	0037	aa-ne-lliíhye	CON-INAN-BEN	other	other				
+bora	meenujkatsi	0037	#	#	#cc:s	#cc		s		
+bora	meenujkatsi	0037	#	#	#ac	#ac				
+bora	meenujkatsi	0037	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0037	í-ne	this-INAN	other	other				
+bora	meenujkatsi	0037	mɨa	true	other	other				
+bora	meenujkatsi	0037	múnaa-pi	people-CLF.body	np.h:s	np	h	s		
+bora	meenujkatsi	0037	me=	1PL=	=lv_pro_h_s	=lv_pro_h_s				
+bora	meenujkatsi	0037	cuwa-coóca	sleep-when	v:pred	v		pred		
+bora	meenujkatsi	0037	%	%	%	%				
+bora	meenujkatsi	0037	me=	1PL=	=pro.h:s	=pro	h	s		
+bora	meenujkatsi	0037	cánujpe-ne	moan-INAN	v:pred	v		pred		
+bora	meenujkatsi	0037	%	%	%	%				
+bora	meenujkatsi	0037	ímí-tu-ne	good-ABL-INAN	other:pred	other		pred		
+bora	meenujkatsi	0037	ijcya	be	cop	cop				
+bora	meenujkatsi	0038	#	#	##	##				
+bora	meenujkatsi	0038	aa-ne-lliíhye	CON-INAN-BEN	other	other				
+bora	meenujkatsi	0038	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0038	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0038	tsúúca	already	other	other				
+bora	meenujkatsi	0038	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0038	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0038	#	#	##	##				
+bora	meenujkatsi	0038	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0038	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0039	#	#	##	##				
+bora	meenujkatsi	0039	aam--	NC	nc	nc				
+bora	meenujkatsi	0039	#	#	#ac	#ac				
+bora	meenujkatsi	0039	aa	CON	other	other				
+bora	meenujkatsi	0039	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0039	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0039	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0039	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0039	ou-Vve-ne	end-SG.INTR-INAN	v:pred	v		pred		
+bora	meenujkatsi	0039	boóne	after	other	other				
+bora	meenujkatsi	0039	meenu	do	other	other				
+bora	meenujkatsi	0039	%	%	%	%				
+bora	meenujkatsi	0039	tsajtye	carry	v:pred	v		pred		
+bora	meenujkatsi	0039	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0039	#	#	##	##				
+bora	meenujkatsi	0039	pee-juco	go-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0039	-me	-PL	-pro.n:s	-pro	n	s	2029	
+bora	meenujkatsi	0040	#	#	##	##				
+bora	meenujkatsi	0040	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0040	boóne-va-pe	after-QUOT-REM	other	other				
+bora	meenujkatsi	0040	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0040	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0040	ajkye	get_up	v:pred	v		pred		
+bora	meenujkatsi	0040	-me	-PL	-pro.h:s	-pro	h	s	2031	bridging
+bora	meenujkatsi	0040	#	#	##	##				
+bora	meenujkatsi	0040	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0040	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0040	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0040	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2010	
+bora	meenujkatsi	0040	waábya-ne	hammock-PL	np:other	np		other	2032	new
+bora	meenujkatsi	0040	pañe	inside	other	other				
+bora	meenujkatsi	0040	tsɨ́tsɨ́n--	NC	nc	nc				
+bora	meenujkatsi	0040	tsɨ́tsɨ́-ne-hjɨ-úvu	white-INAN-PL-intensively	ln	ln				
+bora	meenujkatsi	0040	bájcu-ne-re-juco	bone-PL-REST-AFIR	np:pred	np		pred	2033	bridging
+bora	meenujkatsi	0040	ijcya-ne	be-INAN	cop	cop				
+bora	meenujkatsi	0041	#	#	##	##				
+bora	meenujkatsi	0041	aa	CON	other	other				
+bora	meenujkatsi	0041	-me-ke	-PL-ACC	-pro:p	-pro		p	2033	
+bora	meenujkatsi	0041	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0041	tsá	NC	nc	nc				
+bora	meenujkatsi	0041	muhdu	how	other	other				
+bora	meenujkatsi	0041	meenu-hi	do-PRED	v:pred	v		pred		
+bora	meenujkatsi	0041	-me	-PL	-pro.h:s	-pro	h	s	2031	
+bora	meenujkatsi	0042	#	#	##	##				
+bora	meenujkatsi	0042	#	#	#ds	#ds				
+bora	meenujkatsi	0042	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0042	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0042	ájyu	husband	np.h:s	np	h	s	2006	
+bora	meenujkatsi	0042	wajtsɨ	arrive	v:pred	v		pred		
+bora	meenujkatsi	0042	-Vbe	-M.SG	-rv_pro_h_s	-rv_pro_h_s			2006	
+bora	meenujkatsi	0042	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0042	%	%	%	%				
+bora	meenujkatsi	0042	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0042	-lle	-F.SG	-pro.h:s_ds	-pro	h	s_ds	2007	
+bora	meenujkatsi	0042	#	#	##ds	##ds				
+bora	meenujkatsi	0042	#	#	#ds_ac.neg	#ds_ac.neg				
+bora	meenujkatsi	0042	i-ne-ne	this-INAN-REC	np:p	np		p		
+bora	meenujkatsi	0042	#	#	#ds_rc	#ds_rc				
+bora	meenujkatsi	0042	ó-ke-ne	1SG-ACC-REC	pro.1:p	pro	1	p		
+bora	meenujkatsi	0042	u	2SG	pro.2:s	pro	2	s	2006	
+bora	meenujkatsi	0042	nee-ne	say-INAN	v:pred	v		pred		
+bora	meenujkatsi	0042	%	%	%	%				
+bora	meenujkatsi	0042	i=	3=	=pro.h:a	=pro	h	a	2010	
+bora	meenujkatsi	0042	lleebo-tu-ne	listen-NEG-INAN	v:pred	v		pred		
+bora	meenujkatsi	0042	nɨ́jcau-vu	consequence-ALL	np:obl	np		obl		
+bora	meenujkatsi	0042	tsúúca	before	other	other				
+bora	meenujkatsi	0042	%	%	%	%				
+bora	meenujkatsi	0042	me-	1PL-	-ln_pro.1:poss	-ln_pro	1	poss	2011	
+bora	meenujkatsi	0042	cuwáábe-me	people-PL	np.h:s	np	h	s	2010	
+bora	meenujkatsi	0042	íllu	so	other	other				
+bora	meenujkatsi	0042	tsúúca	already	other	other				
+bora	meenujkatsi	0042	di-te	3-PL	pro_h_s	pro_h_s			2010	
+bora	meenujkatsi	0042	doo-ne	eat_meat-INAN	v:pred	v		pred		
+bora	meenujkatsi	0042	#	#	##ds	##ds				
+bora	meenujkatsi	0042	tee-bajcu-hjɨ-re-juco	3-CLF.bone-PL-REST-AFIR	pro:pred	pro		pred	2033	
+bora	meenujkatsi	0043	#	#	##	##				
+bora	meenujkatsi	0043	aa	CON	other	other				
+bora	meenujkatsi	0043	-bajcu-hjɨ	-CLF.bone-PL	-pro:p	-pro		p	2033	
+bora	meenujkatsi	0043	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0043	#	#	#ac	#ac				
+bora	meenujkatsi	0043	i=	3=	=pro.h:s	=pro	h	s	2006	
+bora	meenujkatsi	0043	wajtsɨ-du	arrive-CMPV	v:pred	v		pred		
+bora	meenujkatsi	0043	%	%	%	%				
+bora	meenujkatsi	0043	cuuu-híjcya	bury-REP	v:pred	v		pred		
+bora	meenujkatsi	0043	-Vbe	-M.SG	-pro.h:a	-pro	h	a	2006	
+bora	meenujkatsi	0044	#	#	##	##				
+bora	meenujkatsi	0044	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0044	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0044	déi-cu-híjcya	chew_coca-MULT.TR-REP	v:pred	v		pred		
+bora	meenujkatsi	0044	-Vbe	-M.SG	-pro.h:a	-pro	h	a	2006	
+bora	meenujkatsi	0045	#	#	##ds	##ds				
+bora	meenujkatsi	0045	muhdu	how	other	other				
+bora	meenujkatsi	0045	nee-ne	seem-INAN	v:pred	v		pred		
+bora	meenujkatsi	0045	#	#	##ds	##ds				
+bora	meenujkatsi	0045	ɨ́veeki	why	other	other				
+bora	meenujkatsi	0045	ta-	1SG.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2006	
+bora	meenujkatsi	0045	cuwáábe-me	people-PL	np.h:other	np	h	other	2010	
+bora	meenujkatsi	0045	íllu	so	other:s	other		s		
+bora	meenujkatsi	0045	ta-	1SG.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2006	
+bora	meenujkatsi	0045	cuwáábe-me-ke	people-PL-ACC	np.h:p	np	h	p	2010	
+bora	meenujkatsi	0045	pajtye-hi	occur-PRED	v:pred	v		pred		
+bora	meenujkatsi	0045	#	#	##ds	##ds				
+bora	meenujkatsi	0045	#	#	#ds_cc:p	#ds_cc		p		
+bora	meenujkatsi	0045	wajpii-mu-ke	man-PL-ACC	np.h:dt	np	h	dt	2034	new
+bora	meenujkatsi	0045	mééií	devil	np.d:other	np	d	other		
+bora	meenujkatsi	0045	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2034	
+bora	meenujkatsi	0045	hállu-u-ne	eye-CLF.sphere-PL	np:p	np		p	2035	bridging
+bora	meenujkatsi	0045	bohdo	take_out	v:pred	v		pred		
+bora	meenujkatsi	0045	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0045	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0045	%	%	%	%				
+bora	meenujkatsi	0045	ó=	1SG=	=pro.1:s	=pro	1	s	2006	
+bora	meenujkatsi	0045	waagoo-je-hi	throw_away-DIR.return-PRED	v:pred	v		pred		
+bora	meenujkatsi	0046	#	#	##ds	##ds				
+bora	meenujkatsi	0046	#	#	#ds_cc:p	#ds_cc		p		
+bora	meenujkatsi	0046	aáhɨ	at_home	other:pred	other		pred		
+bora	meenujkatsi	0046	í-ne	this-INAN	other	other				
+bora	meenujkatsi	0046	ijcya	be	cop	cop				
+bora	meenujkatsi	0046	-me	-PL	-pro.h:s	-pro	h	s	2010	
+bora	meenujkatsi	0046	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0046	%	%	%	%				
+bora	meenujkatsi	0046	tsúúca	already	other	other				
+bora	meenujkatsi	0046	di-te	3-PL	pro.n:a	pro	n	a	2029	
+bora	meenujkatsi	0046	doo-ne	eat_meat-REC	v:pred	v		pred		
+bora	meenujkatsi	0046	#	#	##ds	##ds				
+bora	meenujkatsi	0046	bájcu-hjɨ	bone-PL	np:p	np		p	2033	
+bora	meenujkatsi	0046	ó=	1SG=	=pro.1:a	=pro	1	a	2006	
+bora	meenujkatsi	0046	cuuu	bury	v:pred	v		pred		
+bora	meenujkatsi	0046	#	#	##	##				
+bora	meenujkatsi	0046	#	#	#ac	#ac				
+bora	meenujkatsi	0046	i=	3=	=pro.h:s	=pro	h	s	2006	
+bora	meenujkatsi	0046	nee-ne-ri	say-INAN-INST	v:pred	v		pred		
+bora	meenujkatsi	0046	%	%	%	%				
+bora	meenujkatsi	0046	déi-cu-híjcya	chew_coca-MULT.TR-REP	v:pred	v		pred		
+bora	meenujkatsi	0046	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2006	
+bora	meenujkatsi	0047	#	#	##	##				
+bora	meenujkatsi	0047	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0047	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0047	di-te	3-PL	ln_pro.h:poss	ln_pro	h	poss	2011	
+bora	meenujkatsi	0047	matsajca-wa-re	peanut-CLF.plank-REST	np:p	np		p	2036	new
+bora	meenujkatsi	0047	di-Vbe	3-M.SG	pro.d:dt_a	pro	d	dt_a	2037	
+bora	meenujkatsi	0047	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0047	aatsári-u	nocturnal_rodent-CLF.sphere	np.d:a	np	d	a	2037	new
+bora	meenujkatsi	0047	majcho	eat	v:pred	v		pred		
+bora	meenujkatsi	0047	-Vbe	-M.SG	-pro.d:a	-pro	d	a	2037	
+bora	meenujkatsi	0047	#	#	##	##				
+bora	meenujkatsi	0047	0	0	0.d:p	0	d	p	2037	
+bora	meenujkatsi	0047	lliihánu-i-ró	kill-FUT-FRUS	v:pred	v		pred		
+bora	meenujkatsi	0047	-Vbe	-M.SG	-pro.h:a	-pro	h	a		
+bora	meenujkatsi	0048	#	#	##	##				
+bora	meenujkatsi	0048	aa-ró-ne	CON-FRUS-PL	other	other				
+bora	meenujkatsi	0048	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0048	-Vbe	-M.SG	-pro.d:s_ds	-pro	d	s_ds	2037	
+bora	meenujkatsi	0048	#	#	#ds.neg	#ds.neg				
+bora	meenujkatsi	0048	ó-ke	1SG-ACC	pro.1:p	pro	1	p	2037	
+bora	meenujkatsi	0048	0	0	0.2:a	0	2	a	2006	
+bora	meenujkatsi	0048	lliihánu-di-ne	kill-IMP.NEG-INAN	v:pred	v		pred		
+bora	meenujkatsi	0048	uh	uh	other	other				
+bora	meenujkatsi	0048	#	#	#ds.neg	#ds.neg				
+bora	meenujkatsi	0048	#	#	#ds_cc:p	#ds_cc		p		
+bora	meenujkatsi	0048	di-	2SG.POSS-	-ln_pro.2:poss	-ln_pro	2	poss	2006	
+bora	meenujkatsi	0048	cuwáábe-ke-ne	people-ACC-REC	np.h:p	np	h	p	2010	
+bora	meenujkatsi	0048	meenu	hit	v:pred	v		pred		
+bora	meenujkatsi	0048	-me	-PL	-pro.n:a	-pro	n	a	2029	
+bora	meenujkatsi	0048	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0048	%	%	%	%				
+bora	meenujkatsi	0048	u=	2SG=	=pro.2:a	=pro	2	a	2006	
+bora	meenujkatsi	0048	lliihánu	kill	v:pred	v		pred		
+bora	meenujkatsi	0048	-Vbe	-M.SG	-rv_pro_h_a	-rv_pro_h_a			2006	
+bora	meenujkatsi	0048	-jɨ́ɨ́vari	-NEG	-rv	-rv				
+bora	meenujkatsi	0048	#	#	#ds	#ds				
+bora	meenujkatsi	0048	ó-ke	1SG-ACC	pro.1:p	pro	1	p	2037	
+bora	meenujkatsi	0048	u=	2SG=	=pro.2:a	=pro	2	a	2006	
+bora	meenujkatsi	0048	lliihánu-i-ró-hi	kill-FUT-FRUS-PRED	v:pred	v		pred		
+bora	meenujkatsi	0049	#	#	##	##				
+bora	meenujkatsi	0049	#	#	#ac	#ac				
+bora	meenujkatsi	0049	#	#	#ds	#ds				
+bora	meenujkatsi	0049	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0049	uubálle-ma	story-SOC	np:other	np		other		
+bora	meenujkatsi	0049	ó=	1SG=	=pro.1:s	=pro	1	s	2037	
+bora	meenujkatsi	0049	tsaa	come	v:pred	v		pred		
+bora	meenujkatsi	0049	di-	2SG.POSS-	-ln_pro.2:poss	-ln_pro	2	poss	2006	
+bora	meenujkatsi	0049	élle-vu	there-ALL	np:g	np		g		
+bora	meenujkatsi	0049	%	%	%	%				
+bora	meenujkatsi	0049	i=	3=	=pro.d:s_ds	=pro	d	s_ds	2037	
+bora	meenujkatsi	0049	nee-ne-ma-va-pe	say-INAN-SOC-QUOT-REM	v:pred	v		pred		
+bora	meenujkatsi	0049	%	%	%	%				
+bora	meenujkatsi	0049	tee-ne	3-INAN	pro.h:p	pro	h	p	2006	
+bora	meenujkatsi	0049	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0049	úúballe	tell	v:pred	v		pred		
+bora	meenujkatsi	0049	-Vbe	-M.SG	-pro.d:a_ds	-pro	d	a_ds	2037	
+bora	meenujkatsi	0049	#	#	#ds	#ds				
+bora	meenujkatsi	0049	e-he-re-ne	that-CLF.tree-REST-REC	np:s	np		s	2038	new
+bora	meenujkatsi	0049	#	#	#rc	#rc				
+bora	meenujkatsi	0049	pijyú--	NC	nc	nc				
+bora	meenujkatsi	0049	pijyu-wa-mu	fish-CLF.plank-PL	np.n:pred	np	n	pred	2029	
+bora	meenujkatsi	0049	-he	-CLF.tree	-other	-other			2038	
+bora	meenujkatsi	0049	ijcya-he	be-CLF.tree	cop	cop				
+bora	meenujkatsi	0049	%	%	%	%				
+bora	meenujkatsi	0049	#	#	#rc	#rc				
+bora	meenujkatsi	0049	0	0	f0:a	f0		a	2038	
+bora	meenujkatsi	0049	di-	2SG.POSS-	-ln_pro.2:poss	-ln_pro	2	poss	2006	
+bora	meenujkatsi	0049	hajki-mu-ke	relative-PL-ACC	np.h:p	np	h	p	2010	
+bora	meenujkatsi	0049	doo-he	eat_meat-CLF.tree	v:pred	v		pred		
+bora	meenujkatsi	0049	%	%	%	%				
+bora	meenujkatsi	0049	pevétsɨ́hjɨ́-du	calm-CMPV	np:pred	np		pred		
+bora	meenujkatsi	0049	ijcya-hi	be-PRED	cop	cop				
+bora	meenujkatsi	0050	#	#	##	##				
+bora	meenujkatsi	0050	aa-ne-lliíhye-va-pe	CON-INAN-BEN-QUOT-REM	other	other				
+bora	meenujkatsi	0050	tee-ne-vu	3-INAN-ALL	np:obl	np		obl		
+bora	meenujkatsi	0050	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0050	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2006	
+bora	meenujkatsi	0050	#	#	##	##				
+bora	meenujkatsi	0050	meenu-jcatsi	hit-RECP	v:pred	v		pred		
+bora	meenujkatsi	0050	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2006	
+bora	meenujkatsi	0050	#	#	#ac	#ac				
+bora	meenujkatsi	0050	íllu-re-juco	so-REST-AFIR	other	other				
+bora	meenujkatsi	0050	di-Vbe	3-M.SG	pro.h:s	pro	h	s	2006	
+bora	meenujkatsi	0050	tee-ne	3-REC	other	other				
+bora	meenujkatsi	0050	hallu	top	other	other				
+bora	meenujkatsi	0050	mámavyé-vu-ne	do_magic-ALL-INAN	v:pred	v		pred		
+bora	meenujkatsi	0050	#	#	##	##				
+bora	meenujkatsi	0050	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0050	meenu-jcatsi-híjcya	hit-RECP-REP	v:pred	v		pred		
+bora	meenujkatsi	0050	-me	-PL	-pro.h:s	-pro	h	s	2039	bridging
+bora	meenujkatsi	0051	#	#	##	##				
+bora	meenujkatsi	0051	aa-ro	CON-SG.TR	other	other				
+bora	meenujkatsi	0051	-he	-CLF.tree	-np:a	-np		a	2038	
+bora	meenujkatsi	0051	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0051	tahja-híjcya	defeat-REP	v:pred	v		pred		
+bora	meenujkatsi	0051	di-te-ke	3-PL-ACC	pro.h:p	pro	h	p	2040	new
+bora	meenujkatsi	0051	#	#	##	##				
+bora	meenujkatsi	0051	pa-ne	all-INAN	ln	ln				
+bora	meenujkatsi	0051	cóómi-ne	village-PL	ln	ln				
+bora	meenujkatsi	0051	múnaa-ke	people-ACC	np.h:p	np	h	p	2041	bridging
+bora	meenujkatsi	0051	doo-híjcya	eat_meat-REP	v:pred	v		pred		
+bora	meenujkatsi	0051	-he	-CLF.tree	-np:a	-np		a	2038	
+bora	meenujkatsi	0051	tsánejcútúre	NC	nc	nc				
+bora	meenujkatsi	0052	#	#	##	##				
+bora	meenujkatsi	0052	aa	CON	other	other				
+bora	meenujkatsi	0052	-me	-PL	-pro.h:dt_a	-pro	h	dt_a	2040	
+bora	meenujkatsi	0052	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0052	í-du	this-CMPV	other	other				
+bora	meenujkatsi	0052	aa-ne-lliíhye	CON-INAN-BEN	other	other				
+bora	meenujkatsi	0052	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0052	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0052	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0052	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0052	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0052	páá--	NC	nc	nc				
+bora	meenujkatsi	0052	páá--	NC	nc	nc				
+bora	meenujkatsi	0052	páábɨ-ho	hummingbird-CLF.oval	ln	ln				
+bora	meenujkatsi	0052	ííhyúuú-ne	egg-PL	ln	ln				
+bora	meenujkatsi	0052	tsijcya-tso-ta-Vbe	burst-CAUS-NMZ-M.SG	ln_np.h	ln_np	h		2043	new
+bora	meenujkatsi	0052	di-Vbe	3-M.SG	ln_pro.h	ln_pro	h		2043	
+bora	meenujkatsi	0052	e-ne	that-INAN	ln	ln				
+bora	meenujkatsi	0052	nómɨ́jtúcojéé-u	herb-CLF.sphere	np.h:pred	np	h	pred	2044	new
+bora	meenujkatsi	0052	ijcya	be	cop	cop				
+bora	meenujkatsi	0052	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	bridging
+bora	meenujkatsi	0052	-di	-ANIM	-other	-other				
+bora	meenujkatsi	0052	%	%	%	%				
+bora	meenujkatsi	0052	wáníjcyá-meí	scream_for_help-REFL	v:pred	v		pred		
+bora	meenujkatsi	0052	-me	-PL	-pro.h:a	-pro	h	a	2040	
+bora	meenujkatsi	0053	#	#	#	#				
+bora	meenujkatsi	0053	aa	CON	other	other				
+bora	meenujkatsi	0053	-mútsi	-M.DU	-pro.h:dt_a	-pro	h	dt_a	2055	
+bora	meenujkatsi	0053	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0053	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0053	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0053	nómɨ́jtúcojéé-u-mútsi	herb-CLF.sphere-M.DU	np.h:a	np	h	a	2055	
+bora	meenujkatsi	0053	muúbe	brother	ln	ln				
+bora	meenujkatsi	0053	núlli-ba-ke	armadillo-CLF.object-ACC	np.n:p	np	n	p	2045	new
+bora	meenujkatsi	0053	eenu	breed	v:pred	v		pred		
+bora	meenujkatsi	0054	#	#	##	##				
+bora	meenujkatsi	0054	aa-ne-ma-va-pe	CON-INAN-SOC-QUOT-REM	other	other				
+bora	meenujkatsi	0054	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0054	í-ne	this-INAN	other	other				
+bora	meenujkatsi	0054	ajɨ-jɨ-ne	irapay_leaves-CLF.disc-REC	np:p	np		p	2046	new
+bora	meenujkatsi	0054	di-Vbe	3-M.SG	ln_pro.n:poss	ln_pro	n	poss	2045	
+bora	meenujkatsi	0054	mɨ́ɨ́he	leather	np:other	np		other	2084	bridging
+bora	meenujkatsi	0054	ehve-ri	measuring-LOC	np:obl	np		obl		
+bora	meenujkatsi	0054	nuú-híjcya	braid-REP	v:pred	v		pred		
+bora	meenujkatsi	0054	-mútsi	-M.DU	-pro.h:a	-pro	h	a	2055	
+bora	meenujkatsi	0054	#	#	##	##				
+bora	meenujkatsi	0054	#	#	#ac	#ac				
+bora	meenujkatsi	0054	i=	3=	=pro.h:a	=pro	h	a	2055	
+bora	meenujkatsi	0054	nuú-híjcya-ne	braid-REP-INAN	v:pred	v		pred		
+bora	meenujkatsi	0054	%	%	%	%				
+bora	meenujkatsi	0054	nuú-híjcya-ro	braid-REP-FRUS	v:pred	v		pred		
+bora	meenujkatsi	0054	-mútsi-a	-M.DU-NC	-pro.h:s	-pro	h	s		
+bora	meenujkatsi	0054	#	#	##	##				
+bora	meenujkatsi	0054	úmɨva	flee	v:pred	v		pred		
+bora	meenujkatsi	0054	-Vbe	-M.SG	-pro.n:s	-pro	n	s	2045	
+bora	meenujkatsi	0055	#	#	##	##				
+bora	meenujkatsi	0055	aa	CON	other	other				
+bora	meenujkatsi	0055	-Vbe-ke	-M.SG-ACC	-pro.n:dt	-pro	n	dt	2045	
+bora	meenujkatsi	0055	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0055	tsehdi-híjcya	dig-REP	v:pred	v		pred		
+bora	meenujkatsi	0055	-mútsi	-M.DU	-pro.h:a	-pro	h	a	2055	
+bora	meenujkatsi	0055	wáhyeju-coba-ri	hole-AUG-LOC	np:obl	np		obl	2049	new
+bora	meenujkatsi	0055	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0055	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0055	-Vbe	-M.SG	-pro.n:s	-pro	n	s	2045	
+bora	meenujkatsi	0055	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0056	#	#	##	##				
+bora	meenujkatsi	0056	#	#	#ac	#ac				
+bora	meenujkatsi	0056	aa	CON	other	other				
+bora	meenujkatsi	0056	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0056	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0056	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0056	tsehdi-híjcya-ró-náa	dig-REP-FRUS-SIM	v:pred	v		pred		
+bora	meenujkatsi	0056	%	%	%	%				
+bora	meenujkatsi	0056	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0056	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0056	ihjyú-cunu-híjcya	cry-MULT.INTR-REP	v:pred	v		pred		
+bora	meenujkatsi	0056	-me	-PL	-pro.h:s	-pro	h	s	2050	new
+bora	meenujkatsi	0056	#	#	##	##				
+bora	meenujkatsi	0056	#	#	#ds	#ds				
+bora	meenujkatsi	0056	nómɨ́jtúcojééumútsíí	NC	np.h:voc	np	h	voc	2055	
+bora	meenujkatsi	0056	múúha-ke	our-ACC	np.1:p	np	1	p	2050	
+bora	meenujkatsi	0056	tsúúca	already	other	other				
+bora	meenujkatsi	0056	úmeco-he	anger-CLF.tree	np:a	np		a	2038	
+bora	meenujkatsi	0056	pɨ́rujtsojúcoóhíí	end-CAUS-AFIR-PRED	v:pred	v		pred		
+bora	meenujkatsi	0056	#	#	#ds	#ds				
+bora	meenujkatsi	0056	múúha-ke	our-ACC	np.1:p	np	1	p	2050	
+bora	meenujkatsi	0056	ijcya	be	other	other				
+bora	meenujkatsi	0056	0	0	0.2:a	0	2	a	2044	
+bora	meenujkatsi	0056	lliiñé-váá	support-DIR.come	v:pred	v		pred		
+bora	meenujkatsi	0056	%	%	%	%				
+bora	meenujkatsi	0056	nee-híjcya	say-REP	v:pred	v		pred		
+bora	meenujkatsi	0056	-me	-PL	-pro.h:s	-pro	h	s	2050	
+bora	meenujkatsi	0057	#	#	##	##				
+bora	meenujkatsi	0057	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0057	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0057	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0057	páábɨ-ho	hummingbird-CLF.oval	ln	ln				
+bora	meenujkatsi	0057	ííhyúuú-ne	egg-PL	ln	ln				
+bora	meenujkatsi	0057	tsijcya-tso-ta-Vbe	burst-CAUS-NMZ-M.SG	np.h:s	np	h	s	2043	
+bora	meenujkatsi	0057	#	#	#ac	#ac				
+bora	meenujkatsi	0057	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0057	wáhyeju	hole	ln	ln			2049	
+bora	meenujkatsi	0057	iíñu-heju	earth-CLF.hole	ln	ln				
+bora	meenujkatsi	0057	pañe-tu	inside-ABL	np:obl	np		obl		
+bora	meenujkatsi	0057	i=	3=	=pro.h:s	=pro	h	s	2043	
+bora	meenujkatsi	0057	ijchívye-ne	go_outside-INAN	v:pred	v		pred		
+bora	meenujkatsi	0057	%	%	%	%				
+bora	meenujkatsi	0057	lleebo-va-híjcya	listen-come-REP	v:pred	v		pred		
+bora	meenujkatsi	0058	#	#	##	##				
+bora	meenujkatsi	0058	aa-ró-ne	CON-FRUS-INAN	other	other				
+bora	meenujkatsi	0058	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0058	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2043	
+bora	meenujkatsi	0058	nahbe	brother	np.h:s	np	h	s	2044	
+bora	meenujkatsi	0058	toonu-híjcya	deny-REP	v:pred	v		pred		
+bora	meenujkatsi	0058	di-Vbe-di-tu	3-M.SG-ANIM-ABL	np.h:obl	np	h	obl	2043	
+bora	meenujkatsi	0058	#	#	##	##				
+bora	meenujkatsi	0058	tsáha	no	other	other				
+bora	meenujkatsi	0058	nee-híjcya	say-REP	v:pred	v		pred		
+bora	meenujkatsi	0058	-Vbe	-M.SG	-pro.h:s_ds	-pro	h	s_ds	2044	
+bora	meenujkatsi	0058	#	#	#ds	#ds				
+bora	meenujkatsi	0058	muuré	then	other	other				
+bora	meenujkatsi	0058	í-du	this-CMPV	other	other				
+bora	meenujkatsi	0058	muúbe	brother	other	other				
+bora	meenujkatsi	0058	bóhlla-ho-re	bird_species-CLF.oval-REST	np:s	np		s	2090	new
+bora	meenujkatsi	0058	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0058	cho	NC	nc	nc				
+bora	meenujkatsi	0058	cho	NC	nc	nc				
+bora	meenujkatsi	0058	cho	NC	nc	nc				
+bora	meenujkatsi	0058	cho	NC	nc	nc				
+bora	meenujkatsi	0058	chabócororóo	NC	nc	nc				
+bora	meenujkatsi	0058	nee-híjcya-hi	say-REP-PRED	v:pred	v		pred		
+bora	meenujkatsi	0059	#	#	##	##				
+bora	meenujkatsi	0059	#	#	#ac	#ac				
+bora	meenujkatsi	0059	tsi-ne	other-INAN	other	other				
+bora	meenujkatsi	0059	ijchívye-ri	go_outside-INST	v:pred	v		pred		
+bora	meenujkatsi	0059	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0059	tsa-Vbe-ke	one-M.SG-ACC	pro.h:s	pro	h	s	2043	
+bora	meenujkatsi	0059	%	%	%	%				
+bora	meenujkatsi	0059	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0059	-Vbe	-M.SG	-pro.h:s_ds	-pro	h	s_ds	2043	
+bora	meenujkatsi	0059	#	#	#ds	#ds				
+bora	meenujkatsi	0059	muuré	then	other	other				
+bora	meenujkatsi	0059	me-ke	1PL-ACC	pro.1:p	pro	1	p	2055	
+bora	meenujkatsi	0059	keeva	call	v:pred	v		pred		
+bora	meenujkatsi	0059	-me	-PL	-pro.h:a	-pro	h	a	2050	
+bora	meenujkatsi	0060	#	#	##	##				
+bora	meenujkatsi	0060	tsáha	no	other	other				
+bora	meenujkatsi	0060	muuré	then	other	other				
+bora	meenujkatsi	0060	í-du	this-CMPV	other	other				
+bora	meenujkatsi	0060	ócóócoure	NC	nc	nc				
+bora	meenujkatsi	0060	ócóócoóu	NC	nc	nc				
+bora	meenujkatsi	0060	roóu	NC	nc	nc				
+bora	meenujkatsi	0060	nee-híjcya	say-REP	v:pred	v		pred		
+bora	meenujkatsi	0060	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2044	
+bora	meenujkatsi	0061	#	#	##	##				
+bora	meenujkatsi	0061	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0061	#	#	#ac	#ac				
+bora	meenujkatsi	0061	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0061	e-e-ne	that-PERT-INAN	other	other				
+bora	meenujkatsi	0061	iíñu-ba-ma	earth-CLF.object-SOC	np:other	np		other	2049	
+bora	meenujkatsi	0061	áachi-vu	outside-ALL	np:pred	np		pred		
+bora	meenujkatsi	0061	ímí-ne-úvu	good-INAN-intensively	other	other				
+bora	meenujkatsi	0061	di-Vbe	3-M.SG	pro.h:s	pro	h	s	2043	
+bora	meenujkatsi	0061	ijcya-náa	be-SIM	cop	cop				
+bora	meenujkatsi	0061	%	%	%	%				
+bora	meenujkatsi	0061	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0061	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0061	-Vbe	-M.SG	-pro.h:s_ds	-pro	h	s_ds	2050	
+bora	meenujkatsi	0061	#	#	#ds	#ds				
+bora	meenujkatsi	0061	nómɨ́jtúcojééumútsíí	NC	np.h:voc	np	h	voc	2055	
+bora	meenujkatsi	0061	múúha-ke	our-ACC	pro.1:p	pro	1	p	2050	
+bora	meenujkatsi	0061	úmeco-he	anger-CLF.tree	np:a	np		a	2038	
+bora	meenujkatsi	0061	pɨ́ru-tso-juco-hi	end-CAUS-AFIR-PRED	v:pred	v		pred		
+bora	meenujkatsi	0061	#	#	#ds	#ds				
+bora	meenujkatsi	0061	múúha-ke	our-ACC	pro.1:p	pro	1	p	2050	
+bora	meenujkatsi	0061	ijcya	be	other	other				
+bora	meenujkatsi	0061	me=	1PL=	=pro.h:a	=pro	h	a	2055	
+bora	meenujkatsi	0061	lliiñe	support	v:pred	v		pred		
+bora	meenujkatsi	0062	#	#	##	##				
+bora	meenujkatsi	0062	aa-ne-lliíhye	CON-INAN-BEN	other	other				
+bora	meenujkatsi	0062	#	#	#cc:a_ds	#cc		a_ds	2043	
+bora	meenujkatsi	0062	tsaa	come	v:pred	v		pred		
+bora	meenujkatsi	0062	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0062	botsí-he-iíkye	finally-CLF.tree-yet	other	other				
+bora	meenujkatsi	0062	%	%	%	%				
+bora	meenujkatsi	0062	di-Vbe-ke	3-M.SG-ACC	pro.h:p	pro	h	p	2044	
+bora	meenujkatsi	0062	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0062	#	#	#ds	#ds				
+bora	meenujkatsi	0062	ɨ́veeki	why	other	other				
+bora	meenujkatsi	0062	ó-ke	1SG-ACC	pro.1:p	pro	1	p	2043	
+bora	meenujkatsi	0062	u=	2SG=	=pro.2:a	=pro	2	a	2044	
+bora	meenujkatsi	0062	alli-híjcya	lie-REP	v:pred	v		pred		
+bora	meenujkatsi	0062	#	#	#ds	#ds				
+bora	meenujkatsi	0062	muuré	then	other	other				
+bora	meenujkatsi	0062	nómɨ́jtúcojéé-u-mu-tsi	herb-CLF.sphere-PL-CLF.place	np.h:voc	np	h	voc	2055	
+bora	meenujkatsi	0062	múúha-ke	our-ACC	pro.1:p	pro	1	p	2050	
+bora	meenujkatsi	0062	ijcya	be	other	other				
+bora	meenujkatsi	0062	me=	1PL=	=pro.2:a	=pro	2	a	2055	
+bora	meenujkatsi	0062	lliiñe	support	v:pred	v		pred		
+bora	meenujkatsi	0062	#	#	#ds	#ds				
+bora	meenujkatsi	0062	tsúúca	already	other	other				
+bora	meenujkatsi	0062	úmeco-he	anger-CLF.tree	np:a	np		a	2038	
+bora	meenujkatsi	0062	múúha-ke	our-ACC	pro.1:p	pro	1	p	2050	
+bora	meenujkatsi	0062	pɨ́ru-tso	end-CAUS	v:pred	v		pred		
+bora	meenujkatsi	0062	#	#	#ds	#ds				
+bora	meenujkatsi	0062	íllu	so	other	other				
+bora	meenujkatsi	0062	muuré	then	other	other				
+bora	meenujkatsi	0062	di-te	3-PL	pro.h:s	pro	h	s	2050	
+bora	meenujkatsi	0062	nee-ne	say-INAN	v:pred	v		pred		
+bora	meenujkatsi	0062	#	#	#ds	#ds				
+bora	meenujkatsi	0062	ó-ke	1SG-ACC	pro.1:p	pro	1	p	2043	
+bora	meenujkatsi	0062	u	2SG	pro.2:a	pro	2	a	2044	
+bora	meenujkatsi	0062	nehíjcyá	say-HAB	v:pred	v		pred		
+bora	meenujkatsi	0063	#	#	##	##				
+bora	meenujkatsi	0063	#	#	#cc:s	#cc		s	2043	
+bora	meenujkatsi	0063	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0063	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0063	-re	-REST	-rv	-rv				
+bora	meenujkatsi	0063	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0063	%	%	%	%				
+bora	meenujkatsi	0063	tsiiñe	again	other	other				
+bora	meenujkatsi	0063	tee-heju	3-CLF.hole	ln	ln			2049	
+bora	meenujkatsi	0063	pañe-vu	inside-ALL	np:obl	np		obl		
+bora	meenujkatsi	0063	úcaa-Vve-iñu-ne	go_in-SG.INTR-DIR.leave-INAN	v:pred	v		pred		
+bora	meenujkatsi	0063	#	#	##	##				
+bora	meenujkatsi	0063	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0063	núlli-ba	armadillo-CLF.object	ln_np.n	ln_np	n		2045	
+bora	meenujkatsi	0063	bówa	tail	np:p	np		p	2053	bridging
+bora	meenujkatsi	0063	do-	hand-	-lv	-lv				
+bora	meenujkatsi	0063	vári-úcu-je	take-SG.TR-DIR.return	v:pred	v		pred		
+bora	meenujkatsi	0063	íllu-re-juco	so-REST-AFIR	other	other				
+bora	meenujkatsi	0064	#	#	##	##				
+bora	meenujkatsi	0064	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0064	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0064	ɨɨne	NC	nc	nc				
+bora	meenujkatsi	0064	rojróco	flute	np:p	np		p	2054	new
+bora	meenujkatsi	0064	0	0	0.h:a	0	h	a	2043	
+bora	meenujkatsi	0064	meenu	do	v:pred	v		pred		
+bora	meenujkatsi	0064	#	#	##	##				
+bora	meenujkatsi	0064	0	0	0:p	0		p	2054	
+bora	meenujkatsi	0064	llíjchú-juco	blow-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0064	-Vbe	-M.SG	-pro.h:a	-pro	h	a	2043	
+bora	meenujkatsi	0064	íllu-re-juco	so-REST-AFIR	other	other				
+bora	meenujkatsi	0065	#	#	##	##				
+bora	meenujkatsi	0065	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0065	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0065	tsúúcaja-mu-úvu	old_days-PL-deceased	np.h:dt_a	np	h	dt_a	2001	
+bora	meenujkatsi	0065	#	#	#ac	#ac				
+bora	meenujkatsi	0065	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0065	meenu-jcatsi-vu	hit-RECP-ALL	np:g	np		g	2002	
+bora	meenujkatsi	0065	i=	3=	=pro.h:s	=pro	h	s	2001	
+bora	meenujkatsi	0065	pee-ki	go-PURP	v:pred	v		pred		
+bora	meenujkatsi	0065	%	%	%	%				
+bora	meenujkatsi	0065	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0065	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0065	rojróco-ri	flute-INST	np:obl	np		obl	2054	
+bora	meenujkatsi	0065	llíjchú-jcatsi-híjcya	blow-RECP-REP	v:pred	v		pred		
+bora	meenujkatsi	0065	-me	-PL	-pro.h:s	-pro	h	s	2001	
+bora	meenujkatsi	0065	tsúúca	already	other	other				
+bora	meenujkatsi	0065	#	#	#ac	#ac				
+bora	meenujkatsi	0065	#	#	#ds	#ds				
+bora	meenujkatsi	0065	muha	1PL.EXCL	pro.1:s	pro	1	s	2001	
+bora	meenujkatsi	0065	me=	1PL=	=lv_pro_1_s	=lv_pro_1_s			2001	
+bora	meenujkatsi	0065	pee-juco-hi	go-AFIR-PRED	v:pred	v		pred		
+bora	meenujkatsi	0065	meenu-jcatsi-vu	hit-RECP-ALL	np:g	np		g	2002	
+bora	meenujkatsi	0065	%	%	%	%				
+bora	meenujkatsi	0065	i=	3=	=pro.h:s	=pro	h	s	2001	
+bora	meenujkatsi	0065	nee-i-ró-ne	say-FUT-FRUS-INAN	v:pred	v		pred		
+bora	meenujkatsi	0066	#	#	##	##				
+bora	meenujkatsi	0066	aa-ne	CON-INAN	other	other				
+bora	meenujkatsi	0066	e-du	that-CMPV	other	other				
+bora	meenujkatsi	0066	#	#	#cc:s	#cc		s	2055	
+bora	meenujkatsi	0066	llíjchú	blow	v:pred	v		pred		
+bora	meenujkatsi	0066	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0066	-re	-REST	-rv	-rv				
+bora	meenujkatsi	0066	%	%	%	%				
+bora	meenujkatsi	0066	#	#	#cc:appos	#cc		appos		
+bora	meenujkatsi	0066	pee-jucoo	go-PERF	v:pred	v		pred		
+bora	meenujkatsi	0066	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0067	%	%	%	%				
+bora	meenujkatsi	0067	úújete	reach	v:pred	v		pred		
+bora	meenujkatsi	0067	tee-hulle-vu	3-CLF.further_place-ALL	np:obl	np		obl	2056	new
+bora	meenujkatsi	0067	#	#	#rc	#rc				
+bora	meenujkatsi	0067	0	0	f0:l	f0		l	2056	
+bora	meenujkatsi	0067	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0067	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0067	di-te	3-PL	other	other				
+bora	meenujkatsi	0067	mɨa	true	ln	ln				
+bora	meenujkatsi	0067	múnaa	people	np.h:s	np	h	s	2057	new
+bora	meenujkatsi	0067	cállaja-Vve-té-híjcya-tsi-vu	crowd-SG.INTR-DIR.go-REP-CLF.place-ALL	v:pred	v		pred		
+bora	meenujkatsi	0068	#	#	##	##				
+bora	meenujkatsi	0068	aa	CON	other	other				
+bora	meenujkatsi	0068	-mútsi-ke	-M.DU-ACC	-pro.h:p	-pro	h	p	2055	
+bora	meenujkatsi	0068	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0068	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0068	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0068	pɨ́ɨ́ca-ba-nu	manioc-CLF.object-VBZ.do	v:pred	v		pred		
+bora	meenujkatsi	0068	-me	-PL	-pro.h:a	-pro	h	a	2057	
+bora	meenujkatsi	0068	di-te-tsi-ke	3-PL-CLF.place-ACC	pro.h:appos	pro	h	appos	2055	
+bora	meenujkatsi	0069	#	#	##	##				
+bora	meenujkatsi	0069	aa-ro-ne-va-pe	CON-SG.TR-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0069	#	#	#cc.neg:a	#cc.neg		a	2055	
+bora	meenujkatsi	0069	tsáha	no	other	other				
+bora	meenujkatsi	0069	di-jtétsi	3-M.DU	pro.h:s	pro	h	s	2055	
+bora	meenujkatsi	0069	ado-tu	drink-NEG	v:pred	v		pred		
+bora	meenujkatsi	0069	-mútsi	-M.DU	-rv_pro_h_s	-rv_pro_h_s			2055	
+bora	meenujkatsi	0069	-re	-REST	-rv	-rv				
+bora	meenujkatsi	0069	%	%	%	%				
+bora	meenujkatsi	0069	íllu-re	so-REST	other	other				
+bora	meenujkatsi	0069	0	0	0:p	0		p		
+bora	meenujkatsi	0069	túwachú-hcu-té	kick-MULT.TR-DIR.go	v:pred	v		pred		
+bora	meenujkatsi	0070	#	#	##	##				
+bora	meenujkatsi	0070	aa	CON	other	other				
+bora	meenujkatsi	0070	-mútsi	-M.DU	-pro.h:a	-pro	h	a	2055	
+bora	meenujkatsi	0070	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0070	ɨɨte-cunu	look-MULT.INTR	v:pred	v		pred		
+bora	meenujkatsi	0070	tee-he	3-CLF.tree	np:p	np		p	2038	
+bora	meenujkatsi	0070	#	#	##	##				
+bora	meenujkatsi	0070	ɨ́mɨá-ne	true-INAN	other	other				
+bora	meenujkatsi	0070	úmeco-he	anger-CLF.tree	np:s	np		s	2038	
+bora	meenujkatsi	0070	ávyeta-re	very-REST	other	other				
+bora	meenujkatsi	0070	úmeco-jkímei-ne	anger-VBZ.behave-INAN	v:pred	v		pred		
+bora	meenujkatsi	0070	di-te-di-vu	3-PL-ANIM-ALL	np.h:obl	np	h	obl	2057	
+bora	meenujkatsi	0071	#	#	##	##				
+bora	meenujkatsi	0071	aa-ne-lliíhye-va-pe	CON-INAN-BEN-QUOT-REM	other	other				
+bora	meenujkatsi	0071	ɨ́jtsá-meí	think-REFL	v:pred	v		pred		
+bora	meenujkatsi	0071	-mútsi	-M.DU	-pro.h:s_ds	-pro	h	s_ds	2055	
+bora	meenujkatsi	0071	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0071	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0071	#	#	#ds	#ds				
+bora	meenujkatsi	0071	májo	let_us_go	other	other				
+bora	meenujkatsi	0071	me-	1PL.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2055	
+bora	meenujkatsi	0071	taalléu	grandmother	np.h:other	np	h	other	2058	new
+bora	meenujkatsi	0071	élle-vu	there-ALL	np:g	np		g		
+bora	meenujkatsi	0071	cuwára-jɨ	ñejilla_plant-CLF.disc	ln	ln				
+bora	meenujkatsi	0071	mewa	wife	np.h:other	np	h	other	2058	
+bora	meenujkatsi	0071	élle-vu	there-ALL	np:g	np		g		
+bora	meenujkatsi	0071	#	#	#ds	#ds				
+bora	meenujkatsi	0071	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2058	
+bora	meenujkatsi	0071	cuwa	sleep	np:other	np		other	2085	new
+bora	meenujkatsi	0071	me=	1PL=	=pro.1:a	=pro	1	a	2055	
+bora	meenujkatsi	0071	ujcu-té-ne-ma	get-DIR.go-INAN-BEN	v:pred	v		pred		
+bora	meenujkatsi	0071	#	#	#ds_ac	#ds_ac				
+bora	meenujkatsi	0071	me-	1PL-	-ln_pro.1:poss	-ln_pro	1	poss	2055	
+bora	meenujkatsi	0071	táhdií	grandfather	np.h:other	np	h	other		
+bora	meenujkatsi	0071	úmeco	anger	np:p	np		p	2059	new
+bora	meenujkatsi	0071	chijchi	thunder	np:other	np		other		
+bora	meenujkatsi	0071	úmeco	anger	np:appos	np		appos	2059	
+bora	meenujkatsi	0071	me=	1PL=	=pro.1:a	=pro	1	a	2055	
+bora	meenujkatsi	0071	ujcu-ki	get-PURP	v:pred	v		pred		
+bora	meenujkatsi	0071	#	#	##	##				
+bora	meenujkatsi	0071	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0071	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0071	-re	-REST	-rv	-rv				
+bora	meenujkatsi	0071	#	#	##	##				
+bora	meenujkatsi	0071	#	#	#cc:a	#cc		a	2055	
+bora	meenujkatsi	0071	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0071	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0071	%	%	%	%				
+bora	meenujkatsi	0071	di-lle	3-F.SG	other	other				
+bora	meenujkatsi	0071	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2055	
+bora	meenujkatsi	0071	taalléu-ke	grandmother-ACC	np.h:p	np	h	p	2058	
+bora	meenujkatsi	0071	dí--	NC	nc	nc				
+bora	meenujkatsi	0071	dillo-híjcya	ask-REP	v:pred	v		pred		
+bora	meenujkatsi	0071	#	#	#rc	#rc				
+bora	meenujkatsi	0071	cuwa	sleep	v:pred	v		pred		
+bora	meenujkatsi	0071	-lle-ke	-F.SG-ACC	-pro.h:s	-pro	h	s	2058	
+bora	meenujkatsi	0072	#	#	##	##				
+bora	meenujkatsi	0072	aa	CON	other	other				
+bora	meenujkatsi	0072	-lle	-F.SG	-pro.h:s	-pro	h	s		
+bora	meenujkatsi	0072	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0072	#	#	#ac	#ac				
+bora	meenujkatsi	0072	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0072	e-ne	that-INAN	np:p	np		p	2085	
+bora	meenujkatsi	0072	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2058	
+bora	meenujkatsi	0072	hállu-mɨɨ́ho-ne-tu	eye-CLF.sheet-PL-ABL	np:obl	np		obl	2060	bridging
+bora	meenujkatsi	0072	i=	3=	=pro.h:a	=pro	h	a		
+bora	meenujkatsi	0072	ujcu-ne	get-INAN	v:pred	v		pred		
+bora	meenujkatsi	0072	%	%	%	%				
+bora	meenujkatsi	0072	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0072	di-te-tsi-ma	3-PL-CLF.place-BEN	np.h:other	np	h	other	2055	
+bora	meenujkatsi	0072	bɨ́ɨ́jɨ-nu	wrap-MULT.TR	v:pred	v		pred		
+bora	meenujkatsi	0072	#	#	##	##				
+bora	meenujkatsi	0072	#	#	#cc:p	#cc		p	2086	bridging
+bora	meenujkatsi	0072	i=	3=	=pro.h:s	=pro	h	s	2058	
+bora	meenujkatsi	0072	bɨ́ɨ́jɨ-nu-ne	wrap-MULT.TR-INAN	v:pred	v		pred		
+bora	meenujkatsi	0072	%	%	%	%				
+bora	meenujkatsi	0072	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0072	-lle	-F.SG	-pro.h:a	-pro	h	a	2058	
+bora	meenujkatsi	0073	#	#	##	##				
+bora	meenujkatsi	0073	#	#	#cc.neg:s	#cc.neg		s	2043	
+bora	meenujkatsi	0073	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0073	di-Vbe	3-M.SG	pro.h:dt_s	pro	h	dt_s	2043	
+bora	meenujkatsi	0073	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0073	#	#	#rc	#rc				
+bora	meenujkatsi	0073	i=	3=	=pro.h:s	=pro	h	s	2043	
+bora	meenujkatsi	0073	állíú	lie	v:pred	v		pred		
+bora	meenujkatsi	0073	-Vbe	-M.SG	-pro_h_s	-pro_h_s				
+bora	meenujkatsi	0073	%	%	%	%				
+bora	meenujkatsi	0073	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0073	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0073	páábɨ-ho	NC-CLF.oval	ln	ln				
+bora	meenujkatsi	0073	páábɨ	hummingbird	ln	ln				
+bora	meenujkatsi	0073	ííhyúuú-ne	egg-PL	ln	ln				
+bora	meenujkatsi	0073	tsijcya-tso-ta-Vbe	burst-CAUS-NMZ-M.SG	np.h:a	np	h	a	2043	
+bora	meenujkatsi	0073	#	#	#ac	#ac				
+bora	meenujkatsi	0073	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0073	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0073	#	#	#ds	#ds				
+bora	meenujkatsi	0073	me=	1PL=	=pro.2:s	=pro	2	s	2055	
+bora	meenujkatsi	0073	míhchu-Vve	close_eyes-SG.INTR	v:pred	v		pred		
+bora	meenujkatsi	0073	%	%	%	%				
+bora	meenujkatsi	0073	di-lle	3-F.SG	pro.h:s_ds	pro	h	s_ds	2058	
+bora	meenujkatsi	0073	nee-náa	say-SIM	v:pred	v		pred		
+bora	meenujkatsi	0073	%	%	%	%				
+bora	meenujkatsi	0073	míhchu-Vve-tu	close_eyes-SG.INTR-NEG	v:pred	v		pred		
+bora	meenujkatsi	0073	-Vbe	-M.SG	-rv_pro_h_s	-rv_pro_h_s			2043	
+bora	meenujkatsi	0073	%	%	%	%				
+bora	meenujkatsi	0073	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0073	ɨɨte-híjcya	look-REP	v:pred	v		pred		
+bora	meenujkatsi	0074	#	#	##	##				
+bora	meenujkatsi	0074	aa	CON	other	other				
+bora	meenujkatsi	0074	-Vbe	-M.SG	-pro.h:dt_s_ds	-pro	h	dt_s_ds	2043	
+bora	meenujkatsi	0074	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0074	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0074	#	#	#ds.neg	#ds.neg				
+bora	meenujkatsi	0074	aca	Q.doubt	other	other				
+bora	meenujkatsi	0074	muhdu	how	other	other				
+bora	meenujkatsi	0074	tsi-du-re	other-CMPV-REST	other	other				
+bora	meenujkatsi	0074	nee-tu-ne	seem-NEG-INAN	v:pred	v		pred		
+bora	meenujkatsi	0074	muh	consent	other	other				
+bora	meenujkatsi	0074	#	#	#ds_cc	#ds_cc				
+bora	meenujkatsi	0074	me-ke	1PL-ACC	pro.1:p	pro	1	p	2055	
+bora	meenujkatsi	0074	di-lle	3-F.SG	pro.h:a	pro	h	a	2058	
+bora	meenujkatsi	0074	ajcu-ne	give-INAN	v:pred	v		pred		
+bora	meenujkatsi	0074	#	#	#ds	#ds				
+bora	meenujkatsi	0074	íllu-re-uba	so-REST-PROB	other	other				
+bora	meenujkatsi	0074	alli	lie	v:pred	v		pred		
+bora	meenujkatsi	0074	-lle	-F.SG	-pro.h:s	-pro	h	s	2058	
+bora	meenujkatsi	0075	#	#	##	##				
+bora	meenujkatsi	0075	#	#	#ds	#ds				
+bora	meenujkatsi	0075	muh	consent	other	other				
+bora	meenujkatsi	0075	#	#	#rc.neg	#rc.neg				
+bora	meenujkatsi	0075	ɨhtsu	weak	v:pred	v		pred		
+bora	meenujkatsi	0075	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2061	
+bora	meenujkatsi	0075	-jɨ́ɨ́vari	-NEG	-rv	-rv				
+bora	meenujkatsi	0075	%	%	%	%				
+bora	meenujkatsi	0075	me-	1PL.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2055	
+bora	meenujkatsi	0075	táhdií	grandfather	np.h:other	np	h	other		
+bora	meenujkatsi	0075	chijchi	thunder	np.h:appos	np	h	appos	2061	bridging
+bora	meenujkatsi	0075	élle-vu	there-ALL	np:g	np		g		
+bora	meenujkatsi	0075	me=	1PL=	=pro.1:s	=pro	1	s	2055	
+bora	meenujkatsi	0075	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0075	#	#	#ds	#ds				
+bora	meenujkatsi	0075	muhdu	how	other	other				
+bora	meenujkatsi	0075	átere-e-ne	worthless-PERT-INAN	other	other			2086	
+bora	meenujkatsi	0075	me-ke	1PL-ACC	pro.1:p	pro	1	p	2055	
+bora	meenujkatsi	0075	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0075	-lle	-F.SG	-pro.h:a	-pro	h	a	2058	
+bora	meenujkatsi	0075	%	%	%	%				
+bora	meenujkatsi	0075	i=	3=	=pro.h:s_ds	=pro	h	s_ds	2043	
+bora	meenujkatsi	0075	nee-ne	say-INAN	v:pred	v		pred		
+bora	meenujkatsi	0075	#	#	##	##				
+bora	meenujkatsi	0075	tee-ne	3-INAN	np:p	np		p	2086	
+bora	meenujkatsi	0075	juúva-vu	path-ALL	np:obl	np		obl		
+bora	meenujkatsi	0075	tsíña-áco-té	untie-SG.TR-DIR.go	v:pred	v		pred		
+bora	meenujkatsi	0075	-Vbe	-M.SG	-pro.h:a	-pro	h	a	2043	
+bora	meenujkatsi	0075	#	#	##	##				
+bora	meenujkatsi	0075	tsúúca	already	other	other				
+bora	meenujkatsi	0075	cuwa-jucoo	sleep-PERF	v:pred	v		pred		
+bora	meenujkatsi	0075	-mútsi	-M.DU	-rv_pro_h_s	-rv_pro_h_s			2055	
+bora	meenujkatsi	0075	di-te-tsi	3-PL-CLF.place	np.h:s	np	h	s	2055	
+bora	meenujkatsi	0076	#	#	##	##				
+bora	meenujkatsi	0076	di-Vbe	3-M.SG	pro.h:s	pro	h	s	2043	
+bora	meenujkatsi	0076	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0076	#	#	#rc	#rc				
+bora	meenujkatsi	0076	i=	3=	=pro.h:s	=pro	h	s	2043	
+bora	meenujkatsi	0076	állíú	lie	v:pred	v		pred		
+bora	meenujkatsi	0076	-Vbe	-M.SG	-pro_h_s	-pro_h_s			2043	
+bora	meenujkatsi	0076	%	%	%	%				
+bora	meenujkatsi	0076	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0076	baá-vu-re	below-ALL-REST	np:obl	np		obl		
+bora	meenujkatsi	0076	áákitye	fall	v:pred	v		pred		
+bora	meenujkatsi	0076	#	#	##	##				
+bora	meenujkatsi	0076	aa-ne-tu	CON-INAN-NEG	other	other				
+bora	meenujkatsi	0076	di-Vbe	3-M.SG	pro.h:s	pro	h	s	2044	
+bora	meenujkatsi	0076	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0076	#	#	#rc	#rc				
+bora	meenujkatsi	0076	ɨ́mɨá-Vbe	true-M.SG	other:pred	other		pred		
+bora	meenujkatsi	0076	ijcya	be	cop	cop				
+bora	meenujkatsi	0076	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2044	
+bora	meenujkatsi	0076	%	%	%	%				
+bora	meenujkatsi	0076	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0076	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0076	ihñe	his	other	other				
+bora	meenujkatsi	0076	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2044	
+bora	meenujkatsi	0076	tuhe-mɨɨ́ho	shield-CLF.sheet	np:other	np		other	2062	new
+bora	meenujkatsi	0076	pañe-vu-re	inside-ALL-REST	np:obl	np		obl		
+bora	meenujkatsi	0076	áákitye	fall	v:pred	v		pred		
+bora	meenujkatsi	0077	#	#	##	##				
+bora	meenujkatsi	0077	aa	CON	other	other				
+bora	meenujkatsi	0077	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0077	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0077	cuwa	sleep	v:pred	v		pred		
+bora	meenujkatsi	0077	cuwa	sleep	rv	rv				
+bora	meenujkatsi	0077	cuwa	sleep	rv	rv				
+bora	meenujkatsi	0077	#	#	##	##				
+bora	meenujkatsi	0077	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss		
+bora	meenujkatsi	0077	cuwa-tsi-du	sleep-CLF.place-CMPV	np:other	np		other		
+bora	meenujkatsi	0077	#	#	#rc.h:s	#rc	h	s	2055	
+bora	meenujkatsi	0077	ajkye	get_up	v:pred	v		pred		
+bora	meenujkatsi	0077	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0077	%	%	%	%				
+bora	meenujkatsi	0077	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0077	#	#	##	##				
+bora	meenujkatsi	0077	di-Vbe	3-M.SG	pro.h:s	pro	h	s	2043	
+bora	meenujkatsi	0077	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0077	#	#	#rc	#rc				
+bora	meenujkatsi	0077	i=	3=	=pro.h:s	=pro	h	s	2043	
+bora	meenujkatsi	0077	állíú	lie	v:pred	v		pred	2043	
+bora	meenujkatsi	0077	-Vbe	-M.SG	-pro_h_s	-pro_h_s			2043	
+bora	meenujkatsi	0077	%	%	%	%				
+bora	meenujkatsi	0077	nee-hi	say-PRED	v:pred	v		pred		
+bora	meenujkatsi	0078	#	#	#ds	#ds				
+bora	meenujkatsi	0078	ɨɨ́ne	what	other	other				
+bora	meenujkatsi	0078	ó=	1SG=	=pro.1:a	=pro	1	a	2043	
+bora	meenujkatsi	0078	tuwa	dream	v:pred	v		pred		
+bora	meenujkatsi	0078	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0078	ó-ke	1SG-ACC	pro.1:p	pro	1	p	2043	
+bora	meenujkatsi	0078	tohju-mu	earthworm-PL	np.n:s	np	n	s	2063	new
+bora	meenujkatsi	0078	ado-ne	drink-INAN	v:pred	v		pred		
+bora	meenujkatsi	0079	#	#	##	##				
+bora	meenujkatsi	0079	hójtsɨva-co	spear-CLF.pointed	np:other	np		other		
+bora	meenujkatsi	0079	uubálle	story	np:dt	np		dt	2078	new
+bora	meenujkatsi	0079	#	#	#cc	#cc				
+bora	meenujkatsi	0079	hójtsɨva-co	spear-CLF.pointed	np:s	np		s		
+bora	meenujkatsi	0079	u-di-tu	2SG-ANIM-ABL	pro.2:p	pro	2	p	2043	
+bora	meenujkatsi	0079	wajtsɨ-i-ne	arrive-FUT-INAN	v:pred	v		pred		
+bora	meenujkatsi	0079	%	%	%	%				
+bora	meenujkatsi	0079	uubálle	story	np:p	np		p	2078	
+bora	meenujkatsi	0079	u=	2SG=	=pro.2:s	=pro	2	s	2043	
+bora	meenujkatsi	0079	tuwa-hi	dream-PRED	v:pred	v		pred		
+bora	meenujkatsi	0080	NC	NC	nc	nc				
+bora	meenujkatsi	0081	#	#	##ds	##ds				
+bora	meenujkatsi	0081	aa-ne-tu	CON-INAN-ABL	other	other				
+bora	meenujkatsi	0081	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0081	ó-ke	1SG-ACC	pro.1:p	pro	1	p	2044	
+bora	meenujkatsi	0081	ihdyu	like_this	other	other				
+bora	meenujkatsi	0081	mu-te	whose-PL	ln	ln				
+bora	meenujkatsi	0081	naavé-mu	spirit-PL	np.d:s	np	d	s	2064	new
+bora	meenujkatsi	0081	ado-ne	drink-INAN	v:pred	v		pred		
+bora	meenujkatsi	0081	%	%	%	%				
+bora	meenujkatsi	0081	ó=	1SG=	=pro.1:a	=pro	1	a	2044	
+bora	meenujkatsi	0081	tuwa-hi	dream-PRED	v:pred	v		pred		
+bora	meenujkatsi	0082	NC	NC	nc	nc				
+bora	meenujkatsi	0083	#	#	##ds	##ds				
+bora	meenujkatsi	0083	máátyo-ba	crying-CLF.object	np:other	np		other		
+bora	meenujkatsi	0083	tuwa	dream	np:p	np		p	2087	new
+bora	meenujkatsi	0083	u=	2SG=	=pro.2:a	=pro	2	a	2043	
+bora	meenujkatsi	0083	meenu-hi	do-PRED	v:pred	v		pred		
+bora	meenujkatsi	0084	#	#	##	##				
+bora	meenujkatsi	0084	tee-tsi-vu	3-CLF.place-ALL	np:obl	np		obl		
+bora	meenujkatsi	0084	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0084	waajácu-meí-ne	know-REFL-INAN	v:pred	v		pred		
+bora	meenujkatsi	0084	í-ne	this-INAN	other	other				
+bora	meenujkatsi	0084	tsúúcaja-mu-úvu	old_days-PL-deceased	np.h:a	np	h	a	2001	
+bora	meenujkatsi	0084	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0084	#	#	#ac	#ac				
+bora	meenujkatsi	0084	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0084	i=	3=	=pro.h:s	=pro	h	s	2001	
+bora	meenujkatsi	0084	meenu-jcatsi-coóca	do-RECP-when	v:pred	v		pred		
+bora	meenujkatsi	0084	%	%	%	%				
+bora	meenujkatsi	0084	di-Vbe-ke	3-M.SG-ACC	pro.h:p	pro	h	p	2001	
+bora	meenujkatsi	0084	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0084	hójtsɨva-co	spear-CLF.pointed	np:a	np		a	2078	
+bora	meenujkatsi	0084	úújete-i-coóca	reach-FUT-when	v:pred	v		pred		
+bora	meenujkatsi	0084	#	#	#ac	#ac				
+bora	meenujkatsi	0084	#	#	#cc:p	#cc		p		
+bora	meenujkatsi	0084	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0084	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0084	tohju-mu	earthworm-PL	np.n:a	np	n	a	2063	
+bora	meenujkatsi	0084	0	0	0:p	0		p		
+bora	meenujkatsi	0084	ado-ne	drink-INAN	v:pred	v		pred		
+bora	meenujkatsi	0084	%	%	%	%				
+bora	meenujkatsi	0084	di-Vbe	3-M.SG	np.h:a	np	h	a	2001	
+bora	meenujkatsi	0084	tuwa-híjcya-ne	dream-REP-INAN	v:pred	v		pred		
+bora	meenujkatsi	0085	#	#	#nc	#nc				
+bora	meenujkatsi	0085	máátyo-ba	crying-CLF.object	nc	nc				
+bora	meenujkatsi	0085	tuwa	dream	nc	nc				
+bora	meenujkatsi	0085	tee-ne	3-INAN	nc	nc				
+bora	meenujkatsi	0085	naavé-mu	devil-PL	nc	nc				
+bora	meenujkatsi	0085	di-te	3-PL	nc	nc				
+bora	meenujkatsi	0085	ado-ne	drink-INAN	nc	nc				
+bora	meenujkatsi	0085	tuwa-híjcya-ne	dream-REP-INAN	nc	nc				
+bora	meenujkatsi	0085	tee-tsi-hjɨ-vu	3-CLF.place-PL-ALL	nc	nc				
+bora	meenujkatsi	0085	tee-ne	3-INAN	nc	nc				
+bora	meenujkatsi	0085	waajácu-ba-ne	knowledge-CLF.object-INAN	nc	nc				
+bora	meenujkatsi	0086	#	#	##	##				
+bora	meenujkatsi	0086	aa-tsi-du	CON-CLF.place-CMPV	other	other				
+bora	meenujkatsi	0086	#	#	#cc:s	#cc		s	2055	
+bora	meenujkatsi	0086	tsaa	come	v:pred	v		pred		
+bora	meenujkatsi	0086	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0086	tsiiñe	again	other	other				
+bora	meenujkatsi	0086	%	%	%	%				
+bora	meenujkatsi	0086	0	0	0:p	0		p	2085	
+bora	meenujkatsi	0086	táúmei-té	ask_for-DIR.go	v:pred	v		pred		
+bora	meenujkatsi	0086	#	#	##	##				
+bora	meenujkatsi	0086	#	#	#rc	#rc				
+bora	meenujkatsi	0086	i=	3=	=pro.h:a	=pro	h	a	2055	
+bora	meenujkatsi	0086	táúmei-té-ne	ask_for-DIR.go-INAN	v:pred	v		pred		
+bora	meenujkatsi	0086	tee-ne	3-INAN	pro:p	pro		p	2085	
+bora	meenujkatsi	0086	%	%	%	%				
+bora	meenujkatsi	0086	di-tetsi-ke	3-DU-ACC	pro.h:p2	pro	h	p2	2055	
+bora	meenujkatsi	0086	tsiiñe	again	other	other				
+bora	meenujkatsi	0086	ajcu	give	v:pred	v		pred		
+bora	meenujkatsi	0086	-lle	-F.SG	-pro.h:a	-pro	h	a	2058	
+bora	meenujkatsi	0087	#	#	##	##				
+bora	meenujkatsi	0087	aa-ne-ma	CON-INAN-BEN	other:obl	other		obl	2086	
+bora	meenujkatsi	0087	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0087	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0087	#	#	##	##				
+bora	meenujkatsi	0087	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0087	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0087	chijchi	thunder	np.h:other	np	h	other	2061	
+bora	meenujkatsi	0087	lléého-wa-tu	door-CLF.plank-ABL	np:obl	np		obl	2065	new
+bora	meenujkatsi	0087	0	0	0:p	0		p	2086	
+bora	meenujkatsi	0087	tsíña-áco-te	untie-SG.TR-PL	v:pred	v		pred		
+bora	meenujkatsi	0087	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0087	#	#	##	##				
+bora	meenujkatsi	0087	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0087	chijchi	thunder	np.h:appos	np	h	appos	2061	
+bora	meenujkatsi	0087	#	#	#cc:s	#cc		s	2061	
+bora	meenujkatsi	0087	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2061	
+bora	meenujkatsi	0087	úme-nu-hajtsɨ-ri	vegetal_salt-VBZ.do-CLF.clearing-LOC	np:l	np		l		
+bora	meenujkatsi	0087	ijcya	be	cop	cop				
+bora	meenujkatsi	0087	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2061	
+bora	meenujkatsi	0087	%	%	%	%				
+bora	meenujkatsi	0087	cuwa-iñu	sleep-DIR.leave	v:pred	v		pred		
+bora	meenujkatsi	0088	NC	NC	nc	nc				
+bora	meenujkatsi	0089	#	#	##	##				
+bora	meenujkatsi	0089	aa-Vbe	CON-M.SG	ln_pro.h:poss	ln_pro	h	poss	2061	
+bora	meenujkatsi	0089	úmeco	anger	np:p	np		p	2059	
+bora	meenujkatsi	0089	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0089	ujcu	get	v:pred	v		pred		
+bora	meenujkatsi	0089	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0089	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0089	#	#	#rc	#rc				
+bora	meenujkatsi	0089	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2061	
+bora	meenujkatsi	0089	mɨ́ɨ́cumɨ	mirror	ln_np	ln_np			2066	new
+bora	meenujkatsi	0089	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0089	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0089	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2061	
+bora	meenujkatsi	0089	nɨjɨ-he	chambira_palm-CLF.tree	ln	ln				
+bora	meenujkatsi	0089	bállo-wa	truncheon-CLF.plank	np:pred	np		pred	2067	new
+bora	meenujkatsi	0089	íjcya-ne	COP-INAN	cop	cop				
+bora	meenujkatsi	0090	#	#	##	##				
+bora	meenujkatsi	0090	cápáyo-áco	replace-SG.TR	v:pred	v		pred		
+bora	meenujkatsi	0090	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0090	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0090	márama-he	cético_plant-CLF.tree	np:other	np		other		
+bora	meenujkatsi	0090	ballóówa-u	club-ALL	np:p	np		p	2068	new
+bora	meenujkatsi	0090	#	#	##	##				
+bora	meenujkatsi	0090	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2061	
+bora	meenujkatsi	0090	mɨ́ɨ́cumɨ	mirror	np:p	np		p	2066	
+bora	meenujkatsi	0090	#	#	#rc	#rc				
+bora	meenujkatsi	0090	0	0	f0:p	f0		p	2066	
+bora	meenujkatsi	0090	i=	3=	=pro.h:a	=pro	h	a	2043	
+bora	meenujkatsi	0090	ujcu-ne	get-INAN	v:pred	v		pred		
+bora	meenujkatsi	0090	%	%	%	%				
+bora	meenujkatsi	0090	cápáyo-áco	replace-SG.TR	v:pred	v		pred		
+bora	meenujkatsi	0090	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0090	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0090	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2043	
+bora	meenujkatsi	0090	mááni	tar	np:other	np		other		
+bora	meenujkatsi	0090	mɨ́ɨ́cumɨ-vu	mirror-ALL	np:obl	np		obl	2069	new
+bora	meenujkatsi	0091	#	#	##	##				
+bora	meenujkatsi	0091	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
+bora	meenujkatsi	0091	di-Vbe	3-M.SG	pro.h:dt_s	pro	h	dt_s	2043	
+bora	meenujkatsi	0091	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0091	#	#	#rc	#rc				
+bora	meenujkatsi	0091	i=	3=	=pro.h:s	=pro	h	s	2043	
+bora	meenujkatsi	0091	állíú	lie	v:pred	v		pred		
+bora	meenujkatsi	0091	-Vbe	-M.SG	-pro_h_s	-pro_h_s			2043	
+bora	meenujkatsi	0091	%	%	%	%				
+bora	meenujkatsi	0091	di-lle	3-F.SG	other	other				
+bora	meenujkatsi	0091	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0091	ɨ́dsɨ	daughter	np.h:p	np	h	p	2070	new
+bora	meenujkatsi	0091	#	#	#rc	#rc				
+bora	meenujkatsi	0091	bádsɨwahéju-ri	back_door-LOC	np:obl	np		obl		
+bora	meenujkatsi	0091	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss		
+bora	meenujkatsi	0091	túúkemɨ	anklet	np:p	np		p	2071	new
+bora	meenujkatsi	0091	nuú-hijcya	braid-HAB	v:pred	v		pred		
+bora	meenujkatsi	0091	-lle	-F.SG	-pro.h:a	-pro	h	a	2070	
+bora	meenujkatsi	0091	-ke-re-juco	-ACC-REST-AFIR	-rv	-rv				
+bora	meenujkatsi	0091	%	%	%	%				
+bora	meenujkatsi	0091	mávarí-ro-ri	disturb-SG.TR-INST	np:pred	np		pred		
+bora	meenujkatsi	0091	ijcya	be	cop	cop				
+bora	meenujkatsi	0091	-Vbe-a	-M.SG-NC	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0092	#	#	##	##				
+bora	meenujkatsi	0092	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0092	-Vbe	-M.SG	-pro.h:s_ds	-pro	h	s_ds	2044	
+bora	meenujkatsi	0092	#	#	#ds.neg	#ds.neg				
+bora	meenujkatsi	0092	tsáha-ne	no-REC	other	other				
+bora	meenujkatsi	0092	e-ne-vu	that-INAN-ALL	pro:obl	pro		obl		
+bora	meenujkatsi	0092	me=	1PL=	=pro.1:s	=pro	1	s	2055	
+bora	meenujkatsi	0092	tsaa-tu	come-NEG	v:pred	v		pred		
+bora	meenujkatsi	0092	di-te	3-PL	np:other	np		other		
+bora	meenujkatsi	0092	wallee-mu	woman-PL	np.h:other	np	h	other		
+bora	meenujkatsi	0092	élle-vu	there-ALL	np:obl	np		obl		
+bora	meenujkatsi	0092	#	#	#ds	#ds				
+bora	meenujkatsi	0092	me-hne	1PL-REC	pro.1:s	pro	1	s	2055	
+bora	meenujkatsi	0092	me=	1PL=	=lv_pro_1_s	=lv_pro_1_s			2055	
+bora	meenujkatsi	0092	tsaa	come	v:pred	v		pred		
+bora	meenujkatsi	0092	#	#	#ac	#ac				
+bora	meenujkatsi	0092	me-	1PL.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2055	
+bora	meenujkatsi	0092	táhdií	grandfather	np.h:other	np	h	other	2061	
+bora	meenujkatsi	0092	úmeco	anger	np:p	np		p	2059	
+bora	meenujkatsi	0092	me=	1PL=	=pro.1:a	=pro	1	a	2055	
+bora	meenujkatsi	0092	ujcu	get	v:pred	v		pred		
+bora	meenujkatsi	0093	#	#	##	##				
+bora	meenujkatsi	0093	aa-ne-lliíhye-va-pe	CON-INAN-BEN-QUOT-REM	other	other				
+bora	meenujkatsi	0093	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0093	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0093	#	#	##	##				
+bora	meenujkatsi	0093	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0093	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0093	íchii-du	here-CMPV	other	other				
+bora	meenujkatsi	0093	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2043	
+bora	meenujkatsi	0093	mamá-ho	magic-CLF.oval	np:s	np		s	2088	new
+bora	meenujkatsi	0093	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0093	tohju-tu-re	earthworm-ABL-REST	np.n:obl	np	n	obl	2072	new
+bora	meenujkatsi	0093	ejke-ho	hold-CLF.oval	v:pred	v		pred		
+bora	meenujkatsi	0094	#	#	##	##				
+bora	meenujkatsi	0094	#	#	#ac	#ac				
+bora	meenujkatsi	0094	#	#	#ds	#ds				
+bora	meenujkatsi	0094	kiá-tu	where-ABL	other	other				
+bora	meenujkatsi	0094	0	0	0.n:p	0	n	p	2072	
+bora	meenujkatsi	0094	ó=	1SG=	=pro.1:a	=pro	1	a	2043	
+bora	meenujkatsi	0094	tába-hjúcu-V	pull-SG.TR-FUT	v:pred	v		pred		
+bora	meenujkatsi	0094	%	%	%	%				
+bora	meenujkatsi	0094	i=	3=	=pro.h:s_ds	=pro	h	s_ds	2043	
+bora	meenujkatsi	0094	nee-ró-ne	say-FRUS-INAN	v:pred	v		pred		
+bora	meenujkatsi	0094	%	%	%	%				
+bora	meenujkatsi	0094	#	#	#ac	#ac				
+bora	meenujkatsi	0094	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0094	i-	3.POSS-	-pro.n:obl	-pro	n	obl	2072	
+bora	meenujkatsi	0094	ɨ́ɨ́bu	heart	np:other	np		other	2073	bridging
+bora	meenujkatsi	0094	-tu	-ABL	-rn	-rn				
+bora	meenujkatsi	0094	i=	3=	=pro.h:s	=pro	h	s	2043	
+bora	meenujkatsi	0094	tuvaa-ne	stamp_on-INAN	v:pred	v		pred		
+bora	meenujkatsi	0094	%	%	%	%				
+bora	meenujkatsi	0094	ta-várí-úcu	do.with.hand-break-SG.TR	v:pred	v		pred		
+bora	meenujkatsi	0094	-Vbe	-M.SG	-pro.h:a	-pro	h	a	2043	
+bora	meenujkatsi	0094	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0094	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2043	
+bora	meenujkatsi	0094	mamá-ho	magic-CLF.oval	np:p	np		p	2088	
+bora	meenujkatsi	0095	#	#	##neg	##neg				
+bora	meenujkatsi	0095	tee-ho	3-CLF.oval	np:other	np		other		
+bora	meenujkatsi	0095	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0095	tee-ho	3-CLF.oval	np:other	np		other		
+bora	meenujkatsi	0095	mamá-ho-ri	magic-CLF.oval-LOC	np:obl	np		obl	2077	
+bora	meenujkatsi	0095	di-te	3-PL	other	other				
+bora	meenujkatsi	0095	tsúúcaja	old_days	np:other	np		other		
+bora	meenujkatsi	0095	múnaa-úvu	people-deceased	np.h:p	np	h	p	2001	
+bora	meenujkatsi	0095	#	#	#rc	#rc				
+bora	meenujkatsi	0095	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0095	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0095	meenu-jcatsi	hit-RECP	np:g	np		g	2002	
+bora	meenujkatsi	0095	tsuulle	go_ahead	v:pred	v		pred		
+bora	meenujkatsi	0095	-me	-PL	-pro.h:s	-pro	h	s	2001	
+bora	meenujkatsi	0095	-ke	-ACC	-rv	-rv				
+bora	meenujkatsi	0095	%	%	%	%				
+bora	meenujkatsi	0095	tsáha	no	other	other				
+bora	meenujkatsi	0095	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0095	#	#	#cc:pred	#cc		pred		
+bora	meenujkatsi	0095	hójtsɨva-co	spear-CLF.pointed	np:s	np		s	2078	
+bora	meenujkatsi	0095	úújete	reach	v:pred	v		pred		
+bora	meenujkatsi	0095	%	%	%	%				
+bora	meenujkatsi	0095	ijcya-tu	be-NEG	cop	cop				
+bora	meenujkatsi	0096	NC	NC	nc	nc				
+bora	meenujkatsi	0097	#	#	##	##				
+bora	meenujkatsi	0097	aa-tsi-du	CON-CLF.place-CMPV	other	other				
+bora	meenujkatsi	0097	#	#	#cc:s	#cc		s	2055	
+bora	meenujkatsi	0097	tsaa	come	v:pred	v		pred		
+bora	meenujkatsi	0097	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
+bora	meenujkatsi	0097	%	%	%	%				
+bora	meenujkatsi	0097	tee-ne	3-INAN	nc	nc				
+bora	meenujkatsi	0097	e-ne	that-INAN	nc	nc				
+bora	meenujkatsi	0097	o	1SG	nc	nc				
+bora	meenujkatsi	0097	nee-du	say-CMPV	nc	nc				
+bora	meenujkatsi	0097	wajtsɨ-juco	arrive-AFIR	v:pred	v		pred		
+bora	meenujkatsi	0097	tee-he-vu	3-CLF.tree-ALL	np:g	np		g	2038	
+bora	meenujkatsi	0097	#	#	##	##				
+bora	meenujkatsi	0097	#	#	#ac	#ac				
+bora	meenujkatsi	0097	i=	3=	=pro.h:s	=pro	h	s	2055	
+bora	meenujkatsi	0097	wajtsɨ-ne	arrive-INAN	v:pred	v		pred		
+bora	meenujkatsi	0097	%	%	%	%				
+bora	meenujkatsi	0097	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0097	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2043	
+bora	meenujkatsi	0097	tónu-Vbe-ke	in_law-M.SG-ACC	np:other	np		other		
+bora	meenujkatsi	0097	tíítihyó-ke	squirrel-ACC	np.d:p	np	d	p	2074	new
+bora	meenujkatsi	0097	walloo	send	v:pred	v		pred		
+bora	meenujkatsi	0097	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2043	
+bora	meenujkatsi	0098	#	#	##ds	##ds				
+bora	meenujkatsi	0098	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0098	níjkye-jɨ-tu	sky-CLF.disc-ABL	np:obl	np		obl		
+bora	meenujkatsi	0098	do-	hand-	-ln	-ln				
+bora	meenujkatsi	0098	hjɨ-cunu-u	tie-MULT.INTR-CLF.string	np:p	np		p	2075	bridging
+bora	meenujkatsi	0098	0	0	0.2:a	0	2	a	2074	
+bora	meenujkatsi	0098	dɨ-	teeth-	-lv	-lv				
+bora	meenujkatsi	0098	dahɨ́-ro-té	cut_up-SG.TR-DIR.go	v:pred	v		pred		
+bora	meenujkatsi	0099	#	#	##	##				
+bora	meenujkatsi	0099	aa-ne-tu	CON-INAN-ABL	other	other				
+bora	meenujkatsi	0099	di-Vbe	3-M.SG	other	other				
+bora	meenujkatsi	0099	aatsári-u-ke	nocturnal_rodent-CLF.sphere-ACC	np.d:p	np	d	p	2037	
+bora	meenujkatsi	0099	nee	say	v:pred	v		pred		
+bora	meenujkatsi	0099	-Vbe	-M.SG	-pro.h:a	-pro	h	a	2043	
+bora	meenujkatsi	0099	#	#	#cc:p2	#cc		p2		
+bora	meenujkatsi	0099	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0099	tee-heju-hjɨ	3-CLF.hole-PL	np:p	np		p	2048	new
+bora	meenujkatsi	0099	i=	3=	=pro.d:a	=pro	d	a	2037	
+bora	meenujkatsi	0099	mááni-nu-ki	tar-VBZ.do-PURP	v:pred	v		pred		
+bora	meenujkatsi	0100	#	#	##	##				
+bora	meenujkatsi	0100	aa	CON	other	other				
+bora	meenujkatsi	0100	-Vbe	-M.SG	-pro.d:dt_a	-pro	d	dt_a	2037	
+bora	meenujkatsi	0100	mááni-nu	tar-VBZ.do	v:pred	v		pred		
+bora	meenujkatsi	0100	-Vbe	-M.SG	-pro.d:a	-pro	d	a	2037	
+bora	meenujkatsi	0100	botsí-re-iíkye	finally-REST-yet	other	other				
+bora	meenujkatsi	0100	tee-heju	3-CLF.hole	np:p	np		p	2048	
+bora	meenujkatsi	0100	#	#	##	##				
+bora	meenujkatsi	0100	#	#	#cc:a	#cc		a		
+bora	meenujkatsi	0100	#	#	#ac	#ac				
+bora	meenujkatsi	0100	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0100	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0100	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2043	
+bora	meenujkatsi	0100	mɨ́ɨ́cumɨ-ri	mirror-INST	np:obl	np		obl	2066	
+bora	meenujkatsi	0100	róri-hjúcu-ne	light-SG.TR-INAN	np:s	np		s		
+bora	meenujkatsi	0100	tééve-ri-va-pe	intervention-INST-QUOT-REM	v:pred	v		pred		
+bora	meenujkatsi	0100	%	%	%	%				
+bora	meenujkatsi	0100	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0100	pee	go	v:pred	v		pred		
+bora	meenujkatsi	0100	-Vbe	-M.SG	-pro.d:s	-pro	d	s	2074	
+bora	meenujkatsi	0100	%	%	%	%				
+bora	meenujkatsi	0100	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0100	tee-he	3-CLF.tree	-np:other	-np		other	2038	
+bora	meenujkatsi	0100	dohjɨ-u	tie-CLF.string	np:p	np		p	2075	
+bora	meenujkatsi	0100	dɨ-	teeth-	-lv	-lv				
+bora	meenujkatsi	0100	dahɨ́-ro-je	cut_up-SG.TR-DIR.return	v:pred	v		pred		
+bora	meenujkatsi	0101	#	#	##	##				
+bora	meenujkatsi	0101	#	#	#ac	#ac				
+bora	meenujkatsi	0101	i=	3=	=pro.d:a	=pro	d	a	2074	
+bora	meenujkatsi	0101	0	0	0:p	0		p	2075	
+bora	meenujkatsi	0101	dɨ-	teeth-	-lv	-lv				
+bora	meenujkatsi	0101	dahɨ́-ro-je-ne	cut_up-SG.TR-DIR.return-INAN	v:pred	v		pred		
+bora	meenujkatsi	0101	tsúúca	already	other	other				
+bora	meenujkatsi	0101	%	%	%	%				
+bora	meenujkatsi	0101	tee-ne	3-INAN	other	other				
+bora	meenujkatsi	0101	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2055	
+bora	meenujkatsi	0101	bállo-wa-ri	truncheon-CLF.plank-INST	np:obl	np		obl	2067	
+bora	meenujkatsi	0101	meenu-jcatsi	hit-RECP	v:pred	v		pred		
+bora	meenujkatsi	0101	-me	-PL	-pro.h:s	-pro	h	s	2089	bridging
+bora	meenujkatsi	0101	#	#	##	##				
+bora	meenujkatsi	0101	meenu-jcatsi	hit-RECP	v:pred	v		pred		
+bora	meenujkatsi	0101	-me	-PL	-pro.h:s	-pro	h	s	2089	
+bora	meenujkatsi	0101	#	#	##	##				
+bora	meenujkatsi	0101	tee-tsi-du	3-CLF.place-CMPV	np:other	np		other		
+bora	meenujkatsi	0101	tee-he	3-CLF.tree	np:s	np		s	2038	
+bora	meenujkatsi	0101	ou-Vve	end-SG.INTR	v:pred	v		pred		
+bora	meenujkatsi	0102	#	#	##	##				
+bora	meenujkatsi	0102	#	#	#ac	#ac				
+bora	meenujkatsi	0102	aa	CON	other	other				
+bora	meenujkatsi	0102	-Vbe	-M.SG	-pro.h:dt_s	-pro	h	dt_s	2043	
+bora	meenujkatsi	0102	-va-pe	-QUOT-REM	-other	-other				
+bora	meenujkatsi	0102	tee-he	3-CLF.tree	np:s	np		s	2038	
+bora	meenujkatsi	0102	ó--	NC	nc	nc				
+bora	meenujkatsi	0102	ou-Vve-tsi-du	end-SG.INTR-CLF.place-CMPV	v:pred	v		pred		
+bora	meenujkatsi	0102	í-du	this-CMPV	other	other				
+bora	meenujkatsi	0102	%	%	%	%				
+bora	meenujkatsi	0102	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0102	di-Vbe	3-M.SG	pro.h:a	pro	h	a	2043	
+bora	meenujkatsi	0102	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0102	tee-he	3-CLF.tree	np:other	np		other	2038	
+bora	meenujkatsi	0102	ɨ́ɨ́bu-u	heart-CLF.sphere	np:p	np		p	2076	new
+bora	meenujkatsi	0102	tee-he	3-CLF.tree	np:other	np		other	2038	
+bora	meenujkatsi	0102	ímí-tu	good-NEG	-ln	-ln				
+bora	meenujkatsi	0102	ɨ́ɨ́bu-u	heart-CLF.sphere	np:appos	np		appos	2076	
+bora	meenujkatsi	0102	di-Vbe	3-M.SG	nc	nc				
+bora	meenujkatsi	0102	e-ne	that-INAN	other	other				
+bora	meenujkatsi	0102	meenu-híjcya	do-REP	v:pred	v		pred		
