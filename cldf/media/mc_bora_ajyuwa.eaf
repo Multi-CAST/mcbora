@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-07-09T11:34:13+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-08-09T23:49:19+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_bora_ajyuwa.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:adcbe372-fd1a-4dd0-851e-6281a233be9b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">42310</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">42321</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="13620"/>
@@ -12194,22 +12194,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18419" ANNOTATION_REF="a3635" PREVIOUS_ANNOTATION="a18418">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4773" ANNOTATION_REF="a3635" PREVIOUS_ANNOTATION="a18419">
+            <REF_ANNOTATION ANNOTATION_ID="a4773" ANNOTATION_REF="a3635" PREVIOUS_ANNOTATION="a18418">
                 <ANNOTATION_VALUE>ícyaj</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18420" ANNOTATION_REF="a3635" PREVIOUS_ANNOTATION="a4773">
-                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4774" ANNOTATION_REF="a3635" PREVIOUS_ANNOTATION="a18420">
+            <REF_ANNOTATION ANNOTATION_ID="a4774" ANNOTATION_REF="a3635" PREVIOUS_ANNOTATION="a4773">
                 <ANNOTATION_VALUE>nee</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -15054,7 +15044,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5096" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a27184">
+            <REF_ANNOTATION ANNOTATION_ID="a42317" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a27184">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5096" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a42317">
                 <ANNOTATION_VALUE>dsɨɨne</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -15065,16 +15060,11 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a34577" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a27185">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a34578" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a34577">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5097" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a34578">
+            <REF_ANNOTATION ANNOTATION_ID="a5097" ANNOTATION_REF="a3676" PREVIOUS_ANNOTATION="a34577">
                 <ANNOTATION_VALUE>pee-ró-náa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -22044,22 +22034,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30135" ANNOTATION_REF="a3785" PREVIOUS_ANNOTATION="a34855">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5905" ANNOTATION_REF="a3785" PREVIOUS_ANNOTATION="a30135">
+            <REF_ANNOTATION ANNOTATION_ID="a5905" ANNOTATION_REF="a3785" PREVIOUS_ANNOTATION="a34855">
                 <ANNOTATION_VALUE>í-ju</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30136" ANNOTATION_REF="a3785" PREVIOUS_ANNOTATION="a5905">
-                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5906" ANNOTATION_REF="a3785" PREVIOUS_ANNOTATION="a30136">
+            <REF_ANNOTATION ANNOTATION_ID="a5906" ANNOTATION_REF="a3785" PREVIOUS_ANNOTATION="a5905">
                 <ANNOTATION_VALUE>nee</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -35671,18 +35651,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18430" ANNOTATION_REF="a18419">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7424" ANNOTATION_REF="a4773">
                 <ANNOTATION_VALUE>baj!</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18431" ANNOTATION_REF="a18420">
-                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -38531,6 +38501,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42318" ANNOTATION_REF="a42317">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7747" ANNOTATION_REF="a5096">
                 <ANNOTATION_VALUE>run</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -38542,12 +38517,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a34579" ANNOTATION_REF="a34577">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a34580" ANNOTATION_REF="a34578">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -38622,7 +38592,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7757" ANNOTATION_REF="a5106">
-                <ANNOTATION_VALUE>ash-CLF.powder-possibility-INAN</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ash-CLF.powder-possibility-REC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -45521,18 +45491,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30331" ANNOTATION_REF="a30135">
-                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8556" ANNOTATION_REF="a5905">
                 <ANNOTATION_VALUE>this-CLF.path</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30332" ANNOTATION_REF="a30136">
-                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49372,7 +49332,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8964" ANNOTATION_REF="a6313">
-                <ANNOTATION_VALUE>away-ADL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>away-ALL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -51449,7 +51409,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35148" ANNOTATION_REF="a6540">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -51709,7 +51669,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35200" ANNOTATION_REF="a6567">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -54454,7 +54414,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35749" ANNOTATION_REF="a6884">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -57999,7 +57959,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36458" ANNOTATION_REF="a7290">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58079,7 +58039,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36474" ANNOTATION_REF="a7302">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58114,7 +58074,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36481" ANNOTATION_REF="a7306">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58169,7 +58129,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36492" ANNOTATION_REF="a18011">
-                <ANNOTATION_VALUE>#cc:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#rc.h:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -59148,18 +59108,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a36688" ANNOTATION_REF="a18430">
-                <ANNOTATION_VALUE>#ds</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36689" ANNOTATION_REF="a7424">
                 <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a36690" ANNOTATION_REF="a18431">
-                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -61089,7 +61039,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37076" ANNOTATION_REF="a7631">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -61939,7 +61889,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37246" ANNOTATION_REF="a7738">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -62008,6 +61958,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42319" ANNOTATION_REF="a42318">
+                <ANNOTATION_VALUE>#rc.h:s</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37260" ANNOTATION_REF="a7747">
                 <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -62019,12 +61974,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37262" ANNOTATION_REF="a34579">
-                <ANNOTATION_VALUE>##</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a37263" ANNOTATION_REF="a34580">
-                <ANNOTATION_VALUE>0.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65984,7 +65934,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38057" ANNOTATION_REF="a8198">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -67244,7 +67194,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38309" ANNOTATION_REF="a8358">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -67774,7 +67724,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38415" ANNOTATION_REF="a8415">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68064,12 +68014,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38473" ANNOTATION_REF="a8454">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38474" ANNOTATION_REF="a8455">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68084,12 +68034,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38477" ANNOTATION_REF="a8457">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38478" ANNOTATION_REF="a8458">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68509,7 +68459,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38562" ANNOTATION_REF="a8501">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68534,7 +68484,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38567" ANNOTATION_REF="a8505">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68654,7 +68604,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38591" ANNOTATION_REF="a8520">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68924,7 +68874,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38645" ANNOTATION_REF="a8548">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68998,18 +68948,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a38660" ANNOTATION_REF="a30331">
-                <ANNOTATION_VALUE>#ds</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38661" ANNOTATION_REF="a8556">
-                <ANNOTATION_VALUE>pro:g</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a38662" ANNOTATION_REF="a30332">
-                <ANNOTATION_VALUE>%</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71039,7 +70979,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a39066" ANNOTATION_REF="a8766">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -77070,6 +77010,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42321" ANNOTATION_REF="a36492">
+                <ANNOTATION_VALUE>1010</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40273" ANNOTATION_REF="a36494">
                 <ANNOTATION_VALUE>1010</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -78355,12 +78300,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a40530" ANNOTATION_REF="a37261">
+            <REF_ANNOTATION ANNOTATION_ID="a42320" ANNOTATION_REF="a42319">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a40531" ANNOTATION_REF="a37263">
+            <REF_ANNOTATION ANNOTATION_ID="a40530" ANNOTATION_REF="a37261">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -82872,6 +82817,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42311" ANNOTATION_REF="a40074">
+                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41434" ANNOTATION_REF="a40076">
                 <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -82882,18 +82832,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41436" ANNOTATION_REF="a40088">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41437" ANNOTATION_REF="a40091">
                 <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41438" ANNOTATION_REF="a40095">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -82918,6 +82858,11 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41443" ANNOTATION_REF="a40113">
+                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42312" ANNOTATION_REF="a40116">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -82967,7 +82912,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41453" ANNOTATION_REF="a40185">
+            <REF_ANNOTATION ANNOTATION_ID="a42313" ANNOTATION_REF="a40183">
+                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42314" ANNOTATION_REF="a40188">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -83008,11 +82958,6 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41461" ANNOTATION_REF="a40264">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41462" ANNOTATION_REF="a40268">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -83397,6 +83342,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42315" ANNOTATION_REF="a40989">
+                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41539" ANNOTATION_REF="a41002">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -83422,7 +83372,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a41544" ANNOTATION_REF="a41047">
+            <REF_ANNOTATION ANNOTATION_ID="a42316" ANNOTATION_REF="a41045">
                 <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -83600,7 +83550,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41583" ANNOTATION_REF="a3522">
-                <ANNOTATION_VALUE>And while they were working other people said that his daughter was pregnant</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And while they were working, other people said that his daughter was pregnant</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84495,7 +84445,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41762" ANNOTATION_REF="a3701">
-                <ANNOTATION_VALUE>And they grated with pieces of a clay pot the base of the anona tree, singing "llíkíllájí tómecollá jórojórojóro”, so they said</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And they grated with pieces of a clay pot the base of the anona tree, singing "llíkíllájí tómecollá jórojórojóro", so they said</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84695,7 +84645,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41802" ANNOTATION_REF="a3741">
-                <ANNOTATION_VALUE>"Her knee is that big and she hits toriña”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Her knee is that big and she hits toriña"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84705,7 +84655,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41804" ANNOTATION_REF="a3743">
-                <ANNOTATION_VALUE>"And she will look in the direction you have to go and will hit toriña”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"And she will look in the direction you have to go and will hit toriña"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84820,7 +84770,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41827" ANNOTATION_REF="a3766">
-                <ANNOTATION_VALUE>"Ah grandmother the smell of your mouth is so nice"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ah grandmother, your mouth smells delicious."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84840,12 +84790,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41831" ANNOTATION_REF="a3770">
-                <ANNOTATION_VALUE>And like she had said, she got the resin from the leche the caspi tree and when she was near the house she rubbed her feet and walked "“tɨjɨ́ tɨ́jɨ”.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And like she had said, she got the resin from the leche the caspi tree and when she was near the house she rubbed her feet and walked ""tɨjɨ́ tɨ́jɨ".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41832" ANNOTATION_REF="a3771">
-                <ANNOTATION_VALUE>She looked "tocótóco”, how she polished inside her house, nice and shiny was her house.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She looked "tocótóco", how she polished inside her house, nice and shiny was her house.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84915,7 +84865,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41846" ANNOTATION_REF="a3785">
-                <ANNOTATION_VALUE>"This way," she said and looked in that direction.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"This way," she said and looked in that direction. [lit. 'The one who said, This way! looked in that direction.']</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -84930,7 +84880,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41849" ANNOTATION_REF="a3788">
-                <ANNOTATION_VALUE>While she was walking she heard “tócó tócó tócó” people hitting ojé trees.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>While she was walking she heard "tócó tócó tócó" people hitting ojé trees.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85005,7 +84955,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41863" ANNOTATION_REF="a3803">
-                <ANNOTATION_VALUE>She painted that ojé tree, she painted.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She painted that ojé tree, (she) painted.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85060,7 +85010,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41874" ANNOTATION_REF="a3814">
-                <ANNOTATION_VALUE>And eating this caimito, he sang like this: "From the pregnancy of the daughter of black stone woman we had fled - tsítsítsítsí tóbucúru, tsarararara,” like that he said.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And eating this caimito, he sang like this: "From the pregnancy of the daughter of black stone woman we had fled - tsítsítsítsí tóbucúru, tsarararara," like that he said.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85452,22 +85402,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41951" ANNOTATION_REF="a3524">
-                <ANNOTATION_VALUE>Por eso un día le dijo a su hija “¿Verdad estás embarazada? ¿quien te ha hecho embarazar?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso un día le dijo a su hija "¿Verdad estás embarazada? ¿quien te ha hecho embarazar?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41952" ANNOTATION_REF="a3525">
-                <ANNOTATION_VALUE>Pero ella dijo “Sí, yo no sé quién viene donde mí en la noche”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Pero ella dijo "Sí, yo no sé quién viene donde mí en la noche"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41953" ANNOTATION_REF="a3526">
-                <ANNOTATION_VALUE>Por eso su mamá le dijo “Entonces prepara ese huito”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso su mamá le dijo "Entonces prepara ese huito"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41954" ANNOTATION_REF="a3527">
-                <ANNOTATION_VALUE>“Lo que preparas, ahora vas a hacer esperar, ahora, cuando viene donde ti, vas a frotar esto en su cara, para saber quien es”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Lo que preparas, ahora vas a hacer esperar, ahora, cuando viene donde ti, vas a frotar esto en su cara, para saber quien es"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85547,32 +85497,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41970" ANNOTATION_REF="a3543">
-                <ANNOTATION_VALUE>“¿A dónde pues, hermano, estás yendo?” le dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿A dónde pues, hermano, estás yendo?" le dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41971" ANNOTATION_REF="a3544">
-                <ANNOTATION_VALUE>“Ya estoy yendo donde él, el abuelo sol”, le dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya estoy yendo donde él, el abuelo sol", le dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41972" ANNOTATION_REF="a3545">
-                <ANNOTATION_VALUE>“Entonces me voy contigo” le dijo ella</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Entonces me voy contigo" le dijo ella</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41973" ANNOTATION_REF="a3546">
-                <ANNOTATION_VALUE>“No”, le dijo él, “tú no podrías”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No", le dijo él, "tú no podrías"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41974" ANNOTATION_REF="a3547">
-                <ANNOTATION_VALUE>“No”, le dijo ella, “yo puedo ir”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No", le dijo ella, "yo puedo ir"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41975" ANNOTATION_REF="a3548">
-                <ANNOTATION_VALUE>Y porque ella le decía más así, él le dijo “Entonces, pues, vaya arreglándote para irnos”, le dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y porque ella le decía más así, él le dijo "Entonces, pues, vaya arreglándote para irnos", le dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85582,22 +85532,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41977" ANNOTATION_REF="a3550">
-                <ANNOTATION_VALUE>“Ya, hermano”, le dijo ella, “ya estoy lista”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya, hermano", le dijo ella, "ya estoy lista"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41978" ANNOTATION_REF="a3551">
-                <ANNOTATION_VALUE>“Bueno”, le dijo él</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Bueno", le dijo él</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41979" ANNOTATION_REF="a3552">
-                <ANNOTATION_VALUE>“Entonces aquí sobre mis hombros vas a sentarte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Entonces aquí sobre mis hombros vas a sentarte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41980" ANNOTATION_REF="a3553">
-                <ANNOTATION_VALUE>“Luego vas a cerrar duro los ojos, no vayas a tener miedo”, el dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Luego vas a cerrar duro los ojos, no vayas a tener miedo", el dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85612,7 +85562,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41983" ANNOTATION_REF="a3556">
-                <ANNOTATION_VALUE>“Ay hermano ya voy a caer, ya voy a caer”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ay hermano ya voy a caer, ya voy a caer"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85627,7 +85577,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41986" ANNOTATION_REF="a3559">
-                <ANNOTATION_VALUE>Y sale cuando la luna, ella le dice “pariente”, le dice a él, ya cuando él sale como luna nueva, ahora</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y sale cuando la luna, ella le dice "pariente", le dice a él, ya cuando él sale como luna nueva, ahora</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85642,12 +85592,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41989" ANNOTATION_REF="a3562">
-                <ANNOTATION_VALUE>“Uu”, dijeron, “Allá se va el hijo de primogénito que hizo embarazar a su hermana, de ese vergüenza”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Uu", dijeron, "Allá se va el hijo de primogénito que hizo embarazar a su hermana, de ese vergüenza"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41990" ANNOTATION_REF="a3563">
-                <ANNOTATION_VALUE>“El no más era el que la embarazó a su hermana”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"El no más era el que la embarazó a su hermana"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85657,7 +85607,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41992" ANNOTATION_REF="a3565">
-                <ANNOTATION_VALUE>“Así que él ya se ha ido”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Así que él ya se ha ido"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85667,12 +85617,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41994" ANNOTATION_REF="a3567">
-                <ANNOTATION_VALUE>Sin decirles nada, a ellos, a su gente dijo “Ya vamos a regresar”, dijo él</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Sin decirles nada, a ellos, a su gente dijo "Ya vamos a regresar", dijo él</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41995" ANNOTATION_REF="a3568">
-                <ANNOTATION_VALUE>“A el yo iba a hacer una fiesta, así ya está yendo de nosotros”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A el yo iba a hacer una fiesta, así ya está yendo de nosotros"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85697,7 +85647,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42000" ANNOTATION_REF="a3573">
-                <ANNOTATION_VALUE>“¡Tomen ustedes dos!”, les dijo, “¡Vayan a traer agua para que yo tome! Cuando voy a tomar el agua que ustedes sacan, vayan traer para yo tomar”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Tomen ustedes dos!", les dijo, "¡Vayan a traer agua para que yo tome! Cuando voy a tomar el agua que ustedes sacan, vayan traer para yo tomar"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85727,12 +85677,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42006" ANNOTATION_REF="a3579">
-                <ANNOTATION_VALUE>“¿Cómo papá nos manda sacar agua con esta cosa?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Cómo papá nos manda sacar agua con esta cosa?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42007" ANNOTATION_REF="a3580">
-                <ANNOTATION_VALUE>“Quizás solo por reñirnos”, dijeron y se reían</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Quizás solo por reñirnos", dijeron y se reían</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85762,7 +85712,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42013" ANNOTATION_REF="a3586">
-                <ANNOTATION_VALUE>Así querían recoger agua, “¿Cómo vamos a llevar?”, así dijeron y lo forraron con hojas</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Así querían recoger agua, "¿Cómo vamos a llevar?", así dijeron y lo forraron con hojas</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85782,7 +85732,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42017" ANNOTATION_REF="a3590">
-                <ANNOTATION_VALUE>“ ¡Baj!”, dijeron ellas “¿A dónde nos fueron nuestros padres?”, ellas dijeron</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>" ¡Baj!", dijeron ellas "¿A dónde nos fueron nuestros padres?", ellas dijeron</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85797,12 +85747,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42020" ANNOTATION_REF="a3593">
-                <ANNOTATION_VALUE>“Mí, mí cría,” le dijeron, “¿A dónde fueron mis padres, fueron mis madres?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Mí, mí cría," le dijeron, "¿A dónde fueron mis padres, fueron mis madres?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42021" ANNOTATION_REF="a3594">
-                <ANNOTATION_VALUE>Por eso el dijo así, “Acá debajo del tiesto, acá debajo del tiesto”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso el dijo así, "Acá debajo del tiesto, acá debajo del tiesto"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85812,7 +85762,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42023" ANNOTATION_REF="a3596">
-                <ANNOTATION_VALUE>“¿Mí, mi cría, a donde fueron mis padres?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Mí, mi cría, a donde fueron mis padres?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85827,7 +85777,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42026" ANNOTATION_REF="a3599">
-                <ANNOTATION_VALUE>“¡Baj”, ellas dijeron, “Quizás por ahí se fueron nuestros padres”, dijeron ellas.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Baj", ellas dijeron, "Quizás por ahí se fueron nuestros padres", dijeron ellas.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85862,12 +85812,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42033" ANNOTATION_REF="a3606">
-                <ANNOTATION_VALUE>Y el cantó “Río, río mérmate, río, río mérmate”, el dijo y botaba el agua hacia afuera</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y el cantó "Río, río mérmate, río, río mérmate", el dijo y botaba el agua hacia afuera</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42034" ANNOTATION_REF="a3607">
-                <ANNOTATION_VALUE>También las hormigas cabezones comenzaron a tomar de la orilla “chacha chacha” esa agua</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>También las hormigas cabezones comenzaron a tomar de la orilla "chacha chacha" esa agua</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85882,7 +85832,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42037" ANNOTATION_REF="a3610">
-                <ANNOTATION_VALUE>“Ay, el omoplato de nuestra punchana está por caerse”, así dijeron y se reían, de él se reían</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ay, el omoplato de nuestra punchana está por caerse", así dijeron y se reían, de él se reían</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85892,12 +85842,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42039" ANNOTATION_REF="a3612">
-                <ANNOTATION_VALUE>Por eso ya riñió a ellas “kyéj kyéj kyéj kyé”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso ya riñió a ellas "kyéj kyéj kyéj kyé"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42040" ANNOTATION_REF="a3613">
-                <ANNOTATION_VALUE>Les dijo “Por eso, culpa que ustedes son reilones, ahora van a sufrir ustedes”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Les dijo "Por eso, culpa que ustedes son reilones, ahora van a sufrir ustedes"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85947,12 +85897,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42050" ANNOTATION_REF="a3623">
-                <ANNOTATION_VALUE>“Hermana”, dijo “¿Por dónde podrías pasar?” dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Hermana", dijo "¿Por dónde podrías pasar?" dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42051" ANNOTATION_REF="a3624">
-                <ANNOTATION_VALUE>“No importa, de esto voy a alimentarme, para que pases sobre mí”, dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No importa, de esto voy a alimentarme, para que pases sobre mí", dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85962,17 +85912,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42053" ANNOTATION_REF="a3626">
-                <ANNOTATION_VALUE>“Y tú vas a correr rápido, sobre mí espalda al otro lado”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y tú vas a correr rápido, sobre mí espalda al otro lado"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42054" ANNOTATION_REF="a3627">
-                <ANNOTATION_VALUE>“Después yo ya voy a quedar sola”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Después yo ya voy a quedar sola"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42055" ANNOTATION_REF="a3628">
-                <ANNOTATION_VALUE>“Espero aunque como también vas a irte, a donde quizás llegarás”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Espero aunque como también vas a irte, a donde quizás llegarás"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -85997,17 +85947,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42060" ANNOTATION_REF="a3633">
-                <ANNOTATION_VALUE>Después ella estaba ya sola “¿Por qué mi hermana?” ella dijo “¿Cómo pues voy a hacer? Ya cruzé,” dijo ella y seguía caminado, caminando, de hambre sin comer</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Después ella estaba ya sola "¿Por qué mi hermana?" ella dijo "¿Cómo pues voy a hacer? Ya cruzé," dijo ella y seguía caminado, caminando, de hambre sin comer</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42061" ANNOTATION_REF="a3634">
-                <ANNOTATION_VALUE>Una mañana ella escuchó donde alguien estaba tumbando (árboles) “tun tun”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Una mañana ella escuchó donde alguien estaba tumbando (árboles) "tun tun"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42062" ANNOTATION_REF="a3635">
-                <ANNOTATION_VALUE>“¡Baj!”, dijo ella, “¿Quien está por ahí, de repente es gente que está tumbando”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Baj!", dijo ella, "¿Quien está por ahí, de repente es gente que está tumbando"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86057,17 +86007,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42072" ANNOTATION_REF="a3645">
-                <ANNOTATION_VALUE>Y el dijo a su mujer “Mujer picho de tipití, picho de soga de hamaca, hay que prepararme casabe para comer con el seso de mi sal de monte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y el dijo a su mujer "Mujer picho de tipití, picho de soga de hamaca, hay que prepararme casabe para comer con el seso de mi sal de monte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42073" ANNOTATION_REF="a3646">
-                <ANNOTATION_VALUE>“Bueno”, dijo ella</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Bueno", dijo ella</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42074" ANNOTATION_REF="a3647">
-                <ANNOTATION_VALUE>“Voy traer leña” dijo él y salió a buscar leña, mientras tanto ella abrió rapidamente y lo huequeó, el (capillejo de) sal de monte</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Voy traer leña" dijo él y salió a buscar leña, mientras tanto ella abrió rapidamente y lo huequeó, el (capillejo de) sal de monte</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86077,32 +86027,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42076" ANNOTATION_REF="a3649">
-                <ANNOTATION_VALUE>“¡Baj!”, dijo ella, “porqué pues a ti ese hombre que clase de hombre. Mi marido te quiere comer”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Baj!", dijo ella, "porqué pues a ti ese hombre que clase de hombre. Mi marido te quiere comer"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42077" ANNOTATION_REF="a3650">
-                <ANNOTATION_VALUE>“Sal afuera”, dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Sal afuera", dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42078" ANNOTATION_REF="a3651">
-                <ANNOTATION_VALUE>“A los que no fueron en esta tierra tú estas buscando, sale ya” dijo ella</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A los que no fueron en esta tierra tú estas buscando, sale ya" dijo ella</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42079" ANNOTATION_REF="a3652">
-                <ANNOTATION_VALUE>“Y vas a irte de aquí de aquí uuum en este camino vas a irte, vas a irte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y vas a irte de aquí de aquí uuum en este camino vas a irte, vas a irte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42080" ANNOTATION_REF="a3653">
-                <ANNOTATION_VALUE>“En la orilla de un río vive una lagartija, a ella vas a decir ‘abuelo, abuelo, de frente salidito, ¡hágame pasar!’'”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"En la orilla de un río vive una lagartija, a ella vas a decir ‘abuelo, abuelo, de frente salidito, ¡hágame pasar!’'"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42081" ANNOTATION_REF="a3654">
-                <ANNOTATION_VALUE>“Cuando tu dices así él te va a hacer pasar”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Cuando tu dices así él te va a hacer pasar"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86147,12 +86097,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42090" ANNOTATION_REF="a3663">
-                <ANNOTATION_VALUE>Y de lo grueso ha quemado y la tutuma se reventó “tan”, en el horcón quedó pegado</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y de lo grueso ha quemado y la tutuma se reventó "tan", en el horcón quedó pegado</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42091" ANNOTATION_REF="a3664">
-                <ANNOTATION_VALUE>“Uu” dijo él, “está bien, ya se ha reventado el seso de mi sal”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Uu" dijo él, "está bien, ya se ha reventado el seso de mi sal"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86162,17 +86112,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42093" ANNOTATION_REF="a3666">
-                <ANNOTATION_VALUE>“Oh”, dijo él “feísima mujer, a donde has mandado el seso de mi sal de monte que cosa has puesto que estoy comiendo”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oh", dijo él "feísima mujer, a donde has mandado el seso de mi sal de monte que cosa has puesto que estoy comiendo"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42094" ANNOTATION_REF="a3667">
-                <ANNOTATION_VALUE>“Después voy a comer a ti”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Después voy a comer a ti"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42095" ANNOTATION_REF="a3668">
-                <ANNOTATION_VALUE>Porque el dijo así, ella dijo “¿Dónde estaba ese mismo?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Porque el dijo así, ella dijo "¿Dónde estaba ese mismo?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86182,7 +86132,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42097" ANNOTATION_REF="a3670">
-                <ANNOTATION_VALUE>“Mi, mi espejo mirador, ¿A dónde, picho de tipití, picho de soga de hamaca, ha mandado el seso de mi sal de monte?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Mi, mi espejo mirador, ¿A dónde, picho de tipití, picho de soga de hamaca, ha mandado el seso de mi sal de monte?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86192,12 +86142,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42099" ANNOTATION_REF="a3672">
-                <ANNOTATION_VALUE>Por eso el pregunta “¿Mí, mí shacapa de conocimiento, ¿A dónde ha mandado el seso de mi sal de monte, picho de tipití?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso el pregunta "¿Mí, mí shacapa de conocimiento, ¿A dónde ha mandado el seso de mi sal de monte, picho de tipití?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42100" ANNOTATION_REF="a3673">
-                <ANNOTATION_VALUE>Por eso, ese lo que ella ha derribado en camino, por el que ella fue, sonó “tyéke”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso, ese lo que ella ha derribado en camino, por el que ella fue, sonó "tyéke"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86217,7 +86167,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42104" ANNOTATION_REF="a3677">
-                <ANNOTATION_VALUE>“Oh”, dijo el, “Me olvidé mi ceniza”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oh", dijo el, "Me olvidé mi ceniza"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86237,7 +86187,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42108" ANNOTATION_REF="a3681">
-                <ANNOTATION_VALUE>“Oh”, dijo “me olvidé mi lanza”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oh", dijo "me olvidé mi lanza"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86262,22 +86212,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42113" ANNOTATION_REF="a3686">
-                <ANNOTATION_VALUE>Ella fue a decirle a él “mí abuelo, mí abuelito de frente salido ‘¡hágame pasar!’”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ella fue a decirle a él "mí abuelo, mí abuelito de frente salido ‘¡hágame pasar!’"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42114" ANNOTATION_REF="a3687">
-                <ANNOTATION_VALUE>“Ya”, él dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya", él dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42115" ANNOTATION_REF="a3688">
-                <ANNOTATION_VALUE>“Así” dijo ella</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Así" dijo ella</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42116" ANNOTATION_REF="a3689">
-                <ANNOTATION_VALUE>“Entonces hay que cerrar tus ojos bien duro”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Entonces hay que cerrar tus ojos bien duro"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86287,17 +86237,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42118" ANNOTATION_REF="a3691">
-                <ANNOTATION_VALUE>“Si” dijo el, “feísimo de lagartija sarnoso, ¿porque le estás haciendo pasar el seso de mi sal de monte?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Si" dijo el, "feísimo de lagartija sarnoso, ¿porque le estás haciendo pasar el seso de mi sal de monte?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42119" ANNOTATION_REF="a3692">
-                <ANNOTATION_VALUE>“¡A mí ya hágame pasar!”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡A mí ya hágame pasar!"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42120" ANNOTATION_REF="a3693">
-                <ANNOTATION_VALUE>“Ya”, le dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya", le dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86307,12 +86257,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42122" ANNOTATION_REF="a3695">
-                <ANNOTATION_VALUE>“Entonces hay que mirar abriendo mucho tus ojos”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Entonces hay que mirar abriendo mucho tus ojos"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42123" ANNOTATION_REF="a3696">
-                <ANNOTATION_VALUE>Así el que el miró puesto de su anzuelo y el le jaló en medio río no más, “tóbuj”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Así el que el miró puesto de su anzuelo y el le jaló en medio río no más, "tóbuj"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86327,7 +86277,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42126" ANNOTATION_REF="a3699">
-                <ANNOTATION_VALUE>“Y ahora, ¿Dónde voy a dormir?” ella dijo y subió un tronco de anona</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y ahora, ¿Dónde voy a dormir?" ella dijo y subió un tronco de anona</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86337,7 +86287,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42128" ANNOTATION_REF="a3701">
-                <ANNOTATION_VALUE>Y ellos rallaban con pedazos de tiesto el asiento del tronco de anona cantando “llíkíllájí tómecollá jórojórojóro”, así dijeron</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y ellos rallaban con pedazos de tiesto el asiento del tronco de anona cantando "llíkíllájí tómecollá jórojórojóro", así dijeron</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86347,17 +86297,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42130" ANNOTATION_REF="a3703">
-                <ANNOTATION_VALUE>Por eso ella gritaba “¿Ay papá, papá, mamá, mamá a dónde pues fueron ustedes?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso ella gritaba "¿Ay papá, papá, mamá, mamá a dónde pues fueron ustedes?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42131" ANNOTATION_REF="a3704">
-                <ANNOTATION_VALUE>“Oj, ¿No está alguien aquí no están ustedes aquí?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oj, ¿No está alguien aquí no están ustedes aquí?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42132" ANNOTATION_REF="a3705">
-                <ANNOTATION_VALUE>“¿Quienes serán estos ya me van a comer?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Quienes serán estos ya me van a comer?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86367,12 +86317,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42134" ANNOTATION_REF="a3707">
-                <ANNOTATION_VALUE>Por eso como si fueran delante de ella, gritaban “úu úu úúuu”, decían en la noche</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso como si fueran delante de ella, gritaban "úu úu úúuu", decían en la noche</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42135" ANNOTATION_REF="a3708">
-                <ANNOTATION_VALUE>“¡Baj!” dijo ella, “¿Quien sería?, Aquí creo que vive gente”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Baj!" dijo ella, "¿Quien sería?, Aquí creo que vive gente"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86387,7 +86337,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42138" ANNOTATION_REF="a3711">
-                <ANNOTATION_VALUE>“De esta dirección alguien gritaba”, dijo ella y se fue en esta dirección, yéndose yéndose</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"De esta dirección alguien gritaba", dijo ella y se fue en esta dirección, yéndose yéndose</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86402,27 +86352,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42141" ANNOTATION_REF="a3714">
-                <ANNOTATION_VALUE>Y ella vió a ella, “Ya”, dijo ella “¿De dónde eres tú?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y ella vió a ella, "Ya", dijo ella "¿De dónde eres tú?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42142" ANNOTATION_REF="a3715">
-                <ANNOTATION_VALUE>“Sólo escuché tu historia, ¿Cómo estás?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Sólo escuché tu historia, ¿Cómo estás?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42143" ANNOTATION_REF="a3716">
-                <ANNOTATION_VALUE>Y ella le dijo “Acaso ellos fueron sobre esta tierra para que tu sigas cuando para que llegue, debajo del cielo, ellos se fueron debajo del cielo”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y ella le dijo "Acaso ellos fueron sobre esta tierra para que tu sigas cuando para que llegue, debajo del cielo, ellos se fueron debajo del cielo"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42144" ANNOTATION_REF="a3717">
-                <ANNOTATION_VALUE>“¿Porque te vas si no vas a llegar? ¡Quédate conmigo no mas!”, le dijo “si no vas a alcanzar, vas a irte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Porque te vas si no vas a llegar? ¡Quédate conmigo no mas!", le dijo "si no vas a alcanzar, vas a irte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42145" ANNOTATION_REF="a3718">
-                <ANNOTATION_VALUE>“Pero este golondrina le gusta tener mujeres” le dijo ella, “si”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Pero este golondrina le gusta tener mujeres" le dijo ella, "si"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86432,152 +86382,152 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42147" ANNOTATION_REF="a3720">
-                <ANNOTATION_VALUE>“No”, le dijo ella, “no importa, yo ya no me estimo lo que me iban a estimar, mis padres, a donde quizás fueron de mí”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No", le dijo ella, "no importa, yo ya no me estimo lo que me iban a estimar, mis padres, a donde quizás fueron de mí"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42148" ANNOTATION_REF="a3721">
-                <ANNOTATION_VALUE>“¿Con quién voy estar?, no me importa cómo yo sufriré” ella le dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Con quién voy estar?, no me importa cómo yo sufriré" ella le dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42149" ANNOTATION_REF="a3722">
-                <ANNOTATION_VALUE>“Ya pues” le dijo ella</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya pues" le dijo ella</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42150" ANNOTATION_REF="a3723">
-                <ANNOTATION_VALUE>“Entonces, pues, yo te doy un consejo”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Entonces, pues, yo te doy un consejo"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42151" ANNOTATION_REF="a3724">
-                <ANNOTATION_VALUE>“De aquí vas a irte vas a irte, vas a llegar donde la mujer callampa, puro callampa es el casabe de ella”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"De aquí vas a irte vas a irte, vas a llegar donde la mujer callampa, puro callampa es el casabe de ella"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42152" ANNOTATION_REF="a3725">
-                <ANNOTATION_VALUE>“De ahí vas a irte vas a irte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"De ahí vas a irte vas a irte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42153" ANNOTATION_REF="a3726">
-                <ANNOTATION_VALUE>“Y lo que ella te da de comer vas a hacer como quien come, no vas a despreciar”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y lo que ella te da de comer vas a hacer como quien come, no vas a despreciar"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42154" ANNOTATION_REF="a3727">
-                <ANNOTATION_VALUE>“De ahí vas a irte vas, uu, donde la mujer hedionda vas a llegar”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"De ahí vas a irte vas, uu, donde la mujer hedionda vas a llegar"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42155" ANNOTATION_REF="a3728">
-                <ANNOTATION_VALUE>“A ella tu vas a preguntar ‘¿En cuál camino abuela me iré?’ Y cuando tú dices esto (ella dirá) ‘a ver, primero todavía huele mi boca’, cuando te dice ella, vas a hacer ‘jáá’ cuando ella hace así, vas a oler”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A ella tu vas a preguntar ‘¿En cuál camino abuela me iré?’ Y cuando tú dices esto (ella dirá) ‘a ver, primero todavía huele mi boca’, cuando te dice ella, vas a hacer ‘jáá’ cuando ella hace así, vas a oler"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42156" ANNOTATION_REF="a3729">
-                <ANNOTATION_VALUE>“No vas a decir ‘Es feo’, (sino) ‘que rico huele tu boquita’, cuando tu dices (esto) recién ella te va a decir en cuál camino vas a irte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No vas a decir ‘Es feo’, (sino) ‘que rico huele tu boquita’, cuando tu dices (esto) recién ella te va a decir en cuál camino vas a irte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42157" ANNOTATION_REF="a3730">
-                <ANNOTATION_VALUE>“De ahí vas a irte vas a irte, úúú, vas a llegar donde la mujer pulidora</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"De ahí vas a irte vas a irte, úúú, vas a llegar donde la mujer pulidora</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42158" ANNOTATION_REF="a3731">
-                <ANNOTATION_VALUE>“Y más acá hay un tronco de leche caspi, de ese tronco vas a sacar su resina”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y más acá hay un tronco de leche caspi, de ese tronco vas a sacar su resina"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42159" ANNOTATION_REF="a3732">
-                <ANNOTATION_VALUE>“Y con eso cerca de esa casa, vas a bañar la planta de tus pies, donde que ella vive puliendo su piso de su casa es bien brilloso, a los que se resbalan, ella come”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y con eso cerca de esa casa, vas a bañar la planta de tus pies, donde que ella vive puliendo su piso de su casa es bien brilloso, a los que se resbalan, ella come"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42160" ANNOTATION_REF="a3733">
-                <ANNOTATION_VALUE>“Por eso vas a hacer así, haciendo de leche caspi vas andar pegado pegado”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Por eso vas a hacer así, haciendo de leche caspi vas andar pegado pegado"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42161" ANNOTATION_REF="a3734">
-                <ANNOTATION_VALUE>“A ella vas a preguntar ‘¿Abuela en cuál camino voy a irme?’, ‘Este es el camino’, por el camino que ella te dice vas a irte”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A ella vas a preguntar ‘¿Abuela en cuál camino voy a irme?’, ‘Este es el camino’, por el camino que ella te dice vas a irte"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42162" ANNOTATION_REF="a3735">
-                <ANNOTATION_VALUE>“De ahí vas a irte y vas a llegar donde la mujer delada”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"De ahí vas a irte y vas a llegar donde la mujer delada"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42163" ANNOTATION_REF="a3736">
-                <ANNOTATION_VALUE>“Delado es su tripode, delada es su casa”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Delado es su tripode, delada es su casa"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42164" ANNOTATION_REF="a3737">
-                <ANNOTATION_VALUE>“Todo es delado”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Todo es delado"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42165" ANNOTATION_REF="a3738">
-                <ANNOTATION_VALUE>“A ella también vas a preguntar ‘¿Abuela por cuál camino voy a irme?’”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A ella también vas a preguntar ‘¿Abuela por cuál camino voy a irme?’"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42166" ANNOTATION_REF="a3739">
-                <ANNOTATION_VALUE>“Y por el camino que ella te indica vas a irte, uu”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y por el camino que ella te indica vas a irte, uu"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42167" ANNOTATION_REF="a3740">
-                <ANNOTATION_VALUE>“Vas a llegar donde la última mujer toriña”, le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Vas a llegar donde la última mujer toriña", le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42168" ANNOTATION_REF="a3741">
-                <ANNOTATION_VALUE>“Ella lo que es así grueso su rodilla le golpea toriña”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ella lo que es así grueso su rodilla le golpea toriña"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42169" ANNOTATION_REF="a3742">
-                <ANNOTATION_VALUE>“A ella vas a preguntar”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A ella vas a preguntar"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42170" ANNOTATION_REF="a3743">
-                <ANNOTATION_VALUE>“Y ella mira el camino por el que vas a ir y va a golpear toriña”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y ella mira el camino por el que vas a ir y va a golpear toriña"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42171" ANNOTATION_REF="a3744">
-                <ANNOTATION_VALUE>“Por ese camino vas a ir rápidamente”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Por ese camino vas a ir rápidamente"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42172" ANNOTATION_REF="a3745">
-                <ANNOTATION_VALUE>“Y así vas, y vas a llegar donde la última, donde la mujer llamada “este y ese camino””.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Y así vas, y vas a llegar donde la última, donde la mujer llamada "este y ese camino"".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42173" ANNOTATION_REF="a3746">
-                <ANNOTATION_VALUE>“A a ella vas a preguntar ‘¿Abuela por cuál camino voy a ir?’”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A a ella vas a preguntar ‘¿Abuela por cuál camino voy a ir?’"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42174" ANNOTATION_REF="a3747">
-                <ANNOTATION_VALUE>“‘Este camino’ dice ella y en este vas irte rápidamente”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"‘Este camino’ dice ella y en este vas irte rápidamente"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42175" ANNOTATION_REF="a3748">
-                <ANNOTATION_VALUE>“Pero si tu preguntas más por cuál camino, ella te va a decir ‘Este ese camino, este, ese camino’”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Pero si tu preguntas más por cuál camino, ella te va a decir ‘Este ese camino, este, ese camino’"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42176" ANNOTATION_REF="a3749">
-                <ANNOTATION_VALUE>“Con eso vas a errarte y cuando estás errada, ella te va a golpear con su mazo y te va a comer”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Con eso vas a errarte y cuando estás errada, ella te va a golpear con su mazo y te va a comer"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86592,27 +86542,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42179" ANNOTATION_REF="a3752">
-                <ANNOTATION_VALUE>“Ay mamá (hija) ¿de dónde vienes?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ay mamá (hija) ¿de dónde vienes?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42180" ANNOTATION_REF="a3753">
-                <ANNOTATION_VALUE>“No, estoy siguiendo a mis padres,” le dijo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No, estoy siguiendo a mis padres," le dijo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42181" ANNOTATION_REF="a3754">
-                <ANNOTATION_VALUE>“Bueno”, le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Bueno", le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42182" ANNOTATION_REF="a3755">
-                <ANNOTATION_VALUE>“¿Cómo sigues, si no se fueron por esta tierra?”, le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Cómo sigues, si no se fueron por esta tierra?", le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42183" ANNOTATION_REF="a3756">
-                <ANNOTATION_VALUE>“Coma ya”, dijo y bajó su olla, era pura callampa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Coma ya", dijo y bajó su olla, era pura callampa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86627,12 +86577,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42186" ANNOTATION_REF="a3759">
-                <ANNOTATION_VALUE>Y le dijo “Ya, abuela, ¿Abuela por cuál camino voy a ir?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y le dijo "Ya, abuela, ¿Abuela por cuál camino voy a ir?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42187" ANNOTATION_REF="a3760">
-                <ANNOTATION_VALUE>“Por este camino vas a ir, hija,” le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Por este camino vas a ir, hija," le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86642,12 +86592,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42189" ANNOTATION_REF="a3762">
-                <ANNOTATION_VALUE>“Ay abuela ¿Por cuál camino voy a ir?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ay abuela ¿Por cuál camino voy a ir?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42190" ANNOTATION_REF="a3763">
-                <ANNOTATION_VALUE>“A ver, pues hija, primero huélame mi boca”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A ver, pues hija, primero huélame mi boca"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86662,12 +86612,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42193" ANNOTATION_REF="a3766">
-                <ANNOTATION_VALUE>“Ay abuela que rico es el olor de tu boca”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ay abuela que rico es el olor de tu boca"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42194" ANNOTATION_REF="a3767">
-                <ANNOTATION_VALUE>“Bueno hija, por este camino vas a ir”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Bueno hija, por este camino vas a ir"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86682,22 +86632,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42197" ANNOTATION_REF="a3770">
-                <ANNOTATION_VALUE>Como ella le había dicho, de mas aca sacó la resina del tronco de leche caspi y cuando ya estaba cerca de la casa lo puso en sus pies y andaba “tɨjɨ́ tɨ́jɨ”.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Como ella le había dicho, de mas aca sacó la resina del tronco de leche caspi y cuando ya estaba cerca de la casa lo puso en sus pies y andaba "tɨjɨ́ tɨ́jɨ".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42198" ANNOTATION_REF="a3771">
-                <ANNOTATION_VALUE>Ella miró “tocótóco”, como pulía dentro de su casa, bonita y brillante era la casa.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ella miró "tocótóco", como pulía dentro de su casa, bonita y brillante era la casa.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42199" ANNOTATION_REF="a3772">
-                <ANNOTATION_VALUE>Y le dijo “¿Abuela, por cuál camino me voy a ir?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y le dijo "¿Abuela, por cuál camino me voy a ir?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42200" ANNOTATION_REF="a3773">
-                <ANNOTATION_VALUE>“Por este camino,” le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Por este camino," le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86722,17 +86672,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42205" ANNOTATION_REF="a3778">
-                <ANNOTATION_VALUE>Le dijo “¿Por cuál camino me iré, abuela?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Le dijo "¿Por cuál camino me iré, abuela?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42206" ANNOTATION_REF="a3779">
-                <ANNOTATION_VALUE>“Este es el camino, donde la mujer toriña”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Este es el camino, donde la mujer toriña"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42207" ANNOTATION_REF="a3780">
-                <ANNOTATION_VALUE>A ella le dijo “Abuela, ¿en cuál camino me voy?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A ella le dijo "Abuela, ¿en cuál camino me voy?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86747,17 +86697,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42210" ANNOTATION_REF="a3783">
-                <ANNOTATION_VALUE>Yendo, yendo, yendo ya llego donde la mujer “este camino, ese camino”.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yendo, yendo, yendo ya llego donde la mujer "este camino, ese camino".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42211" ANNOTATION_REF="a3784">
-                <ANNOTATION_VALUE>“Abuela,” le dijo, “¿Por cuál camino voy a ir?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Abuela," le dijo, "¿Por cuál camino voy a ir?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42212" ANNOTATION_REF="a3785">
-                <ANNOTATION_VALUE>“Este camino,” dijo y miró allá.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Este camino," dijo y miró allá.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86772,7 +86722,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42215" ANNOTATION_REF="a3788">
-                <ANNOTATION_VALUE>Asi yendo escuchó “tócó tócó tócó” a gente golpeando llanchama.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Asi yendo escuchó "tócó tócó tócó" a gente golpeando llanchama.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86787,42 +86737,42 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42218" ANNOTATION_REF="a3791">
-                <ANNOTATION_VALUE>“Hermana,” le dijeron “¿De donde vienes?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Hermana," le dijeron "¿De donde vienes?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42219" ANNOTATION_REF="a3792">
-                <ANNOTATION_VALUE>“No,” les dijo, “así no más estoy andando y llegué donde ustedes,” le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No," les dijo, "así no más estoy andando y llegué donde ustedes," le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42220" ANNOTATION_REF="a3793">
-                <ANNOTATION_VALUE>“¿qué cosa estan haciendo ustedes?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿qué cosa estan haciendo ustedes?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42221" ANNOTATION_REF="a3794">
-                <ANNOTATION_VALUE>“Estamos haciendo nuestra ropa,” le dijeron.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Estamos haciendo nuestra ropa," le dijeron.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42222" ANNOTATION_REF="a3795">
-                <ANNOTATION_VALUE>“Estamos yendo a comer el árbol de lupuna colorado (booámuco) que está en el borde de la chacra del primogénito,” le dijeron.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Estamos yendo a comer el árbol de lupuna colorado (booámuco) que está en el borde de la chacra del primogénito," le dijeron.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42223" ANNOTATION_REF="a3796">
-                <ANNOTATION_VALUE>Entonces ella le dijo, “Si, es mi papá”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Entonces ella le dijo, "Si, es mi papá"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42224" ANNOTATION_REF="a3797">
-                <ANNOTATION_VALUE>“Mi papá es el,” dijo ella.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Mi papá es el," dijo ella.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42225" ANNOTATION_REF="a3798">
-                <ANNOTATION_VALUE>“Ya”, le dijeron.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya", le dijeron.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86832,12 +86782,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42227" ANNOTATION_REF="a3800">
-                <ANNOTATION_VALUE>“Juntos vamos a ir”.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Juntos vamos a ir".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42228" ANNOTATION_REF="a3801">
-                <ANNOTATION_VALUE>“¡Píntanos todavía nuestra ropa!”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Píntanos todavía nuestra ropa!"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86857,32 +86807,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42232" ANNOTATION_REF="a3805">
-                <ANNOTATION_VALUE>“Ya están,” le dijo, “ya terminé”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya están," le dijo, "ya terminé"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42233" ANNOTATION_REF="a3806">
-                <ANNOTATION_VALUE>“Bueno,” dijeron ellos, “entonces vamos”.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Bueno," dijeron ellos, "entonces vamos".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42234" ANNOTATION_REF="a3807">
-                <ANNOTATION_VALUE>Ella pintó para ellos, esos gusanos comestibles que llamamos booámu por eso decimos “booámu”, estos tienen una pinta bonita, ella los ha pintado.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ella pintó para ellos, esos gusanos comestibles que llamamos booámu por eso decimos "booámu", estos tienen una pinta bonita, ella los ha pintado.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42235" ANNOTATION_REF="a3808">
-                <ANNOTATION_VALUE>“Ya,” le dijeron, “este lupuna colorado vamos a comer,” le dijeron.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ya," le dijeron, "este lupuna colorado vamos a comer," le dijeron.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42236" ANNOTATION_REF="a3809">
-                <ANNOTATION_VALUE>“Ahí ya está la chacra de lo que tu dices que es tu papá primogénito, ahí ya está ya esta pareciendo”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ahí ya está la chacra de lo que tu dices que es tu papá primogénito, ahí ya está ya esta pareciendo"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42237" ANNOTATION_REF="a3810">
-                <ANNOTATION_VALUE>“Vete ya sola despacito”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Vete ya sola despacito"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86902,12 +86852,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42241" ANNOTATION_REF="a3814">
-                <ANNOTATION_VALUE>Y el ese caimito comiendo cantaba del embarazo de la mujer piedra negra hemos huidos, “tsítsítsítsí tóbucúru, tsarararara,” así decía él.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y el ese caimito comiendo cantaba del embarazo de la mujer piedra negra hemos huidos, "tsítsítsítsí tóbucúru, tsarararara," así decía él.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42242" ANNOTATION_REF="a3815">
-                <ANNOTATION_VALUE>“Ay,” dijo ella, “él es mi paucar” dijo y iba despacito, como digo los caimitos que están bonitos, de lo le movían caían y eso ella comía porqué estaba de hambre.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ay," dijo ella, "él es mi paucar" dijo y iba despacito, como digo los caimitos que están bonitos, de lo le movían caían y eso ella comía porqué estaba de hambre.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86922,12 +86872,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42245" ANNOTATION_REF="a3818">
-                <ANNOTATION_VALUE>“¿Quienes son ustedes que comen mis caimitos?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Quienes son ustedes que comen mis caimitos?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42246" ANNOTATION_REF="a3819">
-                <ANNOTATION_VALUE>“Eso lo que iban a comer a mis hijos ¿dónde le dejé botando? ¿y ustedes de dónde vienen a comer mis caimitos?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Eso lo que iban a comer a mis hijos ¿dónde le dejé botando? ¿y ustedes de dónde vienen a comer mis caimitos?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86942,17 +86892,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42249" ANNOTATION_REF="a3822">
-                <ANNOTATION_VALUE>Así despacito yendo hacia ella “¿Mamá?" se ha ido a decir.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Así despacito yendo hacia ella "¿Mamá?" se ha ido a decir.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42250" ANNOTATION_REF="a3823">
-                <ANNOTATION_VALUE>Por eso ella se volteó “¿Quiénes son los que me llaman mamá?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Por eso ella se volteó "¿Quiénes son los que me llaman mamá?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42251" ANNOTATION_REF="a3824">
-                <ANNOTATION_VALUE>“¿Dónde quizás he dejado a mis hijos?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¿Dónde quizás he dejado a mis hijos?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86962,27 +86912,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42253" ANNOTATION_REF="a3826">
-                <ANNOTATION_VALUE>“Oh,” dijo ella, “¿Por qué?”, y abrazandose lloraron las dos.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oh," dijo ella, "¿Por qué?", y abrazandose lloraron las dos.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42254" ANNOTATION_REF="a3827">
-                <ANNOTATION_VALUE>Después de llorar le dijo, “Hija, ¿porque, de donde has venido tu mi hija, de tan lejos has venido tú?,” le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Después de llorar le dijo, "Hija, ¿porque, de donde has venido tu mi hija, de tan lejos has venido tú?," le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42255" ANNOTATION_REF="a3828">
-                <ANNOTATION_VALUE>“Como quizás acá yo llegué, he tenido hijos muy malandrines y en eso tu estas llegando,” le dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Como quizás acá yo llegué, he tenido hijos muy malandrines y en eso tu estas llegando," le dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42256" ANNOTATION_REF="a3829">
-                <ANNOTATION_VALUE>“Ahorita van a venir”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Ahorita van a venir"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42257" ANNOTATION_REF="a3830">
-                <ANNOTATION_VALUE>“Aquí echate para formar una cama en tu encima”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Aquí echate para formar una cama en tu encima"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87007,27 +86957,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42262" ANNOTATION_REF="a3835">
-                <ANNOTATION_VALUE>“Mira, mamá,” vinieron a decir “¿Porqué esta cama es grande?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Mira, mamá," vinieron a decir "¿Porqué esta cama es grande?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42263" ANNOTATION_REF="a3836">
-                <ANNOTATION_VALUE>“Si,” le dijo, “asi es la cama padre, así es”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Si," le dijo, "asi es la cama padre, así es"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42264" ANNOTATION_REF="a3837">
-                <ANNOTATION_VALUE>“Me molesta lo que preguntan ustedes”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Me molesta lo que preguntan ustedes"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42265" ANNOTATION_REF="a3838">
-                <ANNOTATION_VALUE>“No rieguen,” les dijo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No rieguen," les dijo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42266" ANNOTATION_REF="a3839">
-                <ANNOTATION_VALUE>“Dejen que esté ahí”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Dejen que esté ahí"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87037,7 +86987,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42268" ANNOTATION_REF="a3841">
-                <ANNOTATION_VALUE>“¡Vaya a traer una espina para picarle!”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"¡Vaya a traer una espina para picarle!"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87047,12 +86997,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42270" ANNOTATION_REF="a3843">
-                <ANNOTATION_VALUE>“Mamá,” ellos dijeron, “¡Se mueve la cama que tu has hecho!”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Mamá," ellos dijeron, "¡Se mueve la cama que tu has hecho!"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42271" ANNOTATION_REF="a3844">
-                <ANNOTATION_VALUE>“Si,” dijo, “quizás son lombrices lo que están picando, váyanse por ahí”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Si," dijo, "quizás son lombrices lo que están picando, váyanse por ahí"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87077,7 +87027,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42276" ANNOTATION_REF="a3849">
-                <ANNOTATION_VALUE>Entonces su mamá dijo, “¿A dónde quizás ellos los feos se han ido? Vamos ya”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Entonces su mamá dijo, "¿A dónde quizás ellos los feos se han ido? Vamos ya"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87087,32 +87037,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42278" ANNOTATION_REF="a3851">
-                <ANNOTATION_VALUE>A su marido se fue a decir “Mira, de donde quizás esta, nuestra hija, ha venido de tan lejos”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A su marido se fue a decir "Mira, de donde quizás esta, nuestra hija, ha venido de tan lejos"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42279" ANNOTATION_REF="a3852">
-                <ANNOTATION_VALUE>El dijo, “¿Por qué tu, mi hija, de dónde has venido?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>El dijo, "¿Por qué tu, mi hija, de dónde has venido?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42280" ANNOTATION_REF="a3853">
-                <ANNOTATION_VALUE>“Para que no suceda esto, yo te decía que te portes bien”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Para que no suceda esto, yo te decía que te portes bien"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42281" ANNOTATION_REF="a3854">
-                <ANNOTATION_VALUE>“Pero ustedes dos nos han deshonrado, de eso nosotros venimos acá y tú que lástima nos estás siguiendo”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Pero ustedes dos nos han deshonrado, de eso nosotros venimos acá y tú que lástima nos estás siguiendo"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42282" ANNOTATION_REF="a3855">
-                <ANNOTATION_VALUE>El preguntó “¿Y tu hermana?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>El preguntó "¿Y tu hermana?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42283" ANNOTATION_REF="a3856">
-                <ANNOTATION_VALUE>Ella le contó diciendo “No, ya se ha transformado para mi”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ella le contó diciendo "No, ya se ha transformado para mi"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87122,7 +87072,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42285" ANNOTATION_REF="a3858">
-                <ANNOTATION_VALUE>“Bueno,” dijo él.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Bueno," dijo él.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87147,7 +87097,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42290" ANNOTATION_REF="a3863">
-                <ANNOTATION_VALUE>“A ver, bájale a tu hija, que vaya a traer agua conmigo”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"A ver, bájale a tu hija, que vaya a traer agua conmigo"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87172,12 +87122,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42295" ANNOTATION_REF="a3868">
-                <ANNOTATION_VALUE>“No.” dijo ella, “seguro los feísimos ya le han comido”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"No." dijo ella, "seguro los feísimos ya le han comido"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42296" ANNOTATION_REF="a3869">
-                <ANNOTATION_VALUE>“Son desgraciados”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Son desgraciados"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87187,7 +87137,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42298" ANNOTATION_REF="a3871">
-                <ANNOTATION_VALUE>“Oh,” dijo, “ya le ha comido estos desgraciados,” así diciendo.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Oh," dijo, "ya le ha comido estos desgraciados," así diciendo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87227,12 +87177,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42306" ANNOTATION_REF="a3879">
-                <ANNOTATION_VALUE>Y vinieron a decir a su mamá “¿Mamá quién es estecito, quién es?”</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y vinieron a decir a su mamá "¿Mamá quién es estecito, quién es?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42307" ANNOTATION_REF="a3880">
-                <ANNOTATION_VALUE>Ella dijo “El es amargo, verás laméalo”.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ella dijo "El es amargo, verás laméalo".</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

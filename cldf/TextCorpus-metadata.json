@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Seifart, Frank & Hong, Tai. 2022. Multi-CAST Bora. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#bora) (date accessed)",
+    "dc:bibliographicCitation": "Seifart, Frank & Hong, Tai. 2022. Multi-CAST Bora. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2211. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#bora) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "**Bora** ([bora1263](https://glottolog.org/resource/languoid/id/bora1263)) Bora is a Boran language spoken in various small communities in the Colombian and Peruvian Amazon region (e.g. 3.23\u00b0S 71.99\u00b0W, 1.75\u00b0S 72.50\u00b0W). The language has approximately 1\u202f000 speakers, almost all of whom are bilingual in local Spanish. The number of children acquiring Bora is currently decreasing.\n\nBora has been extensively documented within a VolkswagenStiftung-funded [DOBES documentation project](https://hdl.handle.net/1839/42550453-b3db-4d83-b30f-3bce5304588e) (2005\u20132009). The Multi-CAST Bora corpus consists of two folkloristic narrative texts taken from the larger DOBES collection. They were recorded and annotated by Frank Seifart in collaboration with, especially, Clever Panduro (original transcription and translation) and Lena Sell (original morphological glossing). Annotations with GRAID and RefIND were added to the corpus in 2021\u20132022 by Tai Hong in collaboration with Frank Seifart.\n\nThe Multi-CAST Bora texts (version 2207) also constitute a part of the [Bora data set](https://doreco.huma-num.fr/languages/bora1263) in [DoReCo](https://doreco.huma-num.fr/), which has been time-aligned at the phone level.",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#bora",
@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcbora",
             "rdf:type": "prov:Entity",
-            "dc:created": "bd5d331",
+            "dc:created": "v2207",
             "dc:title": "Repository"
         },
         {
