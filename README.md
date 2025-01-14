@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Seifart, Frank & Hong, Tai. 2022. Multi-CAST Bora. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2211. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#bora) (date accessed)
+  > Seifart, Frank & Hong, Tai. 2023. Multi-CAST Bora. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#bora) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
