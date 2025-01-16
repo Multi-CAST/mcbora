@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="bora">
   <text t_name="ajyuwa" annotators="Frank Seifart, Tai Hong" speaker="BR01">
-   <file f_name="mc_bora_ajyuwa" audio="mc_bora_ajyuwa.wav" updated="2022-08-09">
+   <file f_name="mc_bora_ajyuwa" audio="mc_bora_ajyuwa.wav" updated="2023-07-09">
     <unit uid="0001" start_time="13620" end_time="17280">
      <utterance_id>bora_ajyuwa_0001</utterance_id>
      <utterance>píívyéébeváa píívyetsóhí tujkénúéjpiikye mɨ́amúnáájpiíkye</utterance>
@@ -18756,7 +18756,7 @@
       <segment>
        <gword>u=</gword>
        <gloss>2.SG=</gloss>
-       <graid>=pro.2:h</graid>
+       <graid>=pro.2:s</graid>
        <refind>1010</refind>
       </segment>
       <segment>
@@ -18795,7 +18795,7 @@
       <segment>
        <gword>ó=</gword>
        <gloss>1.SG=</gloss>
-       <graid>=pro.1:h</graid>
+       <graid>=pro.1:a</graid>
        <refind>1010</refind>
       </segment>
       <segment>

@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Seifart, Frank & Hong, Tai. 2022. Multi-CAST Bora. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2211. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#bora) (date accessed)
+  > Seifart, Frank & Hong, Tai. 2023. Multi-CAST Bora. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#bora) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -114,8 +114,8 @@ information on all annotated categories, including those not listed here.
 | **⟨0.h⟩** | 7 | 2 | 0 | 35 | 0 | 0 | 0 | 0 | 0 | 0 | 44 |
 | **⟨0.d⟩** | 2 | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 | **⟨0⟩** | 4 | 2 | 0 | 37 | 0 | 0 | 1 | 0 | 1 | 0 | 45 |
-| **⟨pro.1⟩** | 40 | 32 | 0 | 28 | 4 | 0 | 0 | 0 | 37 | 3 | 144 |
-| **⟨pro.2⟩** | 79 | 40 | 0 | 15 | 1 | 0 | 0 | 0 | 13 | 1 | 149 |
+| **⟨pro.1⟩** | 40 | 33 | 0 | 28 | 4 | 0 | 0 | 0 | 37 | 3 | 145 |
+| **⟨pro.2⟩** | 80 | 40 | 0 | 15 | 1 | 0 | 0 | 0 | 13 | 1 | 150 |
 | **⟨pro.h⟩** | 442 | 196 | 1 | 42 | 7 | 2 | 0 | 0 | 120 | 6 | 816 |
 | **⟨pro.d⟩** | 44 | 31 | 0 | 6 | 2 | 0 | 0 | 0 | 4 | 1 | 88 |
 | **⟨pro⟩** | 25 | 6 | 1 | 18 | 20 | 7 | 25 | 5 | 5 | 9 | 121 |
@@ -129,7 +129,7 @@ information on all annotated categories, including those not listed here.
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 | **⟨other⟩** | 9 | 0 | 0 | 5 | 5 | 0 | 0 | 29 | 0 | 0 | 48 |
-| | 761 | 353 | 2 | 339 | 130 | 51 | 50 | 74 | 180 | 164 | 2104 |
+| | 762 | 354 | 2 | 339 | 130 | 51 | 50 | 74 | 180 | 164 | 2106 |
 
 
 **Clause boundaries**
