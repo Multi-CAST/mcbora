@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2211">
  <corpus c_name="bora">
   <text t_name="meenujkatsi" annotators="Frank Seifart, Tai Hong" speaker="BR02">
-   <file f_name="mc_bora_meenujkatsi" audio="mc_bora_meenujkatsi.wav" updated="2022-07-10">
+   <file f_name="mc_bora_meenujkatsi" audio="mc_bora_meenujkatsi.wav" updated="2022-08-09">
     <unit uid="0001" start_time="0" end_time="7250">
      <utterance_id>bora_meenujkatsi_0001</utterance_id>
      <utterance>[AUDIENCE] taálle oke duubálle tsane uubálle</utterance>
@@ -565,13 +565,13 @@
        <gloss>3-M.SG</gloss>
        <graid>pro_h_s</graid>
        <refind>2006</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>tsa-pi</gword>
        <gloss>one-CLF.man</gloss>
        <graid>np.h:a_ds</graid>
        <refind>2006</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>mewa-ke</gword>
@@ -2761,6 +2761,7 @@
        <gloss>0</gloss>
        <graid>0.h:p</graid>
        <refind>2025</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>úacó</gword>
@@ -2810,7 +2811,6 @@
        <gloss>3-M.DU</gloss>
        <graid>pro.h:a</graid>
        <refind>2025</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>i=</gword>
@@ -4154,6 +4154,7 @@
        <gloss>3-M.SG</gloss>
        <graid>pro.d:dt_a</graid>
        <refind>2037</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>e-ne</gword>
@@ -4165,7 +4166,6 @@
        <gloss>nocturnal_rodent-CLF.sphere</gloss>
        <graid>np.d:a</graid>
        <refind>2037</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>majcho</gword>
@@ -6773,7 +6773,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>other</graid>
+       <graid>ln</graid>
       </segment>
       <segment>
        <gword>i-</gword>
@@ -7251,6 +7251,7 @@
        <gloss>-M.SG</gloss>
        <graid>-pro.h:s</graid>
        <refind>2061</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>-jɨ́ɨ́vari</gword>
@@ -7278,7 +7279,6 @@
        <gloss>thunder</gloss>
        <graid>np.h:appos</graid>
        <refind>2061</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>élle-vu</gword>
@@ -8652,7 +8652,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>other</graid>
+       <graid>ln</graid>
       </segment>
       <segment>
        <gword>e-ne</gword>
@@ -9092,6 +9092,7 @@
        <gloss>magic-CLF.oval-LOC</gloss>
        <graid>np:obl</graid>
        <refind>2077</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>di-te</gword>
