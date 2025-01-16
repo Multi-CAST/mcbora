@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-08-09T23:50:43+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-07-10T10:30:40+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_bora_meenujkatsi.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9daeb8f3-d18c-40da-bf10-5ed0dfd630df</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">11382</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11377</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -24122,7 +24122,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4163" ANNOTATION_REF="a3033">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25747,7 +25747,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4387" ANNOTATION_REF="a3257">
-                <ANNOTATION_VALUE>ln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29385,7 +29385,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11378" ANNOTATION_REF="a4602">
+            <REF_ANNOTATION ANNOTATION_ID="a5733" ANNOTATION_REF="a4603">
                 <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -29500,13 +29500,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11379" ANNOTATION_REF="a10925">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a5972" ANNOTATION_REF="a4842">
+                <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5972" ANNOTATION_REF="a4842">
-                <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a5976" ANNOTATION_REF="a4846">
+                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29560,7 +29560,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11380" ANNOTATION_REF="a4994">
+            <REF_ANNOTATION ANNOTATION_ID="a6126" ANNOTATION_REF="a4996">
                 <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -29675,7 +29675,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11381" ANNOTATION_REF="a10079">
+            <REF_ANNOTATION ANNOTATION_ID="a6479" ANNOTATION_REF="a5349">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -29751,11 +29751,6 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6693" ANNOTATION_REF="a5563">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11382" ANNOTATION_REF="a5575">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -30390,7 +30385,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6918" ANNOTATION_REF="a1064">
-                <ANNOTATION_VALUE>Entonces dijo "es verdad que a sus hijos le transforman en animales y ellas le piden y comen sin hacer caso" dijo y agarró a su hijo y le metió en el agua</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Entonces dijo “es verdad que a sus hijos le transforman en animales y ellas le piden y comen sin hacer caso" dijo y agarró a su hijo y le metió en el agua</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30505,7 +30500,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6941" ANNOTATION_REF="a1087">
-                <ANNOTATION_VALUE>Y cuando llegó el marido, ella dijo "esto es lo que le ha pasado a nuestros parientes por desobedecer lo que me has dicho"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y cuando llegó el marido, ella dijo “esto es lo que le ha pasado a nuestros parientes por desobedecer lo que me has dicho”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30520,12 +30515,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6944" ANNOTATION_REF="a1090">
-                <ANNOTATION_VALUE>"por qué motivo ha pasado esto a mis parientes a los hombres el demonio les sacó sus ojos, a ellos me fui a botarlos"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“por qué motivo ha pasado esto a mis parientes a los hombres el demonio les sacó sus ojos, a ellos me fui a botarlos”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6945" ANNOTATION_REF="a1091">
-                <ANNOTATION_VALUE>ellos estaban en la casa y los comieron y yo me fui a enterrar sus huesos", diciendo esto coqueaba"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ellos estaban en la casa y los comieron y yo me fui a enterrar sus huesos”, diciendo esto coqueaba"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30535,12 +30530,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6947" ANNOTATION_REF="a1093">
-                <ANNOTATION_VALUE>Y el (ratón) dijo: "no me mates, a los que mataron a tus parientes no les has matado, para que me mates"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y el (ratón) dijo: “no me mates, a los que mataron a tus parientes no les has matado, para que me mates”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6948" ANNOTATION_REF="a1094">
-                <ANNOTATION_VALUE>"con ese cuento vengo donde ti", diciendo eso le contó: "ese árbol de hormigas anzuelo que acabó con tus familiares está tranquilo"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“con ese cuento vengo donde ti”, diciendo eso le contó: “ese árbol de hormigas anzuelo que acabó con tus familiares está tranquilo”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30575,7 +30570,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6955" ANNOTATION_REF="a1101">
-                <ANNOTATION_VALUE>En eso que ellos cavaban escucharon que gritaban: "nómɨ́jtúcojééu y el otro, ya nos está acabando este árbol de ira, vengan a ayudarnos", decían</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>En eso que ellos cavaban escucharon que gritaban: “nómɨ́jtúcojééu y el otro, ya nos está acabando este árbol de ira, vengan a ayudarnos”, decían</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30585,27 +30580,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6957" ANNOTATION_REF="a1103">
-                <ANNOTATION_VALUE>Pero su amigo negaba diciendo: "lo que escuchas es el canto del paucar que dice cho cho cho cho chabócoróróó"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Pero su amigo negaba diciendo: “lo que escuchas es el canto del paucar que dice cho cho cho cho chabócoróróó”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6958" ANNOTATION_REF="a1104">
-                <ANNOTATION_VALUE>Pero nuevamente al salir le dijo: "nos están llamando"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Pero nuevamente al salir le dijo: “nos están llamando”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6959" ANNOTATION_REF="a1105">
-                <ANNOTATION_VALUE>"no" (le respondía) "es (el canto de la paloma, que dice) ócóócoóu roóuu"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"no” (le respondía) “es (el canto de la paloma, que dice) ócóócoóu roóuu”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6960" ANNOTATION_REF="a1106">
-                <ANNOTATION_VALUE>Y en el momento que salió fuera del hueco gritaron: "nóméjtúcojééumútsíí, ya nos está acabando este árbol de ira, vengan a ayudarnos"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y en el momento que salió fuera del hueco gritaron: “nóméjtúcojééumútsíí, ya nos está acabando este árbol de ira, vengan a ayudarnos”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6961" ANNOTATION_REF="a1107">
-                <ANNOTATION_VALUE>Entonces viniendo donde su amigo le dice: "¿por qué me engañas?, nos están llamando por que el árbol de ira les está acabando y quieran que les ayudemos"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Entonces viniendo donde su amigo le dice: “¿por qué me engañas?, nos están llamando por que el árbol de ira les está acabando y quieran que les ayudemos”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30650,7 +30645,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6970" ANNOTATION_REF="a1116">
-                <ANNOTATION_VALUE>Y pensaron entre ellos: "vamos donde nuestra abuela cuwárájemééwa (ñejilla) para pedir su sueño y sacar la ira de nuestro abuelo chijchi (rayo)". Dijeron y se fueron donde la abuela y le llamaban, pues estaba dormida</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y pensaron entre ellos: “vamos donde nuestra abuela cuwárájemééwa (ñejilla) para pedir su sueño y sacar la ira de nuestro abuelo chijchi (rayo)”. Dijeron y se fueron donde la abuela y le llamaban, pues estaba dormida</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30660,17 +30655,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6972" ANNOTATION_REF="a1118">
-                <ANNOTATION_VALUE>Y uno de ellos, páábɨhó iihyúné tsíjcyátsotáábé, que era el más astuto, cuando la abuela les decía: "¡Cierren los ojos!", él no cerro los ojos, él miraba</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y uno de ellos, páábɨhó iihyúné tsíjcyátsotáábé, que era el más astuto, cuando la abuela les decía: “¡Cierren los ojos!", él no cerro los ojos, él miraba</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6973" ANNOTATION_REF="a1119">
-                <ANNOTATION_VALUE>Y el dijo: "¿cómo es posible que nos de una miseria? Nos está engañando"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y el dijo: "¿cómo es posible que nos de una miseria? Nos está engañando”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6974" ANNOTATION_REF="a1120">
-                <ANNOTATION_VALUE>"por sea acaso el abuelo rayo no es cualquiera para que le llevemos esta cosita que nos ha dado la abuela", dijo y desató en el camino el envuelto, que los ha hecho dormir</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“por sea acaso el abuelo rayo no es cualquiera para que le llevemos esta cosita que nos ha dado la abuela”, dijo y desató en el camino el envuelto, que los ha hecho dormir</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30685,12 +30680,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6977" ANNOTATION_REF="a1123">
-                <ANNOTATION_VALUE>"yo he soñado que las lombrices me chupaban la sangre"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“yo he soñado que las lombrices me chupaban la sangre”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6978" ANNOTATION_REF="a1124">
-                <ANNOTATION_VALUE>"significa una lanza, que una lanza te alcanzará, eso es lo que tú soñaste", le dijo el bueno</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“significa una lanza, que una lanza te alcanzará, eso es lo que tú soñaste”, le dijo el bueno</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30700,7 +30695,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6980" ANNOTATION_REF="a1126">
-                <ANNOTATION_VALUE>"yo sí he soñado que los demonios me chupaban (mi sangre)"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“yo sí he soñado que los demonios me chupaban (mi sangre)”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30710,7 +30705,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6982" ANNOTATION_REF="a1128">
-                <ANNOTATION_VALUE>"significa llanto", (le dijo el astuto)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“significa llanto”, (le dijo el astuto)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30755,7 +30750,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6991" ANNOTATION_REF="a1137">
-                <ANNOTATION_VALUE>Y (su amigo) le dijo: "no hemos venido a (molestar a) mujeres, hemos venido a sacar la ira del abuelo"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Y (su amigo) le dijo: “no hemos venido a (molestar a) mujeres, hemos venido a sacar la ira del abuelo”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30765,7 +30760,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6993" ANNOTATION_REF="a1139">
-                <ANNOTATION_VALUE>"¿de dónde le arranco?" Decía, y (sin pensar más), le pisó su corazón y le arrancó su magia (del abuelo)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“¿de dónde le arranco?” Decía, y (sin pensar más), le pisó su corazón y le arrancó su magia (del abuelo)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30785,7 +30780,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6997" ANNOTATION_REF="a1143">
-                <ANNOTATION_VALUE>"anda sube y troza la soga que está amarrado del cielo"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>“anda sube y troza la soga que está amarrado del cielo”</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

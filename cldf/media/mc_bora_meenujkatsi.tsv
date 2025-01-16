@@ -93,8 +93,8 @@ bora	meenujkatsi	0008	-me	-PL	-pro.h:s	-pro	h	s	2005
 bora	meenujkatsi	0008	-ke	-ACC	-other	-other				
 bora	meenujkatsi	0009	#	#	##	##				
 bora	meenujkatsi	0009	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
-bora	meenujkatsi	0009	di-Vbe	3-M.SG	pro_h_s	pro_h_s			2006	new
-bora	meenujkatsi	0009	tsa-pi	one-CLF.man	np.h:a_ds	np	h	a_ds	2006	
+bora	meenujkatsi	0009	di-Vbe	3-M.SG	pro_h_s	pro_h_s			2006	
+bora	meenujkatsi	0009	tsa-pi	one-CLF.man	np.h:a_ds	np	h	a_ds	2006	new
 bora	meenujkatsi	0009	mewa-ke	wife-ACC	np.h:p	np	h	p	2007	new
 bora	meenujkatsi	0009	nee-hi	say-PRED	v:pred	v		pred		
 bora	meenujkatsi	0009	#	#	##ds	##ds				
@@ -470,7 +470,7 @@ bora	meenujkatsi	0032	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2007
 bora	meenujkatsi	0032	majchówa-vu	scissors-ALL	np:obl	np		obl	2023	new
 bora	meenujkatsi	0033	#	#	##	##				
 bora	meenujkatsi	0033	aa-ne	CON-INAN	other	other				
-bora	meenujkatsi	0033	0	0	0.h:p	0	h	p	2025	bridging
+bora	meenujkatsi	0033	0	0	0.h:p	0	h	p	2025	
 bora	meenujkatsi	0033	úacó	put_in	v:pred	v		pred		
 bora	meenujkatsi	0033	-lle	-F.SG	-pro.h:a	-pro	h	a	2007	
 bora	meenujkatsi	0033	tee-ne	3-INAN	other	other				
@@ -479,7 +479,7 @@ bora	meenujkatsi	0033	pañe-vu	inside-ALL	np:obl	np		obl
 bora	meenujkatsi	0033	#	#	#ac	#ac				
 bora	meenujkatsi	0033	té--	NC	nc	nc				
 bora	meenujkatsi	0033	tee-hulle	3-CLF.further_place	np:p	np		p		
-bora	meenujkatsi	0033	di-jtétsi	3-M.DU	pro.h:a	pro	h	a	2025	
+bora	meenujkatsi	0033	di-jtétsi	3-M.DU	pro.h:a	pro	h	a	2025	bridging
 bora	meenujkatsi	0033	i=	3=	=lv_pro_h_a	=lv_pro_h_a			2025	
 bora	meenujkatsi	0033	tehme-ki	guard-PURP	v:pred	v		pred		
 bora	meenujkatsi	0034	#	#	##	##				
@@ -713,9 +713,9 @@ bora	meenujkatsi	0047	tee-ne	3-INAN	other	other
 bora	meenujkatsi	0047	e-ne	that-INAN	other	other				
 bora	meenujkatsi	0047	di-te	3-PL	ln_pro.h:poss	ln_pro	h	poss	2011	
 bora	meenujkatsi	0047	matsajca-wa-re	peanut-CLF.plank-REST	np:p	np		p	2036	new
-bora	meenujkatsi	0047	di-Vbe	3-M.SG	pro.d:dt_a	pro	d	dt_a	2037	new
+bora	meenujkatsi	0047	di-Vbe	3-M.SG	pro.d:dt_a	pro	d	dt_a	2037	
 bora	meenujkatsi	0047	e-ne	that-INAN	other	other				
-bora	meenujkatsi	0047	aatsári-u	nocturnal_rodent-CLF.sphere	np.d:a	np	d	a	2037	
+bora	meenujkatsi	0047	aatsári-u	nocturnal_rodent-CLF.sphere	np.d:a	np	d	a	2037	new
 bora	meenujkatsi	0047	majcho	eat	v:pred	v		pred		
 bora	meenujkatsi	0047	-Vbe	-M.SG	-pro.d:a	-pro	d	a	2037	
 bora	meenujkatsi	0047	#	#	##	##				
@@ -1171,7 +1171,7 @@ bora	meenujkatsi	0071	#	#	#cc:a	#cc		a	2055
 bora	meenujkatsi	0071	pee	go	v:pred	v		pred		
 bora	meenujkatsi	0071	-mútsi	-M.DU	-pro.h:s	-pro	h	s	2055	
 bora	meenujkatsi	0071	%	%	%	%				
-bora	meenujkatsi	0071	di-lle	3-F.SG	ln	ln				
+bora	meenujkatsi	0071	di-lle	3-F.SG	other	other				
 bora	meenujkatsi	0071	i-	3.POSS-	-ln_pro.h:poss	-ln_pro	h	poss	2055	
 bora	meenujkatsi	0071	taalléu-ke	grandmother-ACC	np.h:p	np	h	p	2058	
 bora	meenujkatsi	0071	dí--	NC	nc	nc				
@@ -1256,12 +1256,12 @@ bora	meenujkatsi	0075	#	#	#ds	#ds
 bora	meenujkatsi	0075	muh	consent	other	other				
 bora	meenujkatsi	0075	#	#	#rc.neg	#rc.neg				
 bora	meenujkatsi	0075	ɨhtsu	weak	v:pred	v		pred		
-bora	meenujkatsi	0075	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2061	bridging
+bora	meenujkatsi	0075	-Vbe	-M.SG	-pro.h:s	-pro	h	s	2061	
 bora	meenujkatsi	0075	-jɨ́ɨ́vari	-NEG	-rv	-rv				
 bora	meenujkatsi	0075	%	%	%	%				
 bora	meenujkatsi	0075	me-	1PL.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	2055	
 bora	meenujkatsi	0075	táhdií	grandfather	np.h:other	np	h	other		
-bora	meenujkatsi	0075	chijchi	thunder	np.h:appos	np	h	appos	2061	
+bora	meenujkatsi	0075	chijchi	thunder	np.h:appos	np	h	appos	2061	bridging
 bora	meenujkatsi	0075	élle-vu	there-ALL	np:g	np		g		
 bora	meenujkatsi	0075	me=	1PL=	=pro.1:s	=pro	1	s	2055	
 bora	meenujkatsi	0075	pee	go	v:pred	v		pred		
@@ -1496,7 +1496,7 @@ bora	meenujkatsi	0091	i=	3=	=pro.h:s	=pro	h	s	2043
 bora	meenujkatsi	0091	állíú	lie	v:pred	v		pred		
 bora	meenujkatsi	0091	-Vbe	-M.SG	-pro_h_s	-pro_h_s			2043	
 bora	meenujkatsi	0091	%	%	%	%				
-bora	meenujkatsi	0091	di-lle	3-F.SG	ln	ln				
+bora	meenujkatsi	0091	di-lle	3-F.SG	other	other				
 bora	meenujkatsi	0091	e-ne	that-INAN	other	other				
 bora	meenujkatsi	0091	ɨ́dsɨ	daughter	np.h:p	np	h	p	2070	new
 bora	meenujkatsi	0091	#	#	#rc	#rc				
@@ -1572,7 +1572,7 @@ bora	meenujkatsi	0095	#	#	##neg	##neg
 bora	meenujkatsi	0095	tee-ho	3-CLF.oval	np:other	np		other		
 bora	meenujkatsi	0095	e-ne	that-INAN	other	other				
 bora	meenujkatsi	0095	tee-ho	3-CLF.oval	np:other	np		other		
-bora	meenujkatsi	0095	mamá-ho-ri	magic-CLF.oval-LOC	np:obl	np		obl	2077	bridging
+bora	meenujkatsi	0095	mamá-ho-ri	magic-CLF.oval-LOC	np:obl	np		obl	2077	
 bora	meenujkatsi	0095	di-te	3-PL	other	other				
 bora	meenujkatsi	0095	tsúúcaja	old_days	np:other	np		other		
 bora	meenujkatsi	0095	múnaa-úvu	people-deceased	np.h:p	np	h	p	2001	

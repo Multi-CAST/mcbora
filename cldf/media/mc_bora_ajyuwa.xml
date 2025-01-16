@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2311">
+<multicast version="2207">
  <corpus c_name="bora">
   <text t_name="ajyuwa" annotators="Frank Seifart, Tai Hong" speaker="BR01">
-   <file f_name="mc_bora_ajyuwa" audio="mc_bora_ajyuwa.wav" updated="2023-07-09">
+   <file f_name="mc_bora_ajyuwa" audio="mc_bora_ajyuwa.wav" updated="2022-07-09">
     <unit uid="0001" start_time="13620" end_time="17280">
      <utterance_id>bora_ajyuwa_0001</utterance_id>
      <utterance>píívyéébeváa píívyetsóhí tujkénúéjpiikye mɨ́amúnáájpiíkye</utterance>
@@ -98,7 +98,7 @@
       <segment>
        <gword>tee-ne-lliíhye</gword>
        <gloss>3-INAN-BEN</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>i-</gword>
@@ -412,7 +412,7 @@
       <segment>
        <gword>tee-ne</gword>
        <gloss>3-INAN</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>wallee-mu</gword>
@@ -529,7 +529,7 @@
     <unit uid="0009" start_time="67980" end_time="77850">
      <utterance_id>bora_ajyuwa_0009</utterance_id>
      <utterance>aanéváa ehdu ditye tééné wákimyéiyi íjcyánáa ihjyúvahíjcyámé tsijtye mɨ́amúnaa, dííbyé ajyúwá éévane</utterance>
-     <utterance_translation>And while they were working, other people said that his daughter was pregnant</utterance_translation>
+     <utterance_translation>And while they were working other people said that his daughter was pregnant</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -3665,7 +3665,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>i-</gword>
@@ -4421,7 +4421,6 @@
        <gloss>0</gloss>
        <graid>0:p</graid>
        <refind>1036</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>waao</gword>
@@ -4637,6 +4636,7 @@
        <gloss>3-CLF.basket</gloss>
        <graid>pro:p</graid>
        <refind>1036</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>i=</gword>
@@ -4744,6 +4744,7 @@
        <gloss>water-CLF.liquid</gloss>
        <graid>np:p</graid>
        <refind>1163</refind>
+       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -5152,7 +5153,6 @@
        <gloss>tuyuyu_bird</gloss>
        <graid>np.n:p</graid>
        <refind>1059</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>ɨjto-me</gword>
@@ -6477,7 +6477,6 @@
        <gloss>#</gloss>
        <graid>#rc:obl</graid>
        <refind>1164</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>di-te-ne</gword>
@@ -6495,6 +6494,7 @@
        <gloss>be-CLF.path-LOC</gloss>
        <graid>other:obl</graid>
        <refind>1164</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>%</gword>
@@ -6543,7 +6543,6 @@
        <gloss>pet-PL</gloss>
        <graid>ln_np.d</graid>
        <refind>1050</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>di-Vbe</gword>
@@ -7861,7 +7860,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>ámíalle</gword>
@@ -7952,7 +7951,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>i-</gword>
@@ -7965,6 +7964,7 @@
        <gloss>sister-ACC</gloss>
        <graid>np.h:p</graid>
        <refind>1010</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>nee</gword>
@@ -7997,7 +7997,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>i-</gword>
@@ -8062,8 +8062,7 @@
       <segment>
        <gword>#</gword>
        <gloss>#</gloss>
-       <graid>#rc.h:p</graid>
-       <refind>1010</refind>
+       <graid>#cc:p</graid>
       </segment>
       <segment>
        <gword>di-lle</gword>
@@ -9203,9 +9202,19 @@
        <graid>##</graid>
       </segment>
       <segment>
+       <gword>#</gword>
+       <gloss>#</gloss>
+       <graid>#ds</graid>
+      </segment>
+      <segment>
        <gword>ícyaj</gword>
        <gloss>baj!</gloss>
        <graid>other</graid>
+      </segment>
+      <segment>
+       <gword>%</gword>
+       <gloss>%</gloss>
+       <graid>%</graid>
       </segment>
       <segment>
        <gword>nee</gword>
@@ -11468,7 +11477,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>mewa</gword>
@@ -12469,7 +12478,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>di-Vbe</gword>
@@ -12551,12 +12560,6 @@
        <graid>##</graid>
       </segment>
       <segment>
-       <gword>#</gword>
-       <gloss>#</gloss>
-       <graid>#rc.h:s</graid>
-       <refind>1065</refind>
-      </segment>
-      <segment>
        <gword>dsɨɨne</gword>
        <gloss>run</gloss>
        <graid>v:pred</graid>
@@ -12568,9 +12571,15 @@
        <refind>1065</refind>
       </segment>
       <segment>
-       <gword>%</gword>
-       <gloss>%</gloss>
-       <graid>%</graid>
+       <gword>#</gword>
+       <gloss>#</gloss>
+       <graid>##</graid>
+      </segment>
+      <segment>
+       <gword>0</gword>
+       <gloss>0</gloss>
+       <graid>0.h:s</graid>
+       <refind>1065</refind>
       </segment>
       <segment>
        <gword>pee-ró-náa</gword>
@@ -12657,7 +12666,7 @@
       </segment>
       <segment>
        <gword>bállií-jyu-hde-ne</gword>
-       <gloss>ash-CLF.powder-possibility-REC</gloss>
+       <gloss>ash-CLF.powder-possibility-INAN</gloss>
        <graid>np:p</graid>
        <refind>1085</refind>
        <isnref>new</isnref>
@@ -14543,7 +14552,7 @@
     <unit uid="0188" start_time="1029940" end_time="1038730">
      <utterance_id>bora_ajyuwa_0188</utterance_id>
      <utterance>aaméváa teene úlléwáuuháñeri cáátsohíjcyá teene tahcáhé déjuco májtsívamére llikilláhí tomécollá jórojórojóro, néémeréváa</utterance>
-     <utterance_translation>And they grated with pieces of a clay pot the base of the anona tree, singing "llíkíllájí tómecollá jórojórojóro", so they said</utterance_translation>
+     <utterance_translation>And they grated with pieces of a clay pot the base of the anona tree, singing "llíkíllájí tómecollá jórojórojóro”, so they said</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -17197,7 +17206,7 @@
       <segment>
        <gword>wára-u-ba</gword>
        <gloss>polish-CLF.sphere-CLF.object</gloss>
-       <graid>ln_np</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>mewa-di-vu</gword>
@@ -17973,7 +17982,7 @@
     <unit uid="0228" start_time="1243960" end_time="1246750">
      <utterance_id>bora_ajyuwa_0228</utterance_id>
      <utterance>díílle ílluune ɨ́mɨ́mócójoba íjcyane áámuhíjcyá toríñá.</utterance>
-     <utterance_translation>"Her knee is that big and she hits toriña"</utterance_translation>
+     <utterance_translation>"Her knee is that big and she hits toriña”</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -18068,7 +18077,7 @@
     <unit uid="0230" start_time="1253110" end_time="1257770">
      <utterance_id>bora_ajyuwa_0230</utterance_id>
      <utterance>aalle teeju kiávú u pééijyu juuva ɨ́ɨ́telléré áámuú toríña.</utterance>
-     <utterance_translation>"And she will look in the direction you have to go and will hit toriña"</utterance_translation>
+     <utterance_translation>"And she will look in the direction you have to go and will hit toriña”</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -18706,7 +18715,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>tujkénu-e-lle-di-vu</gword>
@@ -18756,7 +18765,7 @@
       <segment>
        <gword>u=</gword>
        <gloss>2.SG=</gloss>
-       <graid>=pro.2:s</graid>
+       <graid>=pro.2:h</graid>
        <refind>1010</refind>
       </segment>
       <segment>
@@ -18795,7 +18804,7 @@
       <segment>
        <gword>ó=</gword>
        <gloss>1.SG=</gloss>
-       <graid>=pro.1:a</graid>
+       <graid>=pro.1:h</graid>
        <refind>1010</refind>
       </segment>
       <segment>
@@ -19346,7 +19355,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>tóócújɨɨrɨ́ba</gword>
@@ -19558,7 +19567,7 @@
     <unit uid="0253" start_time="1331550" end_time="1333980">
      <utterance_id>bora_ajyuwa_0253</utterance_id>
      <utterance>áyúú taálléé ɨ́ɨ́né imyéjaú díhjyu cuvááhií.</utterance>
-     <utterance_translation>"Ah grandmother, your mouth smells delicious."</utterance_translation>
+     <utterance_translation>"Ah grandmother the smell of your mouth is so nice"</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -19708,12 +19717,12 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>wára-u-ba</gword>
        <gloss>polish-CLF.sphere-CLF.object</gloss>
-       <graid>ln_np</graid>
+       <graid>np:other</graid>
       </segment>
       <segment>
        <gword>mewa-di-vu</gword>
@@ -19736,12 +19745,12 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>wára-vu-ba</gword>
        <gloss>polish-ALL-CLF.object</gloss>
-       <graid>ln_np</graid>
+       <graid>np:other</graid>
       </segment>
       <segment>
        <gword>mewa-di-vu</gword>
@@ -19765,7 +19774,7 @@
     <unit uid="0257" start_time="1347799" end_time="1356985">
      <utterance_id>bora_ajyuwa_0257</utterance_id>
      <utterance>teene dille néhdu íñiiñétú múútsuhe iájtyúmɨ́hetu iwábohcóné éhajchótaréjuco teja íjcyánáa íjtyúhá pañe inííñúne úllelle tɨjɨ́ tɨ́jɨ.</utterance>
-     <utterance_translation>And like she had said, she got the resin from the leche the caspi tree and when she was near the house she rubbed her feet and walked ""tɨjɨ́ tɨ́jɨ".</utterance_translation>
+     <utterance_translation>And like she had said, she got the resin from the leche the caspi tree and when she was near the house she rubbed her feet and walked "“tɨjɨ́ tɨ́jɨ”.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -19932,7 +19941,7 @@
     <unit uid="0258" start_time="1357560" end_time="1361860">
      <utterance_id>bora_ajyuwa_0258</utterance_id>
      <utterance>ɨɨtécunúllé tocóhtócó ihjyá pañe dille wárácohíjcyáné ɨ́ɨ́né imíjyaúhaja péétéjájóbaúvu.</utterance>
-     <utterance_translation>She looked "tocótóco", how she polished inside her house, nice and shiny was her house.</utterance_translation>
+     <utterance_translation>She looked "tocótóco”, how she polished inside her house, nice and shiny was her house.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -20233,7 +20242,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>cállúrɨɨjɨ́ba</gword>
@@ -20266,7 +20275,7 @@
       <segment>
        <gword>tee-ja</gword>
        <gloss>3-CLF.cover</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>i-</gword>
@@ -20419,7 +20428,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>toríñá</gword>
@@ -20595,7 +20604,6 @@
        <gloss>toriña</gloss>
        <graid>np:p</graid>
        <refind>1122</refind>
-       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -20736,7 +20744,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>íjyuhéju</gword>
@@ -20814,7 +20822,7 @@
     <unit uid="0272" start_time="1421880" end_time="1424430">
      <utterance_id>bora_ajyuwa_0272</utterance_id>
      <utterance>íjyu nééllere téhulle ɨɨtécunú.</utterance>
-     <utterance_translation>"This way," she said and looked in that direction. [lit. 'The one who said, This way! looked in that direction.']</utterance_translation>
+     <utterance_translation>"This way," she said and looked in that direction.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -20828,11 +20836,21 @@
        <refind>1124</refind>
       </segment>
       <segment>
+       <gword>#</gword>
+       <gloss>#</gloss>
+       <graid>#ds</graid>
+      </segment>
+      <segment>
        <gword>í-ju</gword>
        <gloss>this-CLF.path</gloss>
-       <graid>other</graid>
+       <graid>pro:g</graid>
        <refind>1132</refind>
        <isnref>bridging</isnref>
+      </segment>
+      <segment>
+       <gword>%</gword>
+       <gloss>%</gloss>
+       <graid>%</graid>
       </segment>
       <segment>
        <gword>nee</gword>
@@ -20965,7 +20983,7 @@
     <unit uid="0275" start_time="1434180" end_time="1441070">
      <utterance_id>bora_ajyuwa_0275</utterance_id>
      <utterance>Péhíjcyalle lleebúcunúté kiávú tócóhtócó tócó mɨ́amúnaa kiá teene páácamɨ cúúneé.</utterance>
-     <utterance_translation>While she was walking she heard "tócó tócó tócó" people hitting ojé trees.</utterance_translation>
+     <utterance_translation>While she was walking she heard “tócó tócó tócó” people hitting ojé trees.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -21610,7 +21628,6 @@
        <gloss>-CLF.pointed</gloss>
        <graid>-pro:s</graid>
        <refind>1136</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>%</gword>
@@ -21628,6 +21645,7 @@
        <gloss>comején-CLF.pointed</gloss>
        <graid>np:p</graid>
        <refind>1136</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>me=</gword>
@@ -21961,7 +21979,7 @@
     <unit uid="0290" start_time="1493080" end_time="1495350">
      <utterance_id>bora_ajyuwa_0290</utterance_id>
      <utterance>teenéváa pácámɨcojááné dille óónováne óónováne.</utterance>
-     <utterance_translation>She painted that ojé tree, (she) painted.</utterance_translation>
+     <utterance_translation>She painted that ojé tree, she painted.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -22795,7 +22813,7 @@
     <unit uid="0301" start_time="1546580" end_time="1564040">
      <utterance_id>bora_ajyuwa_0301</utterance_id>
      <utterance>aabéváa teene mútsɨ́ɨ́tsɨ llééneri íjcyaabe ihdyu mátsívahíjcyá: nééwáñéjcurí ajyúwá eevácotu muha meúmɨváne, tsítsítsítsí tóbucúru tsarararara nehíjcyaabéváaá.</utterance>
-     <utterance_translation>And eating this caimito, he sang like this: "From the pregnancy of the daughter of black stone woman we had fled - tsítsítsítsí tóbucúru, tsarararara," like that he said.</utterance_translation>
+     <utterance_translation>And eating this caimito, he sang like this: "From the pregnancy of the daughter of black stone woman we had fled - tsítsítsítsí tóbucúru, tsarararara,” like that he said.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -23217,7 +23235,7 @@
       <segment>
        <gword>di-lle</gword>
        <gloss>3-F.SG</gloss>
-       <graid>ln</graid>
+       <graid>other</graid>
       </segment>
       <segment>
        <gword>tsɨɨ́ju</gword>
@@ -25345,7 +25363,7 @@
       </segment>
       <segment>
        <gword>éhlle-vu</gword>
-       <gloss>away-ALL</gloss>
+       <gloss>away-ADL</gloss>
        <graid>other</graid>
       </segment>
       <segment>

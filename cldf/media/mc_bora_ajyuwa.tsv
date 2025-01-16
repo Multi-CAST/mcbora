@@ -12,7 +12,7 @@ bora	ajyuwa	0002	cohbo-du	continuation-CMPV	np:other	np		other
 bora	ajyuwa	0002	tsɨ́ɨ́mene-va-híjcya	child-VBZ.have-REP	v:pred	v		pred		
 bora	ajyuwa	0002	-Vbe	-M.SG	-pro.h:s	-pro	h	s	1002	
 bora	ajyuwa	0003	#	#	##	##				
-bora	ajyuwa	0003	tee-ne-lliíhye	3-INAN-BEN	ln	ln				
+bora	ajyuwa	0003	tee-ne-lliíhye	3-INAN-BEN	other	other				
 bora	ajyuwa	0003	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss	1002	
 bora	ajyuwa	0003	ja	house	np:p	np		p	1003	new
 bora	ajyuwa	0003	meenu	do	v:pred	v		pred		
@@ -64,7 +64,7 @@ bora	ajyuwa	0007	aa	CON	other	other
 bora	ajyuwa	0007	-me	-CLF.PL	-pro.h:dt_a	-pro	h	dt_a	1007	
 bora	ajyuwa	0007	-va-pe	-QUOT-REM	-other	-other				
 bora	ajyuwa	0007	tsúúca	already	other	other				
-bora	ajyuwa	0007	tee-ne	3-INAN	ln	ln				
+bora	ajyuwa	0007	tee-ne	3-INAN	other	other				
 bora	ajyuwa	0007	wallee-mu	woman-PL	np.h:a	np	h	a	1007	
 bora	ajyuwa	0007	íjtya-mu	starch-PL	np:p	np		p	1008	new
 bora	ajyuwa	0007	ujcu-juco-hi	get-AFIR-PRED	v:pred	v		pred		
@@ -613,7 +613,7 @@ bora	ajyuwa	0049	núcójpɨɨ́	shame	np:obl	np		obl
 bora	ajyuwa	0050	#	#	##ds	##ds				
 bora	ajyuwa	0050	í-du-va-acá-pe	this-CMPV-QUOT-IFR-REM	other	other				
 bora	ajyuwa	0050	di-Vbe-re	3-M.SG-REST	pro.h:a	pro	h	a	1020	
-bora	ajyuwa	0050	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0050	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0050	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss		
 bora	ajyuwa	0050	naálle-ke	sister-ACC	np.h:p	np	h	p	1010	
 bora	ajyuwa	0050	eeva-tso-hi	be_pregnant-CAUS-PRED	v:pred	v		pred		
@@ -743,7 +743,7 @@ bora	ajyuwa	0059	%	%	%	%
 bora	ajyuwa	0059	i=	3=	=pro.h:a	=pro	h	a	1002	
 bora	ajyuwa	0059	nɨjkéva-tsi-tu	end-CLF.place-ABL	v:pred	v		pred		
 bora	ajyuwa	0059	#	#	##	##				
-bora	ajyuwa	0059	0	0	0:p	0		p	1036	bridging
+bora	ajyuwa	0059	0	0	0:p	0		p	1036	
 bora	ajyuwa	0059	waao	throw_away	v:pred	v		pred		
 bora	ajyuwa	0059	-Vbe	-M.SG	-pro.h:a	-pro	h	a	1002	
 bora	ajyuwa	0059	di-jtépɨ-ke	3-F.DU-ACC	pro.h:g	pro	h	g	1035	new
@@ -780,7 +780,7 @@ bora	ajyuwa	0061	di-Vbe	3-M.SG	pro.h:s	pro	h	s	1002
 bora	ajyuwa	0061	nee-ne-lliíhye	say-INAN-BEN	v:pred	v		pred		
 bora	ajyuwa	0061	%	%	%	%				
 bora	ajyuwa	0061	#	#	#ac	#ac				
-bora	ajyuwa	0061	tee-rutsi	3-CLF.basket	pro:p	pro		p	1036	
+bora	ajyuwa	0061	tee-rutsi	3-CLF.basket	pro:p	pro		p	1036	bridging
 bora	ajyuwa	0061	i=	3=	=pro.h:a	=pro	h	a	1035	
 bora	ajyuwa	0061	éke-Vve-iñu-ne	take-SG.INTR-DIR.leave-INAN	v:pred	v		pred		
 bora	ajyuwa	0061	%	%	%	%				
@@ -797,7 +797,7 @@ bora	ajyuwa	0063	-múpɨ	-F.DU	-pro.h:a	-pro	h	a	1035
 bora	ajyuwa	0063	-va-pe	-QUOT-REM	-other	-other				
 bora	ajyuwa	0063	páma-úcu-híjcya-ró	scoop_water-SG.TR-REP-FRUS	v:pred	v		pred		
 bora	ajyuwa	0063	tee-ne	3-INAN	other	other				
-bora	ajyuwa	0063	nú-jpacyó	water-CLF.liquid	np:p	np		p	1163	
+bora	ajyuwa	0063	nú-jpacyó	water-CLF.liquid	np:p	np		p	1163	bridging
 bora	ajyuwa	0064	#	#	##	##				
 bora	ajyuwa	0064	#	#	#ac	#ac				
 bora	ajyuwa	0064	muhdu	how	other	other				
@@ -865,7 +865,7 @@ bora	ajyuwa	0069	íllu-re-juco	so-REST-AFIR	other	other
 bora	ajyuwa	0069	di-Vbe	3-M.SG	pro.h:a	pro	h	a	1002	
 bora	ajyuwa	0069	núbɨ́jco-ne	kick-INAN	v:pred	v		pred		
 bora	ajyuwa	0069	#	#	##	##				
-bora	ajyuwa	0069	iimídyo	tuyuyu_bird	np.n:p	np	n	p	1059	bridging
+bora	ajyuwa	0069	iimídyo	tuyuyu_bird	np.n:p	np	n	p	1059	
 bora	ajyuwa	0069	ɨjto-me	smoke-PL	np:a	np		a	1041	
 bora	ajyuwa	0069	me=	1.PL=	=lv_pro_h_a	=lv_pro_h_a			1041	
 bora	ajyuwa	0069	ne-híjcya-i	INAN-REP-FUT	v:pred	v		pred		
@@ -1088,10 +1088,10 @@ bora	ajyuwa	0087	nehco	search	v:pred	v		pred
 bora	ajyuwa	0087	-múpɨ	-F.DU	-pro.h:a	-pro	h	a	1035	
 bora	ajyuwa	0087	í-du	this-CMPV	other	other				
 bora	ajyuwa	0088	#	#	##	##				
-bora	ajyuwa	0088	#	#	#rc:obl	#rc		obl	1164	bridging
+bora	ajyuwa	0088	#	#	#rc:obl	#rc		obl	1164	
 bora	ajyuwa	0088	di-te-ne	3-PL-REC	pro.d:s	pro	d	s	1045	
 bora	ajyuwa	0088	wámóha-Vve	march-SG.INTR	v:pred	v		pred		
-bora	ajyuwa	0088	ijcya-ju-ri	be-CLF.path-LOC	other:obl	other		obl	1164	
+bora	ajyuwa	0088	ijcya-ju-ri	be-CLF.path-LOC	other:obl	other		obl	1164	bridging
 bora	ajyuwa	0088	%	%	%	%				
 bora	ajyuwa	0088	peve-ne-re-juco	empty-INAN-REST-AFIR	other	other				
 bora	ajyuwa	0088	di-jtépɨ	3-F.DU	pro.h:s	pro	h	s	1035	
@@ -1100,7 +1100,7 @@ bora	ajyuwa	0088	#	#	##	##
 bora	ajyuwa	0088	#	#	#rc:obl	#rc		obl	1164	
 bora	ajyuwa	0088	di-te	3-PL	other	other				
 bora	ajyuwa	0088	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss		
-bora	ajyuwa	0088	jeéu-mu	pet-PL	ln_np.d	ln_np	d		1050	bridging
+bora	ajyuwa	0088	jeéu-mu	pet-PL	ln_np.d	ln_np	d		1050	
 bora	ajyuwa	0088	di-Vbe	3-M.SG	other	other				
 bora	ajyuwa	0088	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss		
 bora	ajyuwa	0088	jeéu	pet	np.d:pred	np	d	pred	1045	
@@ -1322,7 +1322,7 @@ bora	ajyuwa	0105	úniu-ri	side-LOC	np:pred	np		pred
 bora	ajyuwa	0105	mááhoó-hajcu	casabe-CLF.pillar	np:s	np		s	1056	
 bora	ajyuwa	0106	#	#	##	##				
 bora	ajyuwa	0106	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
-bora	ajyuwa	0106	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0106	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0106	ámíalle	eldest	np.h:s	np	h	s	1060	bridging
 bora	ajyuwa	0106	waajácu	know	v:pred	v		pred		
 bora	ajyuwa	0106	#	#	#cc	#cc				
@@ -1338,14 +1338,14 @@ bora	ajyuwa	0106	cóóju-he	avocado-CLF.tree	np:pred	np		pred
 bora	ajyuwa	0106	ijcya-ne	be-INAN	cop	cop				
 bora	ajyuwa	0107	#	#	##	##				
 bora	ajyuwa	0107	aa-ne-ma-va-pe	CON-INAN-BEN-QUOT-REM	other	other				
-bora	ajyuwa	0107	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0107	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0107	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss	1060	
-bora	ajyuwa	0107	naálle-ke	sister-ACC	np.h:p	np	h	p	1010	
+bora	ajyuwa	0107	naálle-ke	sister-ACC	np.h:p	np	h	p	1010	bridging
 bora	ajyuwa	0107	nee	say	v:pred	v		pred		
 bora	ajyuwa	0107	-lle	-F.SG	-pro.h:a	-pro	h	a	1060	
 bora	ajyuwa	0108	#	#	##	##				
 bora	ajyuwa	0108	aa-ijyu	CON-CLF.time	other	other				
-bora	ajyuwa	0108	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0108	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0108	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss	1060	
 bora	ajyuwa	0108	naálle	sister	np.h:s	np	h	s	1010	
 bora	ajyuwa	0108	boóne-lle-re	after-F.SG-REST	other	other				
@@ -1356,7 +1356,7 @@ bora	ajyuwa	0108	ámíalle	eldest	np.h:s	np	h	s	1060
 bora	ajyuwa	0108	eeva-tu-ne	be_pregnant-NEG-INAN	v:pred	v		pred		
 bora	ajyuwa	0109	#	#	##	##				
 bora	ajyuwa	0109	aa-ne	CON-INAN	other	other				
-bora	ajyuwa	0109	#	#	#rc.h:p	#rc	h	p	1010	
+bora	ajyuwa	0109	#	#	#cc:p	#cc		p		
 bora	ajyuwa	0109	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0109	i=	3=	=pro.h:s	=pro	h	s	1010	
 bora	ajyuwa	0109	eeva	be_pregnant	v:pred	v		pred		
@@ -1552,7 +1552,9 @@ bora	ajyuwa	0121	illo-híjcya-ne	fell-REP-INAN	v:pred	v		pred
 bora	ajyuwa	0121	tooo	shot	other	other				
 bora	ajyuwa	0121	tooo	shot	other	other				
 bora	ajyuwa	0122	#	#	##	##				
+bora	ajyuwa	0122	#	#	#ds	#ds				
 bora	ajyuwa	0122	ícyaj	baj!	other	other				
+bora	ajyuwa	0122	%	%	%	%				
 bora	ajyuwa	0122	nee	say	v:pred	v		pred		
 bora	ajyuwa	0122	-lle	-F.SG	-pro.h:s_ds	-pro	h	s_ds	1010	
 bora	ajyuwa	0122	#	#	#ds	#ds				
@@ -1938,7 +1940,7 @@ bora	ajyuwa	0148	peete-juco-ne	burn-AFIR-REC	v:pred	v		pred
 bora	ajyuwa	0149	#	#	##	##				
 bora	ajyuwa	0149	tsúúca	already	other	other				
 bora	ajyuwa	0149	idyé	also	other	other				
-bora	ajyuwa	0149	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0149	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0149	mewa	wife	np.h:a	np	h	a	1072	
 bora	ajyuwa	0149	tsa-jɨ	one-CLF.disc	pro:p	pro		p	1082	bridging
 bora	ajyuwa	0149	bohdo-úcu-juco	take_out-SG.TR-AFIR	v:pred	v		pred		
@@ -2108,7 +2110,7 @@ bora	ajyuwa	0161	dsɨɨne-ne	run-INAN	v:pred	v		pred
 bora	ajyuwa	0162	#	#	##	##				
 bora	ajyuwa	0162	aa-ne-acá-va-pe	CON-INAN-IFR-QUOT-REM	other	other				
 bora	ajyuwa	0162	í-nejcu-tu	this-CLF.side-ABL	other	other				
-bora	ajyuwa	0162	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0162	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0162	di-Vbe	3-M.SG	ln_pro.h:poss	ln_pro	h	poss	1065	
 bora	ajyuwa	0162	taába	wife	np.h:a	np	h	a	1072	
 bora	ajyuwa	0162	di-Vbe	3-M.SG	ln_pro.h:poss	ln_pro	h	poss	1065	
@@ -2122,10 +2124,10 @@ bora	ajyuwa	0163	-va-pe	-QUOT-REM	-other	-other
 bora	ajyuwa	0163	dsɨɨne	run	v:pred	v		pred		
 bora	ajyuwa	0163	-Vbe	-M.SG	-pro.h:s	-pro	h	s	1065	
 bora	ajyuwa	0163	#	#	##	##				
-bora	ajyuwa	0163	#	#	#rc.h:s	#rc	h	s	1065	
 bora	ajyuwa	0163	dsɨɨne	run	v:pred	v		pred		
 bora	ajyuwa	0163	-Vbe	-M.SG	-pro.h:s	-pro	h	s	1065	
-bora	ajyuwa	0163	%	%	%	%				
+bora	ajyuwa	0163	#	#	##	##				
+bora	ajyuwa	0163	0	0	0.h:s	0	h	s	1065	
 bora	ajyuwa	0163	pee-ró-náa	go-FRUS-SIM	v:pred	v		pred		
 bora	ajyuwa	0163	#	#	#ac	#ac				
 bora	ajyuwa	0163	di-Vbe	3-M.SG	ln_pro.h:poss	ln_pro	h	poss	1065	
@@ -2140,7 +2142,7 @@ bora	ajyuwa	0164	nee	say	v:pred	v		pred
 bora	ajyuwa	0164	-Vbe	-M.SG	-pro.h:s_ds	-pro	h	s_ds	1065	
 bora	ajyuwa	0164	#	#	##ds	##ds				
 bora	ajyuwa	0164	ta-	1.SG.POSS-	-ln_pro.1:poss	-ln_pro	1	poss	1065	
-bora	ajyuwa	0164	bállií-jyu-hde-ne	ash-CLF.powder-possibility-REC	np:p	np		p	1085	new
+bora	ajyuwa	0164	bállií-jyu-hde-ne	ash-CLF.powder-possibility-INAN	np:p	np		p	1085	new
 bora	ajyuwa	0164	ó=	1.SG=	=pro.1:a	=pro	1	a	1065	
 bora	ajyuwa	0164	uuje-iñu-náa	go-DIR.leave-SIM	v:pred	v		pred		
 bora	ajyuwa	0165	#	#	##	##				
@@ -2917,7 +2919,7 @@ bora	ajyuwa	0217	#	#	##ds	##ds
 bora	ajyuwa	0217	úúú	fine	other	other				
 bora	ajyuwa	0217	u=	2.SG=	=pro.2:s	=pro	2	s	1010	
 bora	ajyuwa	0217	úújete	reach	v:pred	v		pred		
-bora	ajyuwa	0217	wára-u-ba	polish-CLF.sphere-CLF.object	ln_np	ln_np				
+bora	ajyuwa	0217	wára-u-ba	polish-CLF.sphere-CLF.object	other	other				
 bora	ajyuwa	0217	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1114	new
 bora	ajyuwa	0218	#	#	##ds	##ds				
 bora	ajyuwa	0218	aa-ne	CON-INAN	other	other				
@@ -3169,7 +3171,7 @@ bora	ajyuwa	0238	di-lle	3-F.SG	pro.h:s	pro	h	s	1100
 bora	ajyuwa	0238	nee-du	say-CMPV	v:pred	v		pred		
 bora	ajyuwa	0238	%	%	%	%				
 bora	ajyuwa	0238	úújete-ne	reach-INAN	v:pred	v		pred		
-bora	ajyuwa	0238	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0238	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0238	tujkénu-e-lle-di-vu	first-PERT-F.SG-ANIM-ALL	np.h:g	np	h	g	1110	
 bora	ajyuwa	0238	teéte-hjɨ	callampa_mushroom-PL	np:other	np		other		
 bora	ajyuwa	0238	mewa-di-vu	wife-ANIM-ALL	np.h:appos	np	h	appos	1110	
@@ -3177,13 +3179,13 @@ bora	ajyuwa	0239	#	#	##ds	##ds
 bora	ajyuwa	0239	áyu	okay	other	other				
 bora	ajyuwa	0239	waháro	mother	np.h:voc	np	h	voc	1010	
 bora	ajyuwa	0239	kiá-hjɨ-tu-ami	where-PL-ABL-incredulity	other	other				
-bora	ajyuwa	0239	u=	2.SG=	=pro.2:s	=pro	2	s	1010	
+bora	ajyuwa	0239	u=	2.SG=	=pro.2:h	=pro	2	h	1010	
 bora	ajyuwa	0239	tsaa	come	v:pred	v		pred		
 bora	ajyuwa	0240	#	#	##	##				
 bora	ajyuwa	0240	#	#	#ds	#ds				
 bora	ajyuwa	0240	tsáha	no	other	other				
 bora	ajyuwa	0240	llihíyo-mu-ke	father-PL-ACC	np.h:p	np	h	p	1019	
-bora	ajyuwa	0240	ó=	1.SG=	=pro.1:a	=pro	1	a	1010	
+bora	ajyuwa	0240	ó=	1.SG=	=pro.1:h	=pro	1	h	1010	
 bora	ajyuwa	0240	úra-Vve-hi	follow-SG.INTR-PRED	v:pred	v		pred		
 bora	ajyuwa	0240	%	%	%	%				
 bora	ajyuwa	0240	nee	say	v:pred	v		pred		
@@ -3275,7 +3277,7 @@ bora	ajyuwa	0248	-lle	-F.SG	-pro.h:s	-pro	h	s	1010
 bora	ajyuwa	0248	%	%	%	%				
 bora	ajyuwa	0248	idyé	also	other	other				
 bora	ajyuwa	0248	úújete	reach	v:pred	v		pred		
-bora	ajyuwa	0248	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0248	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0248	tóócújɨɨrɨ́ba	tóócújɨɨrɨ́ba	np:other	np		other		
 bora	ajyuwa	0248	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1112	
 bora	ajyuwa	0249	#	#	##ds	##ds				
@@ -3333,12 +3335,12 @@ bora	ajyuwa	0255	pee	go	v:pred	v		pred
 bora	ajyuwa	0255	-lle	-F.SG	-pro.h:s	-pro	h	s	1010	
 bora	ajyuwa	0255	%	%	%	%				
 bora	ajyuwa	0255	úújete	reach	v:pred	v		pred		
-bora	ajyuwa	0255	di-lle	3-F.SG	ln	ln				
-bora	ajyuwa	0255	wára-u-ba	polish-CLF.sphere-CLF.object	ln_np	ln_np				
+bora	ajyuwa	0255	di-lle	3-F.SG	other	other				
+bora	ajyuwa	0255	wára-u-ba	polish-CLF.sphere-CLF.object	np:other	np		other		
 bora	ajyuwa	0255	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1114	
 bora	ajyuwa	0256	#	#	##	##				
-bora	ajyuwa	0256	di-lle	3-F.SG	ln	ln				
-bora	ajyuwa	0256	wára-vu-ba	polish-ALL-CLF.object	ln_np	ln_np				
+bora	ajyuwa	0256	di-lle	3-F.SG	other	other				
+bora	ajyuwa	0256	wára-vu-ba	polish-ALL-CLF.object	np:other	np		other		
 bora	ajyuwa	0256	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1114	
 bora	ajyuwa	0256	úújete	reach	v:pred	v		pred		
 bora	ajyuwa	0256	-lle	-F.SG	-pro.h:s	-pro	h	s	1010	
@@ -3422,12 +3424,12 @@ bora	ajyuwa	0262	pee	go	v:pred	v		pred
 bora	ajyuwa	0262	-lle	-F.SG	-pro.h:s	-pro	h	s	1010	
 bora	ajyuwa	0262	%	%	%	%				
 bora	ajyuwa	0262	úújete	reach	v:pred	v		pred		
-bora	ajyuwa	0262	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0262	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0262	cállúrɨɨjɨ́ba	cállúrɨɨjɨ́ba	np:other	np		other		
 bora	ajyuwa	0262	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1118	
 bora	ajyuwa	0263	#	#	##	##				
 bora	ajyuwa	0263	pa-cállúrɨ́jɨɨ	complete-bend	v:pred	v		pred		
-bora	ajyuwa	0263	tee-ja	3-CLF.cover	ln	ln				
+bora	ajyuwa	0263	tee-ja	3-CLF.cover	other	other				
 bora	ajyuwa	0263	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss	1118	
 bora	ajyuwa	0263	ja	house	np:s	np		s	1120	
 bora	ajyuwa	0263	#	#	##	##				
@@ -3451,7 +3453,7 @@ bora	ajyuwa	0265	pee	go	v:pred	v		pred
 bora	ajyuwa	0266	#	#	##ds	##ds				
 bora	ajyuwa	0266	í-ju-vu	this-CLF.path-ALL	pro:g	pro		g	1130	bridging
 bora	ajyuwa	0266	tee-ne	3-INAN	other	other				
-bora	ajyuwa	0266	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0266	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0266	toríñá	toriña	np:other	np		other		
 bora	ajyuwa	0266	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1121	
 bora	ajyuwa	0267	#	#	##	##				
@@ -3481,7 +3483,7 @@ bora	ajyuwa	0268	tee-ne	3-INAN	other	other
 bora	ajyuwa	0268	i-	3-	-ln_pro.h:poss	-ln_pro	h	poss	1121	
 bora	ajyuwa	0268	mɨ́moco	knee	np:a	np		a	1123	
 bora	ajyuwa	0268	áámu	beat	v:pred	v		pred		
-bora	ajyuwa	0268	toríñá	toriña	np:p	np		p	1122	bridging
+bora	ajyuwa	0268	toríñá	toriña	np:p	np		p	1122	
 bora	ajyuwa	0269	#	#	##	##				
 bora	ajyuwa	0269	#	#	#rc.h:s	#rc	h	s	1010	
 bora	ajyuwa	0269	aa-du-juco-va-pe	CON-CMPV-AFIR-QUOT-REM	other	other				
@@ -3505,7 +3507,7 @@ bora	ajyuwa	0270	-lle	-F.SG	-pro.h:s	-pro	h	s	1010
 bora	ajyuwa	0270	%	%	%	%				
 bora	ajyuwa	0270	tsúúca	already	other	other				
 bora	ajyuwa	0270	úújete	reach	v:pred	v		pred		
-bora	ajyuwa	0270	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0270	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0270	íjyuhéju	íjyuhéju	np:other	np		other		
 bora	ajyuwa	0270	mewa-di-vu	wife-ANIM-ALL	np.h:g	np	h	g	1124	
 bora	ajyuwa	0271	#	#	##	##				
@@ -3520,7 +3522,9 @@ bora	ajyuwa	0271	ó=	1.SG=	=pro.1:s	=pro	1	s	1010
 bora	ajyuwa	0271	pee	go	v:pred	v		pred		
 bora	ajyuwa	0272	#	#	##	##				
 bora	ajyuwa	0272	#	#	#rc.h:s	#rc	h	s	1124	
-bora	ajyuwa	0272	í-ju	this-CLF.path	other	other			1132	bridging
+bora	ajyuwa	0272	#	#	#ds	#ds				
+bora	ajyuwa	0272	í-ju	this-CLF.path	pro:g	pro		g	1132	bridging
+bora	ajyuwa	0272	%	%	%	%				
 bora	ajyuwa	0272	nee	say	v:pred	v		pred		
 bora	ajyuwa	0272	-lle	-F.SG	-pro.h:s_ds	-pro	h	s_ds	1124	
 bora	ajyuwa	0272	-re	-REST	-rv	-rv				
@@ -3652,10 +3656,10 @@ bora	ajyuwa	0282	Píívyéébe	God	np.h:other	np	h	other	1002
 bora	ajyuwa	0282	úmɨhe	field	np:other	np		other	1137	new
 bora	ajyuwa	0282	hallu-tu	back-ABL	np:obl	np		obl		
 bora	ajyuwa	0282	ijcya	be	v:pred	v		pred		
-bora	ajyuwa	0282	-co	-CLF.pointed	-pro:s	-pro		s	1136	new
+bora	ajyuwa	0282	-co	-CLF.pointed	-pro:s	-pro		s	1136	
 bora	ajyuwa	0282	%	%	%	%				
 bora	ajyuwa	0282	muha	1.PL.EXCL	pro.1:a	pro	1	a	1133	
-bora	ajyuwa	0282	booámu-co	comején-CLF.pointed	np:p	np		p	1136	
+bora	ajyuwa	0282	booámu-co	comején-CLF.pointed	np:p	np		p	1136	new
 bora	ajyuwa	0282	me=	1.PL=	=lv_pro_1_a	=lv_pro_1_a			1133	
 bora	ajyuwa	0282	majcho-te-ki	eat-PL-PURP	v:pred	v		pred		
 bora	ajyuwa	0282	%	%	%	%				
@@ -3926,7 +3930,7 @@ bora	ajyuwa	0302	ijcya	be	cop	cop
 bora	ajyuwa	0302	-lle	-F.SG	-pro.h:s	-pro	h	s	1010	
 bora	ajyuwa	0303	#	#	##	##				
 bora	ajyuwa	0303	aa-ne-va-pe	CON-INAN-QUOT-REM	other	other				
-bora	ajyuwa	0303	di-lle	3-F.SG	ln	ln				
+bora	ajyuwa	0303	di-lle	3-F.SG	other	other				
 bora	ajyuwa	0303	tsɨɨ́ju	mother	np.h:a	np	h	a	1011	
 bora	ajyuwa	0303	#	#	#rc	#rc				
 bora	ajyuwa	0303	mátsajca	peanut	np:other	np		other		
@@ -4288,7 +4292,7 @@ bora	ajyuwa	0331	e-tsi	that-CLF.place	other	other
 bora	ajyuwa	0331	me=	1.PL=	=lv_pro_2_a	=lv_pro_2_a			1147	
 bora	ajyuwa	0331	ca-chúi-hco	point-prick-MULT.TR	v:pred	v		pred		
 bora	ajyuwa	0331	#	#	#ds	#ds				
-bora	ajyuwa	0331	éhlle-vu	away-ALL	other	other				
+bora	ajyuwa	0331	éhlle-vu	away-ADL	other	other				
 bora	ajyuwa	0331	me=	1.PL=	=pro.2:s	=pro	2	s	1147	
 bora	ajyuwa	0331	pee	go	v:pred	v		pred		
 bora	ajyuwa	0332	#	#	##	##				
